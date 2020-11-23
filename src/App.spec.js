@@ -1,4 +1,7 @@
 import { shallow } from 'enzyme';
+import { HashRouter as Router, Switch, Route } from 'react-router-dom'
+
+import { HomePage, DashboardPage } from 'components/Pages'
 import App from './App'
 
 describe('(Component) App', () => {
@@ -6,7 +9,12 @@ describe('(Component) App', () => {
     const wrapper = shallow(<App />)
 
     expect(wrapper.equals(
-      <div>test</div>
+      <Router>
+        <Switch>
+          <Route exact path="/" children={<HomePage />} />
+          <Route path="/dashboard" children={<DashboardPage />} />
+        </Switch>
+      </Router>
     )).to.equal(true)
   });
 });
