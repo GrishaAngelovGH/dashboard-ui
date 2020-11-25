@@ -1,7 +1,7 @@
 import LinkButton from 'components/LinkButton'
 import PageSection from 'components/Pages/PageSection'
 
-import { DashboardsOverview } from 'images'
+import { dashboardsOverview } from 'images'
 import DashboardOverviewSection from './DashboardOverviewSection'
 
 describe('(Component) DashboardOverviewSection', () => {
@@ -35,7 +35,7 @@ describe('(Component) DashboardOverviewSection', () => {
 
                         <div className='row no-gutters justify-content-center mt-2'>
                             <div className='col-md-4'>
-                                <img src={DashboardsOverview} className='img-fluid' />
+                                <img src={dashboardsOverview} className='img-fluid' />
                             </div>
                         </div>
                     </div>

@@ -33,7 +33,7 @@ describe('(Component) Layout', () => {
         const wrapper = shallow(<Layout.Body content={body} />)
 
         expect(wrapper.equals(
-            <div className='row'>
+            <div className='row no-gutters'>
                 <div className='col-md-12'>
                     <span>body</span>
                 </div>

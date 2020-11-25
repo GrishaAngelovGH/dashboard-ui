@@ -1,5 +1,6 @@
-import DashboardsOverview from './dashboards-overview.gif'
+import dashboardsOverview from './dashboards-overview.gif'
+
 
 export {
-    DashboardsOverview
+    dashboardsOverview
 }

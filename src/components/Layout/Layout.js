@@ -18,7 +18,7 @@ Layout.Header = ({ content }) => (
 )
 
 Layout.Body = ({ content }) => (
-    <div className='row'>
+    <div className='row no-gutters'>
         <div className='col-md-12'>
             {content}
         </div>

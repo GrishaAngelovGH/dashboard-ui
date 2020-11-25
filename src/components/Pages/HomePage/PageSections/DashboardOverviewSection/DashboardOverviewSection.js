@@ -1,7 +1,7 @@
 import LinkButton from 'components/LinkButton'
 import PageSection from 'components/Pages/PageSection'
 
-import { DashboardsOverview } from 'images'
+import { dashboardsOverview } from 'images'
 
 const DashboardOverviewSection = () => (
     <PageSection color='#0b3d7f'>
@@ -30,7 +30,7 @@ const DashboardOverviewSection = () => (
 
                 <div className='row no-gutters justify-content-center mt-2'>
                     <div className='col-md-4'>
-                        <img src={DashboardsOverview} className='img-fluid' />
+                        <img src={dashboardsOverview} className='img-fluid' />
                     </div>
                 </div>
             </div>
