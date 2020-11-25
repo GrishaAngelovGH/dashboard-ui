@@ -9,7 +9,7 @@ describe('(Component) Layout', () => {
         const wrapper = shallow(<Layout header={header} body={body} />)
 
         expect(wrapper.equals(
-            <div className='row'>
+            <div className='row no-gutters'>
                 <div className='col-md-12'>
                     <Layout.Header content={header} />
                     <Layout.Body content={body} />
@@ -22,7 +22,7 @@ describe('(Component) Layout', () => {
         const wrapper = shallow(<Layout.Header content={header} />)
 
         expect(wrapper.equals(
-            <div className='row'>
+            <div className='row no-gutters'>
                 <div className='col-md-12'>
                     <span>header</span>
                 </div>

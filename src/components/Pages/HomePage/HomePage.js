@@ -1,3 +1,8 @@
-const HomePage = () => (<div>home page</div>)
+import Layout from 'components/Layout'
+import Menu from './Menu'
+
+const HomePage = () => (
+    <Layout header={<Menu />} body={<span></span>} />
+)
 
 export default HomePage

@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types'
 
 const Layout = ({ header, body }) => (
-    <div className='row'>
+    <div className='row no-gutters'>
         <div className='col-md-12'>
             <Layout.Header content={header} />
             <Layout.Body content={body} />
@@ -10,7 +10,7 @@ const Layout = ({ header, body }) => (
 )
 
 Layout.Header = ({ content }) => (
-    <div className='row'>
+    <div className='row no-gutters'>
         <div className='col-md-12'>
             {content}
         </div>

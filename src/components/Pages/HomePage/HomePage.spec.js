@@ -1,3 +1,6 @@
+import Layout from 'components/Layout'
+import Menu from './Menu'
+
 import HomePage from './HomePage'
 
 describe('(Component) HomePage', () => {
@@ -5,7 +8,7 @@ describe('(Component) HomePage', () => {
         const wrapper = shallow(<HomePage />)
 
         expect(wrapper.equals(
-            <div>home page</div>
+            <Layout header={<Menu />} body={<span></span>} />
         )).to.equal(true)
     })
 })
