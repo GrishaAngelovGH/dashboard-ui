@@ -1,0 +1,13 @@
+$color: #ffffff;
+
+.link-button {
+    color: $color;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    border: 2px solid $color;
+    text-transform: uppercase;
+    &:hover {
+        color: $color;
+    }
+}
