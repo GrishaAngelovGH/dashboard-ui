@@ -3,8 +3,9 @@ $navLinkBgColor: #ced9e9;
 
 .navbar-menu-container {
     height: $containerHeight;
-    // margin-left: 0px !important;
-    // margin-right: 0px !important;
+    > * {
+        z-index: 5;
+    }
 }
 
 .bg-nav-color {
