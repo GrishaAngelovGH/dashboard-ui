@@ -1,4 +1,3 @@
-import { shallow } from 'enzyme';
 import Layout from './Layout'
 
 describe('(Component) Layout', () => {

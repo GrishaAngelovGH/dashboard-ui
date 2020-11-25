@@ -1,4 +1,3 @@
-import { shallow } from 'enzyme';
 import LinkButton from 'components/LinkButton'
 import PageSection from 'components/Pages/PageSection'
 

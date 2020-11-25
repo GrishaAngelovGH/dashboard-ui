@@ -1,4 +1,3 @@
-import { shallow } from 'enzyme';
 import LinkButton from './LinkButton'
 
 describe('(Component) LinkButton', () => {
