@@ -4,7 +4,8 @@ import Menu from './Menu'
 import {
     DashboardOverviewSection,
     DataOverviewSection,
-    DashboardComponentsOverview
+    DashboardComponentsOverview,
+    SummaryOverviewSection
 } from './PageSections'
 
 const types = [
@@ -26,12 +27,22 @@ const components = [
     ]
 ]
 
+const summary = [
+    { value: '7+', label: 'supported platforms', inverted: false },
+    { value: '17+', label: 'customizable elements', inverted: true },
+    { value: '11', label: 'preset styles', inverted: false },
+    { value: '42', label: 'supported charts', inverted: true },
+    { value: '18', label: 'format exports', inverted: false },
+    { value: '40+', label: 'interface localizations', inverted: true }
+]
+
 export const Body = () => (
     <div className='row no-gutters'>
         <div className='col-md-12'>
             <DashboardOverviewSection />
             <DataOverviewSection types={types} />
             <DashboardComponentsOverview components={components} />
+            <SummaryOverviewSection summary={summary} />
         </div>
     </div>
 )
