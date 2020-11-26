@@ -29,7 +29,7 @@ const DashboardOverviewSection = () => (
                 </div>
 
                 <div className='row no-gutters justify-content-center mt-2'>
-                    <div className='col-md-4'>
+                    <div className='col-md-4 col-lg-3'>
                         <img src={dashboardsOverview} className='img-fluid' />
                     </div>
                 </div>
