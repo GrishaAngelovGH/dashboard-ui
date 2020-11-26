@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types'
 
 const PageSection = ({ color, children }) => (
-    <div className='row no-gutters' style={{ background: color, height: 500 }}>
+    <div className='row no-gutters' style={{ background: color, height: 520 }}>
         <div className='col-md-12'>
             {children}
         </div>

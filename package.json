@@ -20,7 +20,7 @@
   "scripts": {
     "dev": "webpack-dev-server --mode=development --config webpack.config --open",
     "prod": "webpack --mode=production --config webpack.config",
-    "test": "mocha 'src/**/*.spec.js' --require @babel/register --require ignore-styles --require mocha-helpers.js",
+    "test": "mocha 'src/**/*.spec.js' --require @babel/register --require ignore-styles --require mocha-helpers.js --require jsdom-global/register",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -51,6 +51,7 @@
     "html-webpack-plugin": "4.0.0-alpha",
     "ignore-styles": "^5.0.1",
     "interpolate-html-plugin": "^3.0.0",
+    "jsdom-global": "^3.0.2",
     "mocha": "^8.1.1",
     "sass-loader": "^9.0.3",
     "sinon": "^9.0.3",
