@@ -1,0 +1,3 @@
+import DashboardComponentsOverview from './DashboardComponentsOverview'
+
+export default DashboardComponentsOverview
