@@ -23,13 +23,25 @@ import teradata from './teradata.svg'
 import vistadb from './vistadb.svg'
 import xml from './xml.svg'
 
+import chart from './chart.png'
+import table from './table.png'
+import gauge from './gauge.png'
+import pivot from './pivot.png'
+import indicator from './indicator.png'
+import map from './map.png'
+
 const dataTypes = {
     azure, csv, db2, dbase, excel, firebird, google, informix,
     json, mongo, msaccess, mssql, mysql, odata, odbc, oracle,
     postgre, sqlite, sybase, teradata, vistadb, xml
 }
 
+const dashboardComponents = {
+    chart, table, gauge, pivot, indicator, map
+}
+
 export {
     dashboardsOverview,
-    dataTypes
+    dataTypes,
+    dashboardComponents
 }
