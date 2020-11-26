@@ -10,7 +10,10 @@ const PageSection = ({ color, height, children }) => (
 
 PageSection.propTypes = {
     color: PropTypes.string.isRequired,
-    height: PropTypes.number.isRequired,
+    height: PropTypes.oneOfType([
+        PropTypes.number,
+        PropTypes.string
+    ]).isRequired,
     children: PropTypes.element.isRequired
 }
 
