@@ -4,7 +4,7 @@ import PageSection from 'components/Pages/PageSection'
 import { dashboardsOverview } from 'images'
 
 const DashboardOverviewSection = () => (
-    <PageSection color='#0b3d7f'>
+    <PageSection color='#0b3d7f' height={520}>
         <div className='row no-gutters'>
             <div className='col-md-12 mt-2'>
                 <div className='row no-gutters justify-content-center mb-2 text-white'>

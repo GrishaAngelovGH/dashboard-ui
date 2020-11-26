@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types'
 
-const PageSection = ({ color, children }) => (
-    <div className='row no-gutters' style={{ background: color, height: 520 }}>
+const PageSection = ({ color, height, children }) => (
+    <div className='row no-gutters' style={{ background: color, height: height }}>
         <div className='col-md-12'>
             {children}
         </div>
@@ -10,6 +10,7 @@ const PageSection = ({ color, children }) => (
 
 PageSection.propTypes = {
     color: PropTypes.string.isRequired,
+    height: PropTypes.number.isRequired,
     children: PropTypes.element.isRequired
 }
 

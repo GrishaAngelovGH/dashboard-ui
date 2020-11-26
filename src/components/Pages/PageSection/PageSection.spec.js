@@ -3,7 +3,7 @@ import PageSection from './PageSection'
 describe('(Component) PageSection', () => {
     it('should render component', () => {
         const wrapper = shallow(
-            <PageSection color='#0b3d7f'>
+            <PageSection color='#0b3d7f' height={520}>
                 <div>content</div>
             </PageSection>
         )
