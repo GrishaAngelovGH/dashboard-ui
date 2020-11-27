@@ -1,3 +1,6 @@
+import Layout from 'components/Layout'
+
+import Menu from './Menu'
 import DashboardPage from './DashboardPage'
 
 describe('(Component) DashboardPage', () => {
@@ -5,7 +8,7 @@ describe('(Component) DashboardPage', () => {
         const wrapper = shallow(<DashboardPage />)
 
         expect(wrapper.equals(
-            <div>dashboard page</div>
+            <Layout header={<Menu />} body={<span>body</span>} />
         )).to.equal(true)
     })
 })
