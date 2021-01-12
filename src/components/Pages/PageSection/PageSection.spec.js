@@ -15,5 +15,5 @@ describe('(Component) PageSection', () => {
                 </div>
             </div>
         )).to.equal(true)
-    });
-});
+    })
+})

@@ -15,7 +15,7 @@ describe('(Component) Layout', () => {
                 </div>
             </div>
         )).to.equal(true)
-    });
+    })
 
     it('should render Header', () => {
         const wrapper = shallow(<Layout.Header content={header} />)
@@ -27,7 +27,7 @@ describe('(Component) Layout', () => {
                 </div>
             </div>
         )).to.equal(true)
-    });
+    })
 
     it('should render Body', () => {
         const wrapper = shallow(<Layout.Body content={body} />)
@@ -39,5 +39,5 @@ describe('(Component) Layout', () => {
                 </div>
             </div>
         )).to.equal(true)
-    });
-});
+    })
+})

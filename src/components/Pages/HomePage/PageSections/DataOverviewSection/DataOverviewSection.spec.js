@@ -67,5 +67,5 @@ describe('(Component) DataOverviewSection', () => {
                 </div>
             </PageSection>
         )).to.equal(true)
-    });
-});
+    })
+})

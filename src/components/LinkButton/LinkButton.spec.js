@@ -9,5 +9,5 @@ describe('(Component) LinkButton', () => {
                 content
             </a>
         )).to.equal(true)
-    });
-});
+    })
+})

@@ -5,7 +5,7 @@ import LinkButton from 'components/LinkButton'
 import PageSection from 'components/Pages/PageSection'
 import SummaryLabel from './SummaryLabel'
 
-import { WOW } from 'wowjs';
+import { WOW } from 'wowjs'
 
 class SummaryOverviewSection extends Component {
     componentDidMount() {

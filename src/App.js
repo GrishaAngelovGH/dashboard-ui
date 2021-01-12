@@ -6,11 +6,11 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route exact path="/" children={<HomePage />} />
-        <Route path="/dashboard" children={<DashboardPage />} />
+        <Route exact path='/' children={<HomePage />} />
+        <Route path='/dashboard' children={<DashboardPage />} />
       </Switch>
     </Router>
   )
 }
 
-export default App;
+export default App

@@ -10,10 +10,10 @@ describe('(Component) App', () => {
     expect(wrapper.equals(
       <Router>
         <Switch>
-          <Route exact path="/" children={<HomePage />} />
-          <Route path="/dashboard" children={<DashboardPage />} />
+          <Route exact path='/' children={<HomePage />} />
+          <Route path='/dashboard' children={<DashboardPage />} />
         </Switch>
       </Router>
     )).to.equal(true)
-  });
-});
+  })
+})

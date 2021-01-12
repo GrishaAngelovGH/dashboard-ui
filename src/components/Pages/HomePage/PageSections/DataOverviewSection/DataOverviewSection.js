@@ -4,7 +4,7 @@ import PropTypes from 'prop-types'
 import LinkButton from 'components/LinkButton'
 import PageSection from 'components/Pages/PageSection'
 
-import { WOW } from 'wowjs';
+import { WOW } from 'wowjs'
 import { dataTypes } from 'images'
 import './DataOverviewSection.scss'
 

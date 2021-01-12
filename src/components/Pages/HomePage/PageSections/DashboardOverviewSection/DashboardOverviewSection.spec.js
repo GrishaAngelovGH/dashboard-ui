@@ -42,5 +42,5 @@ describe('(Component) DashboardOverviewSection', () => {
                 </div>
             </PageSection>
         )).to.equal(true)
-    });
-});
+    })
+})
