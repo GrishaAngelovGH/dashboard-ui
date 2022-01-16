@@ -5,8 +5,9 @@ $color: #ffffff;
     padding: 15px;
     display: block;
     text-align: center;
-    border: 2px solid $color;
+    border-radius: 5px;
     text-transform: uppercase;
+    background: rgba(255, 255, 255, 0.2);
     &:hover {
         color: $color;
     }

@@ -1,9 +1,10 @@
+import { Link } from 'react-router-dom'
 import './LinkButton.scss'
 
 const LinkButton = ({ href, children }) => (
-    <a href={href} className='link-button'>
+    <Link to={href} className='link-button'>
         {children}
-    </a>
+    </Link>
 )
 
 export default LinkButton
