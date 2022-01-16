@@ -7,7 +7,7 @@ const DashboardComponentsOverview = ({ components }) => (
     <PageSection color='#ebedef' height={'auto'}>
         <div className='row no-gutters'>
             <div className='col-md-12 mt-2'>
-                <div className='row no-gutters justify-content-center mb-2'>
+                <div className='row no-gutters justify-content-center m-3'>
                     <div className='col-md-8 text-center'>
                         <h2>Components for Dashboards</h2>
                     </div>
@@ -18,7 +18,7 @@ const DashboardComponentsOverview = ({ components }) => (
                         Using Dashboards, you can easily create informative and understandable panels
                         using a wide range of components. All you need is to drag and drop the data
                         to the appropriate fields and adjust them using a wide variety of properties.
-                     </div>
+                    </div>
                 </div>
 
                 <div className='row no-gutters justify-content-center'>
