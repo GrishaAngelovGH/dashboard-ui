@@ -1,7 +1,6 @@
 import { Component } from 'react'
 import PropTypes from 'prop-types'
 
-import LinkButton from 'components/LinkButton'
 import PageSection from 'components/Pages/PageSection'
 
 import { WOW } from 'wowjs'
@@ -22,23 +21,23 @@ class DataOverviewSection extends Component {
             <PageSection color='#2a7ab9' height={520}>
                 <div className='row no-gutters'>
                     <div className='col-md-12 mt-2'>
-                        <div className='row no-gutters justify-content-center mb-2 text-white'>
+                        <div className='row no-gutters justify-content-center m-3'>
                             <div className='col-md-8 text-center'>
-                                <h2>Work with data</h2>
+                                <h2 className='text-white'>Work with data</h2>
                             </div>
                         </div>
 
-                        <div className='row no-gutters justify-content-center mb-2 text-white text-center'>
+                        <div className='row no-gutters justify-content-center mb-5 text-white text-center'>
                             <div className='col-md-8 col-11'>
                                 The dashboards components supports more than 15 types
                                 of data servers - MS SQL, Oracle, PostgreSQL, Firebird, and others.
                                 Our products support all standard types of ADO.NET objects,
                                 the OData protocol, the ability to load data from XML, JSON,
                                 Excel and CSV files, work with multi-level business objects.
-                           </div>
+                            </div>
                         </div>
 
-                        <div className='row no-gutters justify-content-center mb-2'>
+                        <div className='row no-gutters justify-content-center mb-5'>
                             <div className='col-md-7 col-12 d-none d-md-block type-images'>
                                 {
                                     types.map(v => (
@@ -62,12 +61,6 @@ class DataOverviewSection extends Component {
                                 You may use virtual data sources, and you may embed data directly
                                 into the template in the form of resources.
                                 Do not think about how to prepare data for the report - Dashboards will do it for you!
-                           </div>
-                        </div>
-
-                        <div className='row no-gutters justify-content-center'>
-                            <div className='col-md-5 col-8'>
-                                <LinkButton href='#/'>Learn more about working with data</LinkButton>
                             </div>
                         </div>
                     </div>

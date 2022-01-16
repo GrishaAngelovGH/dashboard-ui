@@ -17,9 +17,9 @@ describe('(Component) SummaryOverviewSection', () => {
             <PageSection color='#435465' height={'auto'}>
                 <div className='row no-gutters'>
                     <div className='col-md-12 mt-2'>
-                        <div className='row no-gutters justify-content-center mb-2 text-white'>
+                        <div className='row no-gutters justify-content-center m-3'>
                             <div className='col-md-8 text-center'>
-                                <h2>Creation and viewing</h2>
+                                <h2 className='text-white'>Creation and viewing</h2>
                             </div>
                         </div>
 
@@ -29,7 +29,7 @@ describe('(Component) SummaryOverviewSection', () => {
                                 Web projects or JavaScript solutions. We support work with all major
                                 technologies – WinForms, WPF, ASP.NET, MVC, .NET Core, JavaScript,
                                 PHP, etc.
-                           </div>
+                            </div>
                         </div>
 
                         <div className='row no-gutters justify-content-center mb-2'>
@@ -55,7 +55,7 @@ describe('(Component) SummaryOverviewSection', () => {
 
                         <div className='row no-gutters justify-content-center mb-5'>
                             <div className='col-10 col-md-7 col-lg-5'>
-                                <LinkButton href='#/dashboard'>Explore our features in the Online Demo</LinkButton>
+                                <LinkButton href='/dashboard'>Explore our features in the Online Demo</LinkButton>
                             </div>
                         </div>
                     </div>
