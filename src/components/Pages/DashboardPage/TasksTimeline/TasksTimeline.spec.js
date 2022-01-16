@@ -1,4 +1,4 @@
-import { Timeline } from 'antd'
+import Timeline from 'antd/lib/timeline'
 import { ClockCircleOutlined } from '@ant-design/icons'
 
 import TasksTimeline from './TasksTimeline'

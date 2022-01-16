@@ -1,4 +1,6 @@
-import { Statistic, Row, Col } from 'antd'
+import Statistic from 'antd/lib/statistic'
+import Row from 'antd/lib/row'
+import Col from 'antd/lib/col'
 import { LikeOutlined } from '@ant-design/icons'
 
 const ActiveUsers = () => (

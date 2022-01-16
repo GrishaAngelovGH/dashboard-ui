@@ -1,4 +1,6 @@
-import { Statistic, Card, Col } from 'antd'
+import Statistic from 'antd/lib/statistic'
+import Card from 'antd/lib/card'
+import Col from 'antd/lib/col'
 import { ArrowUpOutlined, ArrowDownOutlined } from '@ant-design/icons'
 
 import StatisticCard from './StatisticCard'

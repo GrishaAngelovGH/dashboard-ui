@@ -1,6 +1,6 @@
 import StatisticCards from './StatisticCards'
 import StatisticCard from './StatisticCard'
-import { Row } from 'antd'
+import Row from 'antd/lib/row'
 
 describe('(Component) StatisticCards', () => {
     it('should render component', () => {

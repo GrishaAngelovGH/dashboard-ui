@@ -1,4 +1,4 @@
-import { Table } from 'antd'
+import Table from 'antd/lib/table'
 
 export const columns = [
     {

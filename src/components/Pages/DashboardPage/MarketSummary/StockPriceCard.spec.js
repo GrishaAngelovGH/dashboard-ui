@@ -1,4 +1,4 @@
-import { Card } from 'antd'
+import Card from 'antd/lib/card'
 import StockPriceCard from './StockPriceCard'
 
 describe('(Component) StockPriceCard', () => {

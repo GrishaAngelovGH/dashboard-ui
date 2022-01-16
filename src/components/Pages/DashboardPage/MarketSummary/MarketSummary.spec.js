@@ -1,4 +1,4 @@
-import { Carousel } from 'antd'
+import Carousel from 'antd/lib/carousel'
 
 import StockPriceCard from './StockPriceCard'
 import MarketSummary from './MarketSummary'
@@ -14,7 +14,7 @@ describe('(Component) MarketSummary', () => {
 
         expect(wrapper.equals(
             <div className='row no-gutters'>
-                <div className="col-md-12">
+                <div className='col-md-12'>
                     <h2 className='text-center'>Market Summary</h2>
 
                     <Carousel autoplay>

@@ -1,5 +1,5 @@
-import { Card } from 'antd'
-import '../StockPriceCard.scss'
+import Card from 'antd/lib/card'
+import './StockPriceCard.scss'
 
 const StockPriceCard = ({ title, value, currency, pricing }) => (
     <Card
