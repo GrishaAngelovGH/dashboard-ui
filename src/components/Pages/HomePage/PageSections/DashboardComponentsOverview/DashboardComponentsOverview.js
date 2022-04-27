@@ -4,7 +4,7 @@ import PageSection from 'components/Pages/PageSection'
 import DashboardComponent from './DashboardComponent'
 
 const DashboardComponentsOverview = ({ components }) => (
-    <PageSection color='#ebedef' height={'auto'}>
+    <PageSection style={{ background: '#ebedef', height: 'auto' }}>
         <div className='row no-gutters'>
             <div className='col-md-12 mt-2'>
                 <div className='row no-gutters justify-content-center m-3'>

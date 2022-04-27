@@ -18,7 +18,7 @@ class DataOverviewSection extends Component {
         const { types } = this.props
 
         return (
-            <PageSection color='#2a7ab9' height={520}>
+            <PageSection style={{ background: '#2a7ab9', height: 520 }}>
                 <div className='row no-gutters'>
                     <div className='col-md-12 mt-2'>
                         <div className='row no-gutters justify-content-center m-3'>

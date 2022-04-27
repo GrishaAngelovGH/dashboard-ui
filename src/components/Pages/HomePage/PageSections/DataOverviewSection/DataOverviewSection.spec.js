@@ -9,7 +9,7 @@ describe('(Component) DataOverviewSection', () => {
         const wrapper = shallow(<DataOverviewSection types={['azure', 'csv']} />)
 
         expect(wrapper.equals(
-            <PageSection color='#2a7ab9' height={520}>
+            <PageSection style={{ background: '#2a7ab9', height: 520 }}>
                 <div className='row no-gutters'>
                     <div className='col-md-12 mt-2'>
                         <div className='row no-gutters justify-content-center m-3'>

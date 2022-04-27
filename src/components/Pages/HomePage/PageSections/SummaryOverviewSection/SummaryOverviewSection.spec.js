@@ -14,7 +14,7 @@ describe('(Component) SummaryOverviewSection', () => {
         const wrapper = shallow(<SummaryOverviewSection summary={summary} />)
 
         expect(wrapper.equals(
-            <PageSection color='#435465' height={'auto'}>
+            <PageSection style={{ background: '#435465', height: 'auto' }}>
                 <div className='row no-gutters'>
                     <div className='col-md-12 mt-2'>
                         <div className='row no-gutters justify-content-center m-3'>

@@ -1,8 +1,7 @@
 import PageSection from 'components/Pages/PageSection'
-import { dashboardsOverview } from 'images'
 
 const DashboardOverviewSection = () => (
-    <PageSection color='#0b3d7f' height={520}>
+    <PageSection style={{ background: '#0b3d7f', height: 250, alignItems: 'center' }}>
         <div className='row no-gutters'>
             <div className='col-md-12 mt-2'>
                 <div className='row no-gutters justify-content-center m-3'>
@@ -17,12 +16,6 @@ const DashboardOverviewSection = () => (
                         intelligence tool for data analysis. Dashboards is the best
                         solution for displaying metrics in an understandable and readable form.
                         You may embed our dashboards into your application.
-                    </div>
-                </div>
-
-                <div className='row no-gutters justify-content-center mt-3'>
-                    <div className='col-md-4 col-lg-5'>
-                        <img src={dashboardsOverview} className='img-fluid' />
                     </div>
                 </div>
             </div>

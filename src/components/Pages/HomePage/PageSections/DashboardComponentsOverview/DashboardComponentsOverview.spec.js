@@ -17,7 +17,7 @@ describe('(Component) DashboardComponentsOverview', () => {
         const wrapper = shallow(<DashboardComponentsOverview components={components} />)
 
         expect(wrapper.equals(
-            <PageSection color='#ebedef' height={'auto'}>
+            <PageSection style={{ background: '#ebedef', height: 'auto' }}>
                 <div className='row no-gutters'>
                     <div className='col-md-12 mt-2'>
                         <div className='row no-gutters justify-content-center m-3'>

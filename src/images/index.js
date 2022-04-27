@@ -1,5 +1,3 @@
-import dashboardsOverview from './dashboards-overview.gif'
-
 import azure from './azure.svg'
 import csv from './csv.svg'
 import db2 from './db2.svg'
@@ -41,7 +39,6 @@ const dashboardComponents = {
 }
 
 export {
-    dashboardsOverview,
     dataTypes,
     dashboardComponents
 }
