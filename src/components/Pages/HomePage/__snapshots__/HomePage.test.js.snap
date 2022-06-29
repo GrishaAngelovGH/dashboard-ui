@@ -1,0 +1,2985 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Body 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="row no-gutters"
+      >
+        <div
+          class="col-md-12"
+        >
+          <div
+            class="row no-gutters"
+            style="background: rgb(11, 61, 127); height: 250px; align-items: center;"
+          >
+            <div
+              class="col-md-12"
+            >
+              <div
+                class="row no-gutters"
+              >
+                <div
+                  class="col-md-12 mt-2"
+                >
+                  <div
+                    class="row no-gutters justify-content-center m-3"
+                  >
+                    <div
+                      class="col-md-8 text-center"
+                    >
+                      <h2
+                        class="text-white"
+                      >
+                        Dashboards
+                      </h2>
+                    </div>
+                  </div>
+                  <div
+                    class="row no-gutters justify-content-center mb-2 text-white text-center"
+                  >
+                    <div
+                      class="col-md-8 col-11"
+                    >
+                      This is a powerful, flexible and easily customizable business intelligence tool for data analysis. Dashboards is the best solution for displaying metrics in an understandable and readable form. You may embed our dashboards into your application.
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="row no-gutters"
+            style="background: rgb(42, 122, 185); height: 520px;"
+          >
+            <div
+              class="col-md-12"
+            >
+              <div
+                class="row no-gutters"
+              >
+                <div
+                  class="col-md-12 mt-2"
+                >
+                  <div
+                    class="row no-gutters justify-content-center m-3"
+                  >
+                    <div
+                      class="col-md-8 text-center"
+                    >
+                      <h2
+                        class="text-white"
+                      >
+                        Work with data
+                      </h2>
+                    </div>
+                  </div>
+                  <div
+                    class="row no-gutters justify-content-center mb-5 text-white text-center"
+                  >
+                    <div
+                      class="col-md-8 col-11"
+                    >
+                      The dashboards components supports more than 15 types of data servers - MS SQL, Oracle, PostgreSQL, Firebird, and others. Our products support all standard types of ADO.NET objects, the OData protocol, the ability to load data from XML, JSON, Excel and CSV files, work with multi-level business objects.
+                    </div>
+                  </div>
+                  <div
+                    class="row no-gutters justify-content-center mb-5"
+                  >
+                    <div
+                      class="col-md-7 col-12 d-none d-md-block type-images"
+                    >
+                      <img
+                        class="wow fadeInUp m-2"
+                        data-wow-delay="0.5s"
+                        data-wow-duration="5s"
+                        height="50"
+                        src="azure.svg"
+                        width="50"
+                      />
+                      <img
+                        class="wow fadeInUp m-2"
+                        data-wow-delay="0.5s"
+                        data-wow-duration="5s"
+                        height="50"
+                        src="csv.svg"
+                        width="50"
+                      />
+                      <img
+                        class="wow fadeInUp m-2"
+                        data-wow-delay="0.5s"
+                        data-wow-duration="5s"
+                        height="50"
+                        src="db2.svg"
+                        width="50"
+                      />
+                      <img
+                        class="wow fadeInUp m-2"
+                        data-wow-delay="0.5s"
+                        data-wow-duration="5s"
+                        height="50"
+                        src="dbase.svg"
+                        width="50"
+                      />
+                      <img
+                        class="wow fadeInUp m-2"
+                        data-wow-delay="0.5s"
+                        data-wow-duration="5s"
+                        height="50"
+                        src="excel.svg"
+                        width="50"
+                      />
+                      <img
+                        class="wow fadeInUp m-2"
+                        data-wow-delay="0.5s"
+                        data-wow-duration="5s"
+                        height="50"
+                        src="firebird.svg"
+                        width="50"
+                      />
+                      <img
+                        class="wow fadeInUp m-2"
+                        data-wow-delay="0.5s"
+                        data-wow-duration="5s"
+                        height="50"
+                        src="google.svg"
+                        width="50"
+                      />
+                      <img
+                        class="wow fadeInUp m-2"
+                        data-wow-delay="0.5s"
+                        data-wow-duration="5s"
+                        height="50"
+                        src="informix.svg"
+                        width="50"
+                      />
+                      <img
+                        class="wow fadeInUp m-2"
+                        data-wow-delay="0.5s"
+                        data-wow-duration="5s"
+                        height="50"
+                        src="json.svg"
+                        width="50"
+                      />
+                      <img
+                        class="wow fadeInUp m-2"
+                        data-wow-delay="0.5s"
+                        data-wow-duration="5s"
+                        height="50"
+                        src="mongo.svg"
+                        width="50"
+                      />
+                      <img
+                        class="wow fadeInUp m-2"
+                        data-wow-delay="0.5s"
+                        data-wow-duration="5s"
+                        height="50"
+                        src="msaccess.svg"
+                        width="50"
+                      />
+                      <img
+                        class="wow fadeInUp m-2"
+                        data-wow-delay="0.5s"
+                        data-wow-duration="5s"
+                        height="50"
+                        src="mssql.svg"
+                        width="50"
+                      />
+                      <img
+                        class="wow fadeInUp m-2"
+                        data-wow-delay="0.5s"
+                        data-wow-duration="5s"
+                        height="50"
+                        src="mysql.svg"
+                        width="50"
+                      />
+                      <img
+                        class="wow fadeInUp m-2"
+                        data-wow-delay="0.5s"
+                        data-wow-duration="5s"
+                        height="50"
+                        src="odata.svg"
+                        width="50"
+                      />
+                      <img
+                        class="wow fadeInUp m-2"
+                        data-wow-delay="0.5s"
+                        data-wow-duration="5s"
+                        height="50"
+                        src="odbc.svg"
+                        width="50"
+                      />
+                      <img
+                        class="wow fadeInUp m-2"
+                        data-wow-delay="0.5s"
+                        data-wow-duration="5s"
+                        height="50"
+                        src="oracle.svg"
+                        width="50"
+                      />
+                      <img
+                        class="wow fadeInUp m-2"
+                        data-wow-delay="0.5s"
+                        data-wow-duration="5s"
+                        height="50"
+                        src="postgre.svg"
+                        width="50"
+                      />
+                      <img
+                        class="wow fadeInUp m-2"
+                        data-wow-delay="0.5s"
+                        data-wow-duration="5s"
+                        height="50"
+                        src="sqlite.svg"
+                        width="50"
+                      />
+                      <img
+                        class="wow fadeInUp m-2"
+                        data-wow-delay="0.5s"
+                        data-wow-duration="5s"
+                        height="50"
+                        src="sybase.svg"
+                        width="50"
+                      />
+                      <img
+                        class="wow fadeInUp m-2"
+                        data-wow-delay="0.5s"
+                        data-wow-duration="5s"
+                        height="50"
+                        src="teradata.svg"
+                        width="50"
+                      />
+                      <img
+                        class="wow fadeInUp m-2"
+                        data-wow-delay="0.5s"
+                        data-wow-duration="5s"
+                        height="50"
+                        src="vistadb.svg"
+                        width="50"
+                      />
+                      <img
+                        class="wow fadeInUp m-2"
+                        data-wow-delay="0.5s"
+                        data-wow-duration="5s"
+                        height="50"
+                        src="xml.svg"
+                        width="50"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="row no-gutters justify-content-center mb-2 text-white text-center"
+                  >
+                    <div
+                      class="col-md-8 col-11"
+                    >
+                      Preliminary data preparation and conversion are available. You may use virtual data sources, and you may embed data directly into the template in the form of resources. Do not think about how to prepare data for the report - Dashboards will do it for you!
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="row no-gutters"
+            style="background: rgb(235, 237, 239); height: auto;"
+          >
+            <div
+              class="col-md-12"
+            >
+              <div
+                class="row no-gutters"
+              >
+                <div
+                  class="col-md-12 mt-2"
+                >
+                  <div
+                    class="row no-gutters justify-content-center m-3"
+                  >
+                    <div
+                      class="col-md-8 text-center"
+                    >
+                      <h2>
+                        Components for Dashboards
+                      </h2>
+                    </div>
+                  </div>
+                  <div
+                    class="row no-gutters justify-content-center mb-4 text-center"
+                  >
+                    <div
+                      class="col-md-8 col-11"
+                    >
+                      Using Dashboards, you can easily create informative and understandable panels using a wide range of components. All you need is to drag and drop the data to the appropriate fields and adjust them using a wide variety of properties.
+                    </div>
+                  </div>
+                  <div
+                    class="row no-gutters justify-content-center"
+                  >
+                    <div
+                      class="col-md-6 col-lg-10 pl-4"
+                    >
+                      <div
+                        class="row no-gutters mb-4"
+                      >
+                        <div
+                          class="col-md-12 col-lg-4 pb-2"
+                        >
+                          <div
+                            class="dashboard-component text-center"
+                          >
+                            <img
+                              height="300"
+                              src="chart.png"
+                              width="310"
+                            />
+                            <h2>
+                              Chart
+                            </h2>
+                            <p>
+                              Add various types of graphs for data analysis
+                            </p>
+                          </div>
+                        </div>
+                        <div
+                          class="col-md-12 col-lg-4 pb-2"
+                        >
+                          <div
+                            class="dashboard-component text-center"
+                          >
+                            <img
+                              height="300"
+                              src="table.png"
+                              width="310"
+                            />
+                            <h2>
+                              Table
+                            </h2>
+                            <p>
+                              Create complex custom tables with totals
+                            </p>
+                          </div>
+                        </div>
+                        <div
+                          class="col-md-12 col-lg-4 pb-2"
+                        >
+                          <div
+                            class="dashboard-component text-center"
+                          >
+                            <img
+                              height="300"
+                              src="gauge.png"
+                              width="310"
+                            />
+                            <h2>
+                              Gauge
+                            </h2>
+                            <p>
+                              Measure your goals versus what you already reached
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div
+                        class="row no-gutters mb-4"
+                      >
+                        <div
+                          class="col-md-12 col-lg-4 pb-2"
+                        >
+                          <div
+                            class="dashboard-component text-center"
+                          >
+                            <img
+                              height="300"
+                              src="pivot.png"
+                              width="310"
+                            />
+                            <h2>
+                              Pivot
+                            </h2>
+                            <p>
+                              Quickly summarize large amounts of data in pivot tables
+                            </p>
+                          </div>
+                        </div>
+                        <div
+                          class="col-md-12 col-lg-4 pb-2"
+                        >
+                          <div
+                            class="dashboard-component text-center"
+                          >
+                            <img
+                              height="300"
+                              src="indicator.png"
+                              width="310"
+                            />
+                            <h2>
+                              Indicator
+                            </h2>
+                            <p>
+                              View summary statistics for Sum, Min, and Max values
+                            </p>
+                          </div>
+                        </div>
+                        <div
+                          class="col-md-12 col-lg-4 pb-2"
+                        >
+                          <div
+                            class="dashboard-component text-center"
+                          >
+                            <img
+                              height="300"
+                              src="map.png"
+                              width="310"
+                            />
+                            <h2>
+                              Map
+                            </h2>
+                            <p>
+                              Setup geographical coordinates for your analytics
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="row no-gutters"
+            style="background: rgb(67, 84, 101); height: auto;"
+          >
+            <div
+              class="col-md-12"
+            >
+              <div
+                class="row no-gutters"
+              >
+                <div
+                  class="col-md-12 mt-2"
+                >
+                  <div
+                    class="row no-gutters justify-content-center m-3"
+                  >
+                    <div
+                      class="col-md-8 text-center"
+                    >
+                      <h2
+                        class="text-white"
+                      >
+                        Creation and viewing
+                      </h2>
+                    </div>
+                  </div>
+                  <div
+                    class="row no-gutters justify-content-center mb-2 text-white text-center"
+                  >
+                    <div
+                      class="col-md-8 col-11"
+                    >
+                      Use our components on any platform – in Win applications, Web projects or JavaScript solutions. We support work with all major technologies – WinForms, WPF, ASP.NET, MVC, .NET Core, JavaScript, PHP, etc.
+                    </div>
+                  </div>
+                  <div
+                    class="row no-gutters justify-content-center mb-2"
+                  >
+                    <div
+                      class="col-md-10 col-lg-8 mt-4 mb-4 d-none d-md-block"
+                    >
+                      <div
+                        class="row no-gutters"
+                      >
+                        <div
+                          class="col-md-2"
+                        >
+                          <div
+                            class="d-flex flex-column wow fadeInUp m-2"
+                            data-testid="summary-label"
+                            data-wow-delay="0.5s"
+                            data-wow-duration="5s"
+                          >
+                            <div
+                              class="summary-value d-flex justify-content-center align-items-center"
+                            >
+                              7+
+                            </div>
+                            <div
+                              class="summary-label text-center text-white text-uppercase m-1"
+                            >
+                              supported platforms
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          class="col-md-2"
+                        >
+                          <div
+                            class="d-flex flex-column flex-column-reverse wow fadeInUp m-2"
+                            data-testid="summary-label"
+                            data-wow-delay="0.5s"
+                            data-wow-duration="5s"
+                          >
+                            <div
+                              class="summary-value d-flex justify-content-center align-items-center"
+                            >
+                              17+
+                            </div>
+                            <div
+                              class="summary-label text-center text-white text-uppercase m-1"
+                            >
+                              customizable elements
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          class="col-md-2"
+                        >
+                          <div
+                            class="d-flex flex-column wow fadeInUp m-2"
+                            data-testid="summary-label"
+                            data-wow-delay="0.5s"
+                            data-wow-duration="5s"
+                          >
+                            <div
+                              class="summary-value d-flex justify-content-center align-items-center"
+                            >
+                              11
+                            </div>
+                            <div
+                              class="summary-label text-center text-white text-uppercase m-1"
+                            >
+                              preset styles
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          class="col-md-2"
+                        >
+                          <div
+                            class="d-flex flex-column flex-column-reverse wow fadeInUp m-2"
+                            data-testid="summary-label"
+                            data-wow-delay="0.5s"
+                            data-wow-duration="5s"
+                          >
+                            <div
+                              class="summary-value d-flex justify-content-center align-items-center"
+                            >
+                              42
+                            </div>
+                            <div
+                              class="summary-label text-center text-white text-uppercase m-1"
+                            >
+                              supported charts
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          class="col-md-2"
+                        >
+                          <div
+                            class="d-flex flex-column wow fadeInUp m-2"
+                            data-testid="summary-label"
+                            data-wow-delay="0.5s"
+                            data-wow-duration="5s"
+                          >
+                            <div
+                              class="summary-value d-flex justify-content-center align-items-center"
+                            >
+                              18
+                            </div>
+                            <div
+                              class="summary-label text-center text-white text-uppercase m-1"
+                            >
+                              format exports
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          class="col-md-2"
+                        >
+                          <div
+                            class="d-flex flex-column flex-column-reverse wow fadeInUp m-2"
+                            data-testid="summary-label"
+                            data-wow-delay="0.5s"
+                            data-wow-duration="5s"
+                          >
+                            <div
+                              class="summary-value d-flex justify-content-center align-items-center"
+                            >
+                              40+
+                            </div>
+                            <div
+                              class="summary-label text-center text-white text-uppercase m-1"
+                            >
+                              interface localizations
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="row no-gutters justify-content-center mb-5"
+                  >
+                    <div
+                      class="col-10 col-md-7 col-lg-5"
+                    >
+                      <a
+                        class="link-button"
+                        href="/dashboard"
+                      >
+                        Explore our features in the Online Demo
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="row no-gutters"
+    >
+      <div
+        class="col-md-12"
+      >
+        <div
+          class="row no-gutters"
+          style="background: rgb(11, 61, 127); height: 250px; align-items: center;"
+        >
+          <div
+            class="col-md-12"
+          >
+            <div
+              class="row no-gutters"
+            >
+              <div
+                class="col-md-12 mt-2"
+              >
+                <div
+                  class="row no-gutters justify-content-center m-3"
+                >
+                  <div
+                    class="col-md-8 text-center"
+                  >
+                    <h2
+                      class="text-white"
+                    >
+                      Dashboards
+                    </h2>
+                  </div>
+                </div>
+                <div
+                  class="row no-gutters justify-content-center mb-2 text-white text-center"
+                >
+                  <div
+                    class="col-md-8 col-11"
+                  >
+                    This is a powerful, flexible and easily customizable business intelligence tool for data analysis. Dashboards is the best solution for displaying metrics in an understandable and readable form. You may embed our dashboards into your application.
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="row no-gutters"
+          style="background: rgb(42, 122, 185); height: 520px;"
+        >
+          <div
+            class="col-md-12"
+          >
+            <div
+              class="row no-gutters"
+            >
+              <div
+                class="col-md-12 mt-2"
+              >
+                <div
+                  class="row no-gutters justify-content-center m-3"
+                >
+                  <div
+                    class="col-md-8 text-center"
+                  >
+                    <h2
+                      class="text-white"
+                    >
+                      Work with data
+                    </h2>
+                  </div>
+                </div>
+                <div
+                  class="row no-gutters justify-content-center mb-5 text-white text-center"
+                >
+                  <div
+                    class="col-md-8 col-11"
+                  >
+                    The dashboards components supports more than 15 types of data servers - MS SQL, Oracle, PostgreSQL, Firebird, and others. Our products support all standard types of ADO.NET objects, the OData protocol, the ability to load data from XML, JSON, Excel and CSV files, work with multi-level business objects.
+                  </div>
+                </div>
+                <div
+                  class="row no-gutters justify-content-center mb-5"
+                >
+                  <div
+                    class="col-md-7 col-12 d-none d-md-block type-images"
+                  >
+                    <img
+                      class="wow fadeInUp m-2"
+                      data-wow-delay="0.5s"
+                      data-wow-duration="5s"
+                      height="50"
+                      src="azure.svg"
+                      width="50"
+                    />
+                    <img
+                      class="wow fadeInUp m-2"
+                      data-wow-delay="0.5s"
+                      data-wow-duration="5s"
+                      height="50"
+                      src="csv.svg"
+                      width="50"
+                    />
+                    <img
+                      class="wow fadeInUp m-2"
+                      data-wow-delay="0.5s"
+                      data-wow-duration="5s"
+                      height="50"
+                      src="db2.svg"
+                      width="50"
+                    />
+                    <img
+                      class="wow fadeInUp m-2"
+                      data-wow-delay="0.5s"
+                      data-wow-duration="5s"
+                      height="50"
+                      src="dbase.svg"
+                      width="50"
+                    />
+                    <img
+                      class="wow fadeInUp m-2"
+                      data-wow-delay="0.5s"
+                      data-wow-duration="5s"
+                      height="50"
+                      src="excel.svg"
+                      width="50"
+                    />
+                    <img
+                      class="wow fadeInUp m-2"
+                      data-wow-delay="0.5s"
+                      data-wow-duration="5s"
+                      height="50"
+                      src="firebird.svg"
+                      width="50"
+                    />
+                    <img
+                      class="wow fadeInUp m-2"
+                      data-wow-delay="0.5s"
+                      data-wow-duration="5s"
+                      height="50"
+                      src="google.svg"
+                      width="50"
+                    />
+                    <img
+                      class="wow fadeInUp m-2"
+                      data-wow-delay="0.5s"
+                      data-wow-duration="5s"
+                      height="50"
+                      src="informix.svg"
+                      width="50"
+                    />
+                    <img
+                      class="wow fadeInUp m-2"
+                      data-wow-delay="0.5s"
+                      data-wow-duration="5s"
+                      height="50"
+                      src="json.svg"
+                      width="50"
+                    />
+                    <img
+                      class="wow fadeInUp m-2"
+                      data-wow-delay="0.5s"
+                      data-wow-duration="5s"
+                      height="50"
+                      src="mongo.svg"
+                      width="50"
+                    />
+                    <img
+                      class="wow fadeInUp m-2"
+                      data-wow-delay="0.5s"
+                      data-wow-duration="5s"
+                      height="50"
+                      src="msaccess.svg"
+                      width="50"
+                    />
+                    <img
+                      class="wow fadeInUp m-2"
+                      data-wow-delay="0.5s"
+                      data-wow-duration="5s"
+                      height="50"
+                      src="mssql.svg"
+                      width="50"
+                    />
+                    <img
+                      class="wow fadeInUp m-2"
+                      data-wow-delay="0.5s"
+                      data-wow-duration="5s"
+                      height="50"
+                      src="mysql.svg"
+                      width="50"
+                    />
+                    <img
+                      class="wow fadeInUp m-2"
+                      data-wow-delay="0.5s"
+                      data-wow-duration="5s"
+                      height="50"
+                      src="odata.svg"
+                      width="50"
+                    />
+                    <img
+                      class="wow fadeInUp m-2"
+                      data-wow-delay="0.5s"
+                      data-wow-duration="5s"
+                      height="50"
+                      src="odbc.svg"
+                      width="50"
+                    />
+                    <img
+                      class="wow fadeInUp m-2"
+                      data-wow-delay="0.5s"
+                      data-wow-duration="5s"
+                      height="50"
+                      src="oracle.svg"
+                      width="50"
+                    />
+                    <img
+                      class="wow fadeInUp m-2"
+                      data-wow-delay="0.5s"
+                      data-wow-duration="5s"
+                      height="50"
+                      src="postgre.svg"
+                      width="50"
+                    />
+                    <img
+                      class="wow fadeInUp m-2"
+                      data-wow-delay="0.5s"
+                      data-wow-duration="5s"
+                      height="50"
+                      src="sqlite.svg"
+                      width="50"
+                    />
+                    <img
+                      class="wow fadeInUp m-2"
+                      data-wow-delay="0.5s"
+                      data-wow-duration="5s"
+                      height="50"
+                      src="sybase.svg"
+                      width="50"
+                    />
+                    <img
+                      class="wow fadeInUp m-2"
+                      data-wow-delay="0.5s"
+                      data-wow-duration="5s"
+                      height="50"
+                      src="teradata.svg"
+                      width="50"
+                    />
+                    <img
+                      class="wow fadeInUp m-2"
+                      data-wow-delay="0.5s"
+                      data-wow-duration="5s"
+                      height="50"
+                      src="vistadb.svg"
+                      width="50"
+                    />
+                    <img
+                      class="wow fadeInUp m-2"
+                      data-wow-delay="0.5s"
+                      data-wow-duration="5s"
+                      height="50"
+                      src="xml.svg"
+                      width="50"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="row no-gutters justify-content-center mb-2 text-white text-center"
+                >
+                  <div
+                    class="col-md-8 col-11"
+                  >
+                    Preliminary data preparation and conversion are available. You may use virtual data sources, and you may embed data directly into the template in the form of resources. Do not think about how to prepare data for the report - Dashboards will do it for you!
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="row no-gutters"
+          style="background: rgb(235, 237, 239); height: auto;"
+        >
+          <div
+            class="col-md-12"
+          >
+            <div
+              class="row no-gutters"
+            >
+              <div
+                class="col-md-12 mt-2"
+              >
+                <div
+                  class="row no-gutters justify-content-center m-3"
+                >
+                  <div
+                    class="col-md-8 text-center"
+                  >
+                    <h2>
+                      Components for Dashboards
+                    </h2>
+                  </div>
+                </div>
+                <div
+                  class="row no-gutters justify-content-center mb-4 text-center"
+                >
+                  <div
+                    class="col-md-8 col-11"
+                  >
+                    Using Dashboards, you can easily create informative and understandable panels using a wide range of components. All you need is to drag and drop the data to the appropriate fields and adjust them using a wide variety of properties.
+                  </div>
+                </div>
+                <div
+                  class="row no-gutters justify-content-center"
+                >
+                  <div
+                    class="col-md-6 col-lg-10 pl-4"
+                  >
+                    <div
+                      class="row no-gutters mb-4"
+                    >
+                      <div
+                        class="col-md-12 col-lg-4 pb-2"
+                      >
+                        <div
+                          class="dashboard-component text-center"
+                        >
+                          <img
+                            height="300"
+                            src="chart.png"
+                            width="310"
+                          />
+                          <h2>
+                            Chart
+                          </h2>
+                          <p>
+                            Add various types of graphs for data analysis
+                          </p>
+                        </div>
+                      </div>
+                      <div
+                        class="col-md-12 col-lg-4 pb-2"
+                      >
+                        <div
+                          class="dashboard-component text-center"
+                        >
+                          <img
+                            height="300"
+                            src="table.png"
+                            width="310"
+                          />
+                          <h2>
+                            Table
+                          </h2>
+                          <p>
+                            Create complex custom tables with totals
+                          </p>
+                        </div>
+                      </div>
+                      <div
+                        class="col-md-12 col-lg-4 pb-2"
+                      >
+                        <div
+                          class="dashboard-component text-center"
+                        >
+                          <img
+                            height="300"
+                            src="gauge.png"
+                            width="310"
+                          />
+                          <h2>
+                            Gauge
+                          </h2>
+                          <p>
+                            Measure your goals versus what you already reached
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="row no-gutters mb-4"
+                    >
+                      <div
+                        class="col-md-12 col-lg-4 pb-2"
+                      >
+                        <div
+                          class="dashboard-component text-center"
+                        >
+                          <img
+                            height="300"
+                            src="pivot.png"
+                            width="310"
+                          />
+                          <h2>
+                            Pivot
+                          </h2>
+                          <p>
+                            Quickly summarize large amounts of data in pivot tables
+                          </p>
+                        </div>
+                      </div>
+                      <div
+                        class="col-md-12 col-lg-4 pb-2"
+                      >
+                        <div
+                          class="dashboard-component text-center"
+                        >
+                          <img
+                            height="300"
+                            src="indicator.png"
+                            width="310"
+                          />
+                          <h2>
+                            Indicator
+                          </h2>
+                          <p>
+                            View summary statistics for Sum, Min, and Max values
+                          </p>
+                        </div>
+                      </div>
+                      <div
+                        class="col-md-12 col-lg-4 pb-2"
+                      >
+                        <div
+                          class="dashboard-component text-center"
+                        >
+                          <img
+                            height="300"
+                            src="map.png"
+                            width="310"
+                          />
+                          <h2>
+                            Map
+                          </h2>
+                          <p>
+                            Setup geographical coordinates for your analytics
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="row no-gutters"
+          style="background: rgb(67, 84, 101); height: auto;"
+        >
+          <div
+            class="col-md-12"
+          >
+            <div
+              class="row no-gutters"
+            >
+              <div
+                class="col-md-12 mt-2"
+              >
+                <div
+                  class="row no-gutters justify-content-center m-3"
+                >
+                  <div
+                    class="col-md-8 text-center"
+                  >
+                    <h2
+                      class="text-white"
+                    >
+                      Creation and viewing
+                    </h2>
+                  </div>
+                </div>
+                <div
+                  class="row no-gutters justify-content-center mb-2 text-white text-center"
+                >
+                  <div
+                    class="col-md-8 col-11"
+                  >
+                    Use our components on any platform – in Win applications, Web projects or JavaScript solutions. We support work with all major technologies – WinForms, WPF, ASP.NET, MVC, .NET Core, JavaScript, PHP, etc.
+                  </div>
+                </div>
+                <div
+                  class="row no-gutters justify-content-center mb-2"
+                >
+                  <div
+                    class="col-md-10 col-lg-8 mt-4 mb-4 d-none d-md-block"
+                  >
+                    <div
+                      class="row no-gutters"
+                    >
+                      <div
+                        class="col-md-2"
+                      >
+                        <div
+                          class="d-flex flex-column wow fadeInUp m-2"
+                          data-testid="summary-label"
+                          data-wow-delay="0.5s"
+                          data-wow-duration="5s"
+                        >
+                          <div
+                            class="summary-value d-flex justify-content-center align-items-center"
+                          >
+                            7+
+                          </div>
+                          <div
+                            class="summary-label text-center text-white text-uppercase m-1"
+                          >
+                            supported platforms
+                          </div>
+                        </div>
+                      </div>
+                      <div
+                        class="col-md-2"
+                      >
+                        <div
+                          class="d-flex flex-column flex-column-reverse wow fadeInUp m-2"
+                          data-testid="summary-label"
+                          data-wow-delay="0.5s"
+                          data-wow-duration="5s"
+                        >
+                          <div
+                            class="summary-value d-flex justify-content-center align-items-center"
+                          >
+                            17+
+                          </div>
+                          <div
+                            class="summary-label text-center text-white text-uppercase m-1"
+                          >
+                            customizable elements
+                          </div>
+                        </div>
+                      </div>
+                      <div
+                        class="col-md-2"
+                      >
+                        <div
+                          class="d-flex flex-column wow fadeInUp m-2"
+                          data-testid="summary-label"
+                          data-wow-delay="0.5s"
+                          data-wow-duration="5s"
+                        >
+                          <div
+                            class="summary-value d-flex justify-content-center align-items-center"
+                          >
+                            11
+                          </div>
+                          <div
+                            class="summary-label text-center text-white text-uppercase m-1"
+                          >
+                            preset styles
+                          </div>
+                        </div>
+                      </div>
+                      <div
+                        class="col-md-2"
+                      >
+                        <div
+                          class="d-flex flex-column flex-column-reverse wow fadeInUp m-2"
+                          data-testid="summary-label"
+                          data-wow-delay="0.5s"
+                          data-wow-duration="5s"
+                        >
+                          <div
+                            class="summary-value d-flex justify-content-center align-items-center"
+                          >
+                            42
+                          </div>
+                          <div
+                            class="summary-label text-center text-white text-uppercase m-1"
+                          >
+                            supported charts
+                          </div>
+                        </div>
+                      </div>
+                      <div
+                        class="col-md-2"
+                      >
+                        <div
+                          class="d-flex flex-column wow fadeInUp m-2"
+                          data-testid="summary-label"
+                          data-wow-delay="0.5s"
+                          data-wow-duration="5s"
+                        >
+                          <div
+                            class="summary-value d-flex justify-content-center align-items-center"
+                          >
+                            18
+                          </div>
+                          <div
+                            class="summary-label text-center text-white text-uppercase m-1"
+                          >
+                            format exports
+                          </div>
+                        </div>
+                      </div>
+                      <div
+                        class="col-md-2"
+                      >
+                        <div
+                          class="d-flex flex-column flex-column-reverse wow fadeInUp m-2"
+                          data-testid="summary-label"
+                          data-wow-delay="0.5s"
+                          data-wow-duration="5s"
+                        >
+                          <div
+                            class="summary-value d-flex justify-content-center align-items-center"
+                          >
+                            40+
+                          </div>
+                          <div
+                            class="summary-label text-center text-white text-uppercase m-1"
+                          >
+                            interface localizations
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="row no-gutters justify-content-center mb-5"
+                >
+                  <div
+                    class="col-10 col-md-7 col-lg-5"
+                  >
+                    <a
+                      class="link-button"
+                      href="/dashboard"
+                    >
+                      Explore our features in the Online Demo
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`should render component 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="row no-gutters"
+      >
+        <div
+          class="col-md-12"
+        >
+          <div
+            class="row no-gutters"
+          >
+            <div
+              class="col-md-12"
+            >
+              <nav
+                class="navbar-menu-container navbar navbar-expand-lg navbar-light bg-nav-color"
+              >
+                <span
+                  class="navbar-brand"
+                >
+                  Dashboard UI
+                </span>
+                <div
+                  class="icons-bar d-flex justify-content-around align-items-center"
+                >
+                  <span
+                    class="mr-2 link-border-right"
+                  >
+                    <svg
+                      class="bi bi-search"
+                      fill="currentColor"
+                      height="1.8em"
+                      viewBox="0 0 16 16"
+                      width="2em"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M10.442 10.442a1 1 0 0 1 1.415 0l3.85 3.85a1 1 0 0 1-1.414 1.415l-3.85-3.85a1 1 0 0 1 0-1.415z"
+                        fill-rule="evenodd"
+                      />
+                      <path
+                        d="M6.5 12a5.5 5.5 0 1 0 0-11 5.5 5.5 0 0 0 0 11zM13 6.5a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0z"
+                        fill-rule="evenodd"
+                      />
+                    </svg>
+                  </span>
+                  <svg
+                    class="bi bi-person"
+                    fill="currentColor"
+                    height="2em"
+                    viewBox="0 0 16 16"
+                    width="2em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M10 5a2 2 0 1 1-4 0 2 2 0 0 1 4 0zM8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm6 5c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4zm-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10c-2.29 0-3.516.68-4.168 1.332-.678.678-.83 1.418-.832 1.664h10z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </div>
+                <button
+                  aria-controls="basic-navbar-nav"
+                  aria-label="Toggle navigation"
+                  class="navbar-toggler collapsed"
+                  type="button"
+                >
+                  <span
+                    class="navbar-toggler-icon"
+                  />
+                </button>
+                <div
+                  class="navbar-collapse collapse"
+                  id="basic-navbar-nav"
+                >
+                  <div
+                    class="mr-auto w-100 navbar-nav"
+                  >
+                    <a
+                      class="link-border-right ml-lg-auto nav-link"
+                      data-rb-event-key="#/"
+                      href="#/"
+                    >
+                      PRODUCTS
+                    </a>
+                    <a
+                      class="link-border-right nav-link"
+                      data-rb-event-key="#/"
+                      href="#/"
+                    >
+                      DOWNLOADS
+                    </a>
+                    <a
+                      class="link-border-right nav-link"
+                      data-rb-event-key="#/"
+                      href="#/"
+                    >
+                      PRICING
+                    </a>
+                    <a
+                      class="link-border-right nav-link"
+                      data-rb-event-key="#/"
+                      href="#/"
+                    >
+                      COMPANY
+                    </a>
+                    <span
+                      class="ml-2 mt-2 icon-search-svg"
+                    >
+                      <svg
+                        class="bi bi-search"
+                        fill="currentColor"
+                        height="1em"
+                        viewBox="0 0 16 16"
+                        width="1em"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M10.442 10.442a1 1 0 0 1 1.415 0l3.85 3.85a1 1 0 0 1-1.414 1.415l-3.85-3.85a1 1 0 0 1 0-1.415z"
+                          fill-rule="evenodd"
+                        />
+                        <path
+                          d="M6.5 12a5.5 5.5 0 1 0 0-11 5.5 5.5 0 0 0 0 11zM13 6.5a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0z"
+                          fill-rule="evenodd"
+                        />
+                      </svg>
+                    </span>
+                  </div>
+                </div>
+                <div
+                  class="user-action flex-grow-0 ml-3 navbar-collapse collapse"
+                >
+                  <a
+                    class="link-border-right nav-link"
+                    href="#/"
+                  >
+                    LOG IN
+                  </a>
+                  <a
+                    class="sign-up-btn ml-2 mr-2 nav-link"
+                    href="#/"
+                  >
+                    SIGN UP
+                  </a>
+                </div>
+              </nav>
+            </div>
+          </div>
+          <div
+            class="row no-gutters"
+          >
+            <div
+              class="col-md-12"
+            >
+              <div
+                class="row no-gutters"
+              >
+                <div
+                  class="col-md-12"
+                >
+                  <div
+                    class="row no-gutters"
+                    style="background: rgb(11, 61, 127); height: 250px; align-items: center;"
+                  >
+                    <div
+                      class="col-md-12"
+                    >
+                      <div
+                        class="row no-gutters"
+                      >
+                        <div
+                          class="col-md-12 mt-2"
+                        >
+                          <div
+                            class="row no-gutters justify-content-center m-3"
+                          >
+                            <div
+                              class="col-md-8 text-center"
+                            >
+                              <h2
+                                class="text-white"
+                              >
+                                Dashboards
+                              </h2>
+                            </div>
+                          </div>
+                          <div
+                            class="row no-gutters justify-content-center mb-2 text-white text-center"
+                          >
+                            <div
+                              class="col-md-8 col-11"
+                            >
+                              This is a powerful, flexible and easily customizable business intelligence tool for data analysis. Dashboards is the best solution for displaying metrics in an understandable and readable form. You may embed our dashboards into your application.
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="row no-gutters"
+                    style="background: rgb(42, 122, 185); height: 520px;"
+                  >
+                    <div
+                      class="col-md-12"
+                    >
+                      <div
+                        class="row no-gutters"
+                      >
+                        <div
+                          class="col-md-12 mt-2"
+                        >
+                          <div
+                            class="row no-gutters justify-content-center m-3"
+                          >
+                            <div
+                              class="col-md-8 text-center"
+                            >
+                              <h2
+                                class="text-white"
+                              >
+                                Work with data
+                              </h2>
+                            </div>
+                          </div>
+                          <div
+                            class="row no-gutters justify-content-center mb-5 text-white text-center"
+                          >
+                            <div
+                              class="col-md-8 col-11"
+                            >
+                              The dashboards components supports more than 15 types of data servers - MS SQL, Oracle, PostgreSQL, Firebird, and others. Our products support all standard types of ADO.NET objects, the OData protocol, the ability to load data from XML, JSON, Excel and CSV files, work with multi-level business objects.
+                            </div>
+                          </div>
+                          <div
+                            class="row no-gutters justify-content-center mb-5"
+                          >
+                            <div
+                              class="col-md-7 col-12 d-none d-md-block type-images"
+                            >
+                              <img
+                                class="wow fadeInUp m-2"
+                                data-wow-delay="0.5s"
+                                data-wow-duration="5s"
+                                height="50"
+                                src="azure.svg"
+                                width="50"
+                              />
+                              <img
+                                class="wow fadeInUp m-2"
+                                data-wow-delay="0.5s"
+                                data-wow-duration="5s"
+                                height="50"
+                                src="csv.svg"
+                                width="50"
+                              />
+                              <img
+                                class="wow fadeInUp m-2"
+                                data-wow-delay="0.5s"
+                                data-wow-duration="5s"
+                                height="50"
+                                src="db2.svg"
+                                width="50"
+                              />
+                              <img
+                                class="wow fadeInUp m-2"
+                                data-wow-delay="0.5s"
+                                data-wow-duration="5s"
+                                height="50"
+                                src="dbase.svg"
+                                width="50"
+                              />
+                              <img
+                                class="wow fadeInUp m-2"
+                                data-wow-delay="0.5s"
+                                data-wow-duration="5s"
+                                height="50"
+                                src="excel.svg"
+                                width="50"
+                              />
+                              <img
+                                class="wow fadeInUp m-2"
+                                data-wow-delay="0.5s"
+                                data-wow-duration="5s"
+                                height="50"
+                                src="firebird.svg"
+                                width="50"
+                              />
+                              <img
+                                class="wow fadeInUp m-2"
+                                data-wow-delay="0.5s"
+                                data-wow-duration="5s"
+                                height="50"
+                                src="google.svg"
+                                width="50"
+                              />
+                              <img
+                                class="wow fadeInUp m-2"
+                                data-wow-delay="0.5s"
+                                data-wow-duration="5s"
+                                height="50"
+                                src="informix.svg"
+                                width="50"
+                              />
+                              <img
+                                class="wow fadeInUp m-2"
+                                data-wow-delay="0.5s"
+                                data-wow-duration="5s"
+                                height="50"
+                                src="json.svg"
+                                width="50"
+                              />
+                              <img
+                                class="wow fadeInUp m-2"
+                                data-wow-delay="0.5s"
+                                data-wow-duration="5s"
+                                height="50"
+                                src="mongo.svg"
+                                width="50"
+                              />
+                              <img
+                                class="wow fadeInUp m-2"
+                                data-wow-delay="0.5s"
+                                data-wow-duration="5s"
+                                height="50"
+                                src="msaccess.svg"
+                                width="50"
+                              />
+                              <img
+                                class="wow fadeInUp m-2"
+                                data-wow-delay="0.5s"
+                                data-wow-duration="5s"
+                                height="50"
+                                src="mssql.svg"
+                                width="50"
+                              />
+                              <img
+                                class="wow fadeInUp m-2"
+                                data-wow-delay="0.5s"
+                                data-wow-duration="5s"
+                                height="50"
+                                src="mysql.svg"
+                                width="50"
+                              />
+                              <img
+                                class="wow fadeInUp m-2"
+                                data-wow-delay="0.5s"
+                                data-wow-duration="5s"
+                                height="50"
+                                src="odata.svg"
+                                width="50"
+                              />
+                              <img
+                                class="wow fadeInUp m-2"
+                                data-wow-delay="0.5s"
+                                data-wow-duration="5s"
+                                height="50"
+                                src="odbc.svg"
+                                width="50"
+                              />
+                              <img
+                                class="wow fadeInUp m-2"
+                                data-wow-delay="0.5s"
+                                data-wow-duration="5s"
+                                height="50"
+                                src="oracle.svg"
+                                width="50"
+                              />
+                              <img
+                                class="wow fadeInUp m-2"
+                                data-wow-delay="0.5s"
+                                data-wow-duration="5s"
+                                height="50"
+                                src="postgre.svg"
+                                width="50"
+                              />
+                              <img
+                                class="wow fadeInUp m-2"
+                                data-wow-delay="0.5s"
+                                data-wow-duration="5s"
+                                height="50"
+                                src="sqlite.svg"
+                                width="50"
+                              />
+                              <img
+                                class="wow fadeInUp m-2"
+                                data-wow-delay="0.5s"
+                                data-wow-duration="5s"
+                                height="50"
+                                src="sybase.svg"
+                                width="50"
+                              />
+                              <img
+                                class="wow fadeInUp m-2"
+                                data-wow-delay="0.5s"
+                                data-wow-duration="5s"
+                                height="50"
+                                src="teradata.svg"
+                                width="50"
+                              />
+                              <img
+                                class="wow fadeInUp m-2"
+                                data-wow-delay="0.5s"
+                                data-wow-duration="5s"
+                                height="50"
+                                src="vistadb.svg"
+                                width="50"
+                              />
+                              <img
+                                class="wow fadeInUp m-2"
+                                data-wow-delay="0.5s"
+                                data-wow-duration="5s"
+                                height="50"
+                                src="xml.svg"
+                                width="50"
+                              />
+                            </div>
+                          </div>
+                          <div
+                            class="row no-gutters justify-content-center mb-2 text-white text-center"
+                          >
+                            <div
+                              class="col-md-8 col-11"
+                            >
+                              Preliminary data preparation and conversion are available. You may use virtual data sources, and you may embed data directly into the template in the form of resources. Do not think about how to prepare data for the report - Dashboards will do it for you!
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="row no-gutters"
+                    style="background: rgb(235, 237, 239); height: auto;"
+                  >
+                    <div
+                      class="col-md-12"
+                    >
+                      <div
+                        class="row no-gutters"
+                      >
+                        <div
+                          class="col-md-12 mt-2"
+                        >
+                          <div
+                            class="row no-gutters justify-content-center m-3"
+                          >
+                            <div
+                              class="col-md-8 text-center"
+                            >
+                              <h2>
+                                Components for Dashboards
+                              </h2>
+                            </div>
+                          </div>
+                          <div
+                            class="row no-gutters justify-content-center mb-4 text-center"
+                          >
+                            <div
+                              class="col-md-8 col-11"
+                            >
+                              Using Dashboards, you can easily create informative and understandable panels using a wide range of components. All you need is to drag and drop the data to the appropriate fields and adjust them using a wide variety of properties.
+                            </div>
+                          </div>
+                          <div
+                            class="row no-gutters justify-content-center"
+                          >
+                            <div
+                              class="col-md-6 col-lg-10 pl-4"
+                            >
+                              <div
+                                class="row no-gutters mb-4"
+                              >
+                                <div
+                                  class="col-md-12 col-lg-4 pb-2"
+                                >
+                                  <div
+                                    class="dashboard-component text-center"
+                                  >
+                                    <img
+                                      height="300"
+                                      src="chart.png"
+                                      width="310"
+                                    />
+                                    <h2>
+                                      Chart
+                                    </h2>
+                                    <p>
+                                      Add various types of graphs for data analysis
+                                    </p>
+                                  </div>
+                                </div>
+                                <div
+                                  class="col-md-12 col-lg-4 pb-2"
+                                >
+                                  <div
+                                    class="dashboard-component text-center"
+                                  >
+                                    <img
+                                      height="300"
+                                      src="table.png"
+                                      width="310"
+                                    />
+                                    <h2>
+                                      Table
+                                    </h2>
+                                    <p>
+                                      Create complex custom tables with totals
+                                    </p>
+                                  </div>
+                                </div>
+                                <div
+                                  class="col-md-12 col-lg-4 pb-2"
+                                >
+                                  <div
+                                    class="dashboard-component text-center"
+                                  >
+                                    <img
+                                      height="300"
+                                      src="gauge.png"
+                                      width="310"
+                                    />
+                                    <h2>
+                                      Gauge
+                                    </h2>
+                                    <p>
+                                      Measure your goals versus what you already reached
+                                    </p>
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="row no-gutters mb-4"
+                              >
+                                <div
+                                  class="col-md-12 col-lg-4 pb-2"
+                                >
+                                  <div
+                                    class="dashboard-component text-center"
+                                  >
+                                    <img
+                                      height="300"
+                                      src="pivot.png"
+                                      width="310"
+                                    />
+                                    <h2>
+                                      Pivot
+                                    </h2>
+                                    <p>
+                                      Quickly summarize large amounts of data in pivot tables
+                                    </p>
+                                  </div>
+                                </div>
+                                <div
+                                  class="col-md-12 col-lg-4 pb-2"
+                                >
+                                  <div
+                                    class="dashboard-component text-center"
+                                  >
+                                    <img
+                                      height="300"
+                                      src="indicator.png"
+                                      width="310"
+                                    />
+                                    <h2>
+                                      Indicator
+                                    </h2>
+                                    <p>
+                                      View summary statistics for Sum, Min, and Max values
+                                    </p>
+                                  </div>
+                                </div>
+                                <div
+                                  class="col-md-12 col-lg-4 pb-2"
+                                >
+                                  <div
+                                    class="dashboard-component text-center"
+                                  >
+                                    <img
+                                      height="300"
+                                      src="map.png"
+                                      width="310"
+                                    />
+                                    <h2>
+                                      Map
+                                    </h2>
+                                    <p>
+                                      Setup geographical coordinates for your analytics
+                                    </p>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="row no-gutters"
+                    style="background: rgb(67, 84, 101); height: auto;"
+                  >
+                    <div
+                      class="col-md-12"
+                    >
+                      <div
+                        class="row no-gutters"
+                      >
+                        <div
+                          class="col-md-12 mt-2"
+                        >
+                          <div
+                            class="row no-gutters justify-content-center m-3"
+                          >
+                            <div
+                              class="col-md-8 text-center"
+                            >
+                              <h2
+                                class="text-white"
+                              >
+                                Creation and viewing
+                              </h2>
+                            </div>
+                          </div>
+                          <div
+                            class="row no-gutters justify-content-center mb-2 text-white text-center"
+                          >
+                            <div
+                              class="col-md-8 col-11"
+                            >
+                              Use our components on any platform – in Win applications, Web projects or JavaScript solutions. We support work with all major technologies – WinForms, WPF, ASP.NET, MVC, .NET Core, JavaScript, PHP, etc.
+                            </div>
+                          </div>
+                          <div
+                            class="row no-gutters justify-content-center mb-2"
+                          >
+                            <div
+                              class="col-md-10 col-lg-8 mt-4 mb-4 d-none d-md-block"
+                            >
+                              <div
+                                class="row no-gutters"
+                              >
+                                <div
+                                  class="col-md-2"
+                                >
+                                  <div
+                                    class="d-flex flex-column wow fadeInUp m-2"
+                                    data-testid="summary-label"
+                                    data-wow-delay="0.5s"
+                                    data-wow-duration="5s"
+                                  >
+                                    <div
+                                      class="summary-value d-flex justify-content-center align-items-center"
+                                    >
+                                      7+
+                                    </div>
+                                    <div
+                                      class="summary-label text-center text-white text-uppercase m-1"
+                                    >
+                                      supported platforms
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  class="col-md-2"
+                                >
+                                  <div
+                                    class="d-flex flex-column flex-column-reverse wow fadeInUp m-2"
+                                    data-testid="summary-label"
+                                    data-wow-delay="0.5s"
+                                    data-wow-duration="5s"
+                                  >
+                                    <div
+                                      class="summary-value d-flex justify-content-center align-items-center"
+                                    >
+                                      17+
+                                    </div>
+                                    <div
+                                      class="summary-label text-center text-white text-uppercase m-1"
+                                    >
+                                      customizable elements
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  class="col-md-2"
+                                >
+                                  <div
+                                    class="d-flex flex-column wow fadeInUp m-2"
+                                    data-testid="summary-label"
+                                    data-wow-delay="0.5s"
+                                    data-wow-duration="5s"
+                                  >
+                                    <div
+                                      class="summary-value d-flex justify-content-center align-items-center"
+                                    >
+                                      11
+                                    </div>
+                                    <div
+                                      class="summary-label text-center text-white text-uppercase m-1"
+                                    >
+                                      preset styles
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  class="col-md-2"
+                                >
+                                  <div
+                                    class="d-flex flex-column flex-column-reverse wow fadeInUp m-2"
+                                    data-testid="summary-label"
+                                    data-wow-delay="0.5s"
+                                    data-wow-duration="5s"
+                                  >
+                                    <div
+                                      class="summary-value d-flex justify-content-center align-items-center"
+                                    >
+                                      42
+                                    </div>
+                                    <div
+                                      class="summary-label text-center text-white text-uppercase m-1"
+                                    >
+                                      supported charts
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  class="col-md-2"
+                                >
+                                  <div
+                                    class="d-flex flex-column wow fadeInUp m-2"
+                                    data-testid="summary-label"
+                                    data-wow-delay="0.5s"
+                                    data-wow-duration="5s"
+                                  >
+                                    <div
+                                      class="summary-value d-flex justify-content-center align-items-center"
+                                    >
+                                      18
+                                    </div>
+                                    <div
+                                      class="summary-label text-center text-white text-uppercase m-1"
+                                    >
+                                      format exports
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  class="col-md-2"
+                                >
+                                  <div
+                                    class="d-flex flex-column flex-column-reverse wow fadeInUp m-2"
+                                    data-testid="summary-label"
+                                    data-wow-delay="0.5s"
+                                    data-wow-duration="5s"
+                                  >
+                                    <div
+                                      class="summary-value d-flex justify-content-center align-items-center"
+                                    >
+                                      40+
+                                    </div>
+                                    <div
+                                      class="summary-label text-center text-white text-uppercase m-1"
+                                    >
+                                      interface localizations
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div
+                            class="row no-gutters justify-content-center mb-5"
+                          >
+                            <div
+                              class="col-10 col-md-7 col-lg-5"
+                            >
+                              <a
+                                class="link-button"
+                                href="/dashboard"
+                              >
+                                Explore our features in the Online Demo
+                              </a>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="row no-gutters"
+    >
+      <div
+        class="col-md-12"
+      >
+        <div
+          class="row no-gutters"
+        >
+          <div
+            class="col-md-12"
+          >
+            <nav
+              class="navbar-menu-container navbar navbar-expand-lg navbar-light bg-nav-color"
+            >
+              <span
+                class="navbar-brand"
+              >
+                Dashboard UI
+              </span>
+              <div
+                class="icons-bar d-flex justify-content-around align-items-center"
+              >
+                <span
+                  class="mr-2 link-border-right"
+                >
+                  <svg
+                    class="bi bi-search"
+                    fill="currentColor"
+                    height="1.8em"
+                    viewBox="0 0 16 16"
+                    width="2em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M10.442 10.442a1 1 0 0 1 1.415 0l3.85 3.85a1 1 0 0 1-1.414 1.415l-3.85-3.85a1 1 0 0 1 0-1.415z"
+                      fill-rule="evenodd"
+                    />
+                    <path
+                      d="M6.5 12a5.5 5.5 0 1 0 0-11 5.5 5.5 0 0 0 0 11zM13 6.5a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </span>
+                <svg
+                  class="bi bi-person"
+                  fill="currentColor"
+                  height="2em"
+                  viewBox="0 0 16 16"
+                  width="2em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M10 5a2 2 0 1 1-4 0 2 2 0 0 1 4 0zM8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm6 5c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4zm-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10c-2.29 0-3.516.68-4.168 1.332-.678.678-.83 1.418-.832 1.664h10z"
+                    fill-rule="evenodd"
+                  />
+                </svg>
+              </div>
+              <button
+                aria-controls="basic-navbar-nav"
+                aria-label="Toggle navigation"
+                class="navbar-toggler collapsed"
+                type="button"
+              >
+                <span
+                  class="navbar-toggler-icon"
+                />
+              </button>
+              <div
+                class="navbar-collapse collapse"
+                id="basic-navbar-nav"
+              >
+                <div
+                  class="mr-auto w-100 navbar-nav"
+                >
+                  <a
+                    class="link-border-right ml-lg-auto nav-link"
+                    data-rb-event-key="#/"
+                    href="#/"
+                  >
+                    PRODUCTS
+                  </a>
+                  <a
+                    class="link-border-right nav-link"
+                    data-rb-event-key="#/"
+                    href="#/"
+                  >
+                    DOWNLOADS
+                  </a>
+                  <a
+                    class="link-border-right nav-link"
+                    data-rb-event-key="#/"
+                    href="#/"
+                  >
+                    PRICING
+                  </a>
+                  <a
+                    class="link-border-right nav-link"
+                    data-rb-event-key="#/"
+                    href="#/"
+                  >
+                    COMPANY
+                  </a>
+                  <span
+                    class="ml-2 mt-2 icon-search-svg"
+                  >
+                    <svg
+                      class="bi bi-search"
+                      fill="currentColor"
+                      height="1em"
+                      viewBox="0 0 16 16"
+                      width="1em"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M10.442 10.442a1 1 0 0 1 1.415 0l3.85 3.85a1 1 0 0 1-1.414 1.415l-3.85-3.85a1 1 0 0 1 0-1.415z"
+                        fill-rule="evenodd"
+                      />
+                      <path
+                        d="M6.5 12a5.5 5.5 0 1 0 0-11 5.5 5.5 0 0 0 0 11zM13 6.5a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0z"
+                        fill-rule="evenodd"
+                      />
+                    </svg>
+                  </span>
+                </div>
+              </div>
+              <div
+                class="user-action flex-grow-0 ml-3 navbar-collapse collapse"
+              >
+                <a
+                  class="link-border-right nav-link"
+                  href="#/"
+                >
+                  LOG IN
+                </a>
+                <a
+                  class="sign-up-btn ml-2 mr-2 nav-link"
+                  href="#/"
+                >
+                  SIGN UP
+                </a>
+              </div>
+            </nav>
+          </div>
+        </div>
+        <div
+          class="row no-gutters"
+        >
+          <div
+            class="col-md-12"
+          >
+            <div
+              class="row no-gutters"
+            >
+              <div
+                class="col-md-12"
+              >
+                <div
+                  class="row no-gutters"
+                  style="background: rgb(11, 61, 127); height: 250px; align-items: center;"
+                >
+                  <div
+                    class="col-md-12"
+                  >
+                    <div
+                      class="row no-gutters"
+                    >
+                      <div
+                        class="col-md-12 mt-2"
+                      >
+                        <div
+                          class="row no-gutters justify-content-center m-3"
+                        >
+                          <div
+                            class="col-md-8 text-center"
+                          >
+                            <h2
+                              class="text-white"
+                            >
+                              Dashboards
+                            </h2>
+                          </div>
+                        </div>
+                        <div
+                          class="row no-gutters justify-content-center mb-2 text-white text-center"
+                        >
+                          <div
+                            class="col-md-8 col-11"
+                          >
+                            This is a powerful, flexible and easily customizable business intelligence tool for data analysis. Dashboards is the best solution for displaying metrics in an understandable and readable form. You may embed our dashboards into your application.
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="row no-gutters"
+                  style="background: rgb(42, 122, 185); height: 520px;"
+                >
+                  <div
+                    class="col-md-12"
+                  >
+                    <div
+                      class="row no-gutters"
+                    >
+                      <div
+                        class="col-md-12 mt-2"
+                      >
+                        <div
+                          class="row no-gutters justify-content-center m-3"
+                        >
+                          <div
+                            class="col-md-8 text-center"
+                          >
+                            <h2
+                              class="text-white"
+                            >
+                              Work with data
+                            </h2>
+                          </div>
+                        </div>
+                        <div
+                          class="row no-gutters justify-content-center mb-5 text-white text-center"
+                        >
+                          <div
+                            class="col-md-8 col-11"
+                          >
+                            The dashboards components supports more than 15 types of data servers - MS SQL, Oracle, PostgreSQL, Firebird, and others. Our products support all standard types of ADO.NET objects, the OData protocol, the ability to load data from XML, JSON, Excel and CSV files, work with multi-level business objects.
+                          </div>
+                        </div>
+                        <div
+                          class="row no-gutters justify-content-center mb-5"
+                        >
+                          <div
+                            class="col-md-7 col-12 d-none d-md-block type-images"
+                          >
+                            <img
+                              class="wow fadeInUp m-2"
+                              data-wow-delay="0.5s"
+                              data-wow-duration="5s"
+                              height="50"
+                              src="azure.svg"
+                              width="50"
+                            />
+                            <img
+                              class="wow fadeInUp m-2"
+                              data-wow-delay="0.5s"
+                              data-wow-duration="5s"
+                              height="50"
+                              src="csv.svg"
+                              width="50"
+                            />
+                            <img
+                              class="wow fadeInUp m-2"
+                              data-wow-delay="0.5s"
+                              data-wow-duration="5s"
+                              height="50"
+                              src="db2.svg"
+                              width="50"
+                            />
+                            <img
+                              class="wow fadeInUp m-2"
+                              data-wow-delay="0.5s"
+                              data-wow-duration="5s"
+                              height="50"
+                              src="dbase.svg"
+                              width="50"
+                            />
+                            <img
+                              class="wow fadeInUp m-2"
+                              data-wow-delay="0.5s"
+                              data-wow-duration="5s"
+                              height="50"
+                              src="excel.svg"
+                              width="50"
+                            />
+                            <img
+                              class="wow fadeInUp m-2"
+                              data-wow-delay="0.5s"
+                              data-wow-duration="5s"
+                              height="50"
+                              src="firebird.svg"
+                              width="50"
+                            />
+                            <img
+                              class="wow fadeInUp m-2"
+                              data-wow-delay="0.5s"
+                              data-wow-duration="5s"
+                              height="50"
+                              src="google.svg"
+                              width="50"
+                            />
+                            <img
+                              class="wow fadeInUp m-2"
+                              data-wow-delay="0.5s"
+                              data-wow-duration="5s"
+                              height="50"
+                              src="informix.svg"
+                              width="50"
+                            />
+                            <img
+                              class="wow fadeInUp m-2"
+                              data-wow-delay="0.5s"
+                              data-wow-duration="5s"
+                              height="50"
+                              src="json.svg"
+                              width="50"
+                            />
+                            <img
+                              class="wow fadeInUp m-2"
+                              data-wow-delay="0.5s"
+                              data-wow-duration="5s"
+                              height="50"
+                              src="mongo.svg"
+                              width="50"
+                            />
+                            <img
+                              class="wow fadeInUp m-2"
+                              data-wow-delay="0.5s"
+                              data-wow-duration="5s"
+                              height="50"
+                              src="msaccess.svg"
+                              width="50"
+                            />
+                            <img
+                              class="wow fadeInUp m-2"
+                              data-wow-delay="0.5s"
+                              data-wow-duration="5s"
+                              height="50"
+                              src="mssql.svg"
+                              width="50"
+                            />
+                            <img
+                              class="wow fadeInUp m-2"
+                              data-wow-delay="0.5s"
+                              data-wow-duration="5s"
+                              height="50"
+                              src="mysql.svg"
+                              width="50"
+                            />
+                            <img
+                              class="wow fadeInUp m-2"
+                              data-wow-delay="0.5s"
+                              data-wow-duration="5s"
+                              height="50"
+                              src="odata.svg"
+                              width="50"
+                            />
+                            <img
+                              class="wow fadeInUp m-2"
+                              data-wow-delay="0.5s"
+                              data-wow-duration="5s"
+                              height="50"
+                              src="odbc.svg"
+                              width="50"
+                            />
+                            <img
+                              class="wow fadeInUp m-2"
+                              data-wow-delay="0.5s"
+                              data-wow-duration="5s"
+                              height="50"
+                              src="oracle.svg"
+                              width="50"
+                            />
+                            <img
+                              class="wow fadeInUp m-2"
+                              data-wow-delay="0.5s"
+                              data-wow-duration="5s"
+                              height="50"
+                              src="postgre.svg"
+                              width="50"
+                            />
+                            <img
+                              class="wow fadeInUp m-2"
+                              data-wow-delay="0.5s"
+                              data-wow-duration="5s"
+                              height="50"
+                              src="sqlite.svg"
+                              width="50"
+                            />
+                            <img
+                              class="wow fadeInUp m-2"
+                              data-wow-delay="0.5s"
+                              data-wow-duration="5s"
+                              height="50"
+                              src="sybase.svg"
+                              width="50"
+                            />
+                            <img
+                              class="wow fadeInUp m-2"
+                              data-wow-delay="0.5s"
+                              data-wow-duration="5s"
+                              height="50"
+                              src="teradata.svg"
+                              width="50"
+                            />
+                            <img
+                              class="wow fadeInUp m-2"
+                              data-wow-delay="0.5s"
+                              data-wow-duration="5s"
+                              height="50"
+                              src="vistadb.svg"
+                              width="50"
+                            />
+                            <img
+                              class="wow fadeInUp m-2"
+                              data-wow-delay="0.5s"
+                              data-wow-duration="5s"
+                              height="50"
+                              src="xml.svg"
+                              width="50"
+                            />
+                          </div>
+                        </div>
+                        <div
+                          class="row no-gutters justify-content-center mb-2 text-white text-center"
+                        >
+                          <div
+                            class="col-md-8 col-11"
+                          >
+                            Preliminary data preparation and conversion are available. You may use virtual data sources, and you may embed data directly into the template in the form of resources. Do not think about how to prepare data for the report - Dashboards will do it for you!
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="row no-gutters"
+                  style="background: rgb(235, 237, 239); height: auto;"
+                >
+                  <div
+                    class="col-md-12"
+                  >
+                    <div
+                      class="row no-gutters"
+                    >
+                      <div
+                        class="col-md-12 mt-2"
+                      >
+                        <div
+                          class="row no-gutters justify-content-center m-3"
+                        >
+                          <div
+                            class="col-md-8 text-center"
+                          >
+                            <h2>
+                              Components for Dashboards
+                            </h2>
+                          </div>
+                        </div>
+                        <div
+                          class="row no-gutters justify-content-center mb-4 text-center"
+                        >
+                          <div
+                            class="col-md-8 col-11"
+                          >
+                            Using Dashboards, you can easily create informative and understandable panels using a wide range of components. All you need is to drag and drop the data to the appropriate fields and adjust them using a wide variety of properties.
+                          </div>
+                        </div>
+                        <div
+                          class="row no-gutters justify-content-center"
+                        >
+                          <div
+                            class="col-md-6 col-lg-10 pl-4"
+                          >
+                            <div
+                              class="row no-gutters mb-4"
+                            >
+                              <div
+                                class="col-md-12 col-lg-4 pb-2"
+                              >
+                                <div
+                                  class="dashboard-component text-center"
+                                >
+                                  <img
+                                    height="300"
+                                    src="chart.png"
+                                    width="310"
+                                  />
+                                  <h2>
+                                    Chart
+                                  </h2>
+                                  <p>
+                                    Add various types of graphs for data analysis
+                                  </p>
+                                </div>
+                              </div>
+                              <div
+                                class="col-md-12 col-lg-4 pb-2"
+                              >
+                                <div
+                                  class="dashboard-component text-center"
+                                >
+                                  <img
+                                    height="300"
+                                    src="table.png"
+                                    width="310"
+                                  />
+                                  <h2>
+                                    Table
+                                  </h2>
+                                  <p>
+                                    Create complex custom tables with totals
+                                  </p>
+                                </div>
+                              </div>
+                              <div
+                                class="col-md-12 col-lg-4 pb-2"
+                              >
+                                <div
+                                  class="dashboard-component text-center"
+                                >
+                                  <img
+                                    height="300"
+                                    src="gauge.png"
+                                    width="310"
+                                  />
+                                  <h2>
+                                    Gauge
+                                  </h2>
+                                  <p>
+                                    Measure your goals versus what you already reached
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div
+                              class="row no-gutters mb-4"
+                            >
+                              <div
+                                class="col-md-12 col-lg-4 pb-2"
+                              >
+                                <div
+                                  class="dashboard-component text-center"
+                                >
+                                  <img
+                                    height="300"
+                                    src="pivot.png"
+                                    width="310"
+                                  />
+                                  <h2>
+                                    Pivot
+                                  </h2>
+                                  <p>
+                                    Quickly summarize large amounts of data in pivot tables
+                                  </p>
+                                </div>
+                              </div>
+                              <div
+                                class="col-md-12 col-lg-4 pb-2"
+                              >
+                                <div
+                                  class="dashboard-component text-center"
+                                >
+                                  <img
+                                    height="300"
+                                    src="indicator.png"
+                                    width="310"
+                                  />
+                                  <h2>
+                                    Indicator
+                                  </h2>
+                                  <p>
+                                    View summary statistics for Sum, Min, and Max values
+                                  </p>
+                                </div>
+                              </div>
+                              <div
+                                class="col-md-12 col-lg-4 pb-2"
+                              >
+                                <div
+                                  class="dashboard-component text-center"
+                                >
+                                  <img
+                                    height="300"
+                                    src="map.png"
+                                    width="310"
+                                  />
+                                  <h2>
+                                    Map
+                                  </h2>
+                                  <p>
+                                    Setup geographical coordinates for your analytics
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="row no-gutters"
+                  style="background: rgb(67, 84, 101); height: auto;"
+                >
+                  <div
+                    class="col-md-12"
+                  >
+                    <div
+                      class="row no-gutters"
+                    >
+                      <div
+                        class="col-md-12 mt-2"
+                      >
+                        <div
+                          class="row no-gutters justify-content-center m-3"
+                        >
+                          <div
+                            class="col-md-8 text-center"
+                          >
+                            <h2
+                              class="text-white"
+                            >
+                              Creation and viewing
+                            </h2>
+                          </div>
+                        </div>
+                        <div
+                          class="row no-gutters justify-content-center mb-2 text-white text-center"
+                        >
+                          <div
+                            class="col-md-8 col-11"
+                          >
+                            Use our components on any platform – in Win applications, Web projects or JavaScript solutions. We support work with all major technologies – WinForms, WPF, ASP.NET, MVC, .NET Core, JavaScript, PHP, etc.
+                          </div>
+                        </div>
+                        <div
+                          class="row no-gutters justify-content-center mb-2"
+                        >
+                          <div
+                            class="col-md-10 col-lg-8 mt-4 mb-4 d-none d-md-block"
+                          >
+                            <div
+                              class="row no-gutters"
+                            >
+                              <div
+                                class="col-md-2"
+                              >
+                                <div
+                                  class="d-flex flex-column wow fadeInUp m-2"
+                                  data-testid="summary-label"
+                                  data-wow-delay="0.5s"
+                                  data-wow-duration="5s"
+                                >
+                                  <div
+                                    class="summary-value d-flex justify-content-center align-items-center"
+                                  >
+                                    7+
+                                  </div>
+                                  <div
+                                    class="summary-label text-center text-white text-uppercase m-1"
+                                  >
+                                    supported platforms
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="col-md-2"
+                              >
+                                <div
+                                  class="d-flex flex-column flex-column-reverse wow fadeInUp m-2"
+                                  data-testid="summary-label"
+                                  data-wow-delay="0.5s"
+                                  data-wow-duration="5s"
+                                >
+                                  <div
+                                    class="summary-value d-flex justify-content-center align-items-center"
+                                  >
+                                    17+
+                                  </div>
+                                  <div
+                                    class="summary-label text-center text-white text-uppercase m-1"
+                                  >
+                                    customizable elements
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="col-md-2"
+                              >
+                                <div
+                                  class="d-flex flex-column wow fadeInUp m-2"
+                                  data-testid="summary-label"
+                                  data-wow-delay="0.5s"
+                                  data-wow-duration="5s"
+                                >
+                                  <div
+                                    class="summary-value d-flex justify-content-center align-items-center"
+                                  >
+                                    11
+                                  </div>
+                                  <div
+                                    class="summary-label text-center text-white text-uppercase m-1"
+                                  >
+                                    preset styles
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="col-md-2"
+                              >
+                                <div
+                                  class="d-flex flex-column flex-column-reverse wow fadeInUp m-2"
+                                  data-testid="summary-label"
+                                  data-wow-delay="0.5s"
+                                  data-wow-duration="5s"
+                                >
+                                  <div
+                                    class="summary-value d-flex justify-content-center align-items-center"
+                                  >
+                                    42
+                                  </div>
+                                  <div
+                                    class="summary-label text-center text-white text-uppercase m-1"
+                                  >
+                                    supported charts
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="col-md-2"
+                              >
+                                <div
+                                  class="d-flex flex-column wow fadeInUp m-2"
+                                  data-testid="summary-label"
+                                  data-wow-delay="0.5s"
+                                  data-wow-duration="5s"
+                                >
+                                  <div
+                                    class="summary-value d-flex justify-content-center align-items-center"
+                                  >
+                                    18
+                                  </div>
+                                  <div
+                                    class="summary-label text-center text-white text-uppercase m-1"
+                                  >
+                                    format exports
+                                  </div>
+                                </div>
+                              </div>
+                              <div
+                                class="col-md-2"
+                              >
+                                <div
+                                  class="d-flex flex-column flex-column-reverse wow fadeInUp m-2"
+                                  data-testid="summary-label"
+                                  data-wow-delay="0.5s"
+                                  data-wow-duration="5s"
+                                >
+                                  <div
+                                    class="summary-value d-flex justify-content-center align-items-center"
+                                  >
+                                    40+
+                                  </div>
+                                  <div
+                                    class="summary-label text-center text-white text-uppercase m-1"
+                                  >
+                                    interface localizations
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          class="row no-gutters justify-content-center mb-5"
+                        >
+                          <div
+                            class="col-10 col-md-7 col-lg-5"
+                          >
+                            <a
+                              class="link-button"
+                              href="/dashboard"
+                            >
+                              Explore our features in the Online Demo
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

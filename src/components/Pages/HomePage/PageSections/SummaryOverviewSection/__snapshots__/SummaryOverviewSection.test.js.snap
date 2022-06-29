@@ -1,0 +1,278 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render component 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="row no-gutters"
+        style="background: rgb(67, 84, 101); height: auto;"
+      >
+        <div
+          class="col-md-12"
+        >
+          <div
+            class="row no-gutters"
+          >
+            <div
+              class="col-md-12 mt-2"
+            >
+              <div
+                class="row no-gutters justify-content-center m-3"
+              >
+                <div
+                  class="col-md-8 text-center"
+                >
+                  <h2
+                    class="text-white"
+                  >
+                    Creation and viewing
+                  </h2>
+                </div>
+              </div>
+              <div
+                class="row no-gutters justify-content-center mb-2 text-white text-center"
+              >
+                <div
+                  class="col-md-8 col-11"
+                >
+                  Use our components on any platform – in Win applications, Web projects or JavaScript solutions. We support work with all major technologies – WinForms, WPF, ASP.NET, MVC, .NET Core, JavaScript, PHP, etc.
+                </div>
+              </div>
+              <div
+                class="row no-gutters justify-content-center mb-2"
+              >
+                <div
+                  class="col-md-10 col-lg-8 mt-4 mb-4 d-none d-md-block"
+                >
+                  <div
+                    class="row no-gutters"
+                  >
+                    <div
+                      class="col-md-2"
+                    >
+                      <div
+                        class="d-flex flex-column wow fadeInUp m-2"
+                        data-testid="summary-label"
+                        data-wow-delay="0.5s"
+                        data-wow-duration="5s"
+                      >
+                        <div
+                          class="summary-value d-flex justify-content-center align-items-center"
+                        >
+                          7+
+                        </div>
+                        <div
+                          class="summary-label text-center text-white text-uppercase m-1"
+                        >
+                          supported platforms
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="col-md-2"
+                    >
+                      <div
+                        class="d-flex flex-column flex-column-reverse wow fadeInUp m-2"
+                        data-testid="summary-label"
+                        data-wow-delay="0.5s"
+                        data-wow-duration="5s"
+                      >
+                        <div
+                          class="summary-value d-flex justify-content-center align-items-center"
+                        >
+                          17+
+                        </div>
+                        <div
+                          class="summary-label text-center text-white text-uppercase m-1"
+                        >
+                          customizable elements
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="row no-gutters justify-content-center mb-5"
+              >
+                <div
+                  class="col-10 col-md-7 col-lg-5"
+                >
+                  <a
+                    class="link-button"
+                    href="/dashboard"
+                  >
+                    Explore our features in the Online Demo
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="row no-gutters"
+      style="background: rgb(67, 84, 101); height: auto;"
+    >
+      <div
+        class="col-md-12"
+      >
+        <div
+          class="row no-gutters"
+        >
+          <div
+            class="col-md-12 mt-2"
+          >
+            <div
+              class="row no-gutters justify-content-center m-3"
+            >
+              <div
+                class="col-md-8 text-center"
+              >
+                <h2
+                  class="text-white"
+                >
+                  Creation and viewing
+                </h2>
+              </div>
+            </div>
+            <div
+              class="row no-gutters justify-content-center mb-2 text-white text-center"
+            >
+              <div
+                class="col-md-8 col-11"
+              >
+                Use our components on any platform – in Win applications, Web projects or JavaScript solutions. We support work with all major technologies – WinForms, WPF, ASP.NET, MVC, .NET Core, JavaScript, PHP, etc.
+              </div>
+            </div>
+            <div
+              class="row no-gutters justify-content-center mb-2"
+            >
+              <div
+                class="col-md-10 col-lg-8 mt-4 mb-4 d-none d-md-block"
+              >
+                <div
+                  class="row no-gutters"
+                >
+                  <div
+                    class="col-md-2"
+                  >
+                    <div
+                      class="d-flex flex-column wow fadeInUp m-2"
+                      data-testid="summary-label"
+                      data-wow-delay="0.5s"
+                      data-wow-duration="5s"
+                    >
+                      <div
+                        class="summary-value d-flex justify-content-center align-items-center"
+                      >
+                        7+
+                      </div>
+                      <div
+                        class="summary-label text-center text-white text-uppercase m-1"
+                      >
+                        supported platforms
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="col-md-2"
+                  >
+                    <div
+                      class="d-flex flex-column flex-column-reverse wow fadeInUp m-2"
+                      data-testid="summary-label"
+                      data-wow-delay="0.5s"
+                      data-wow-duration="5s"
+                    >
+                      <div
+                        class="summary-value d-flex justify-content-center align-items-center"
+                      >
+                        17+
+                      </div>
+                      <div
+                        class="summary-label text-center text-white text-uppercase m-1"
+                      >
+                        customizable elements
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="row no-gutters justify-content-center mb-5"
+            >
+              <div
+                class="col-10 col-md-7 col-lg-5"
+              >
+                <a
+                  class="link-button"
+                  href="/dashboard"
+                >
+                  Explore our features in the Online Demo
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
