@@ -1,0 +1,377 @@
+[33mcommit 5dccb92648bff993ed6664032f986b0db4a1061f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Wed Nov 9 16:30:27 2022 +0200
+
+    Fix vulnerabilities in package-lock.json
+
+[33mcommit 7abc97e07e5a258798ad7343c746c481c73cbe32[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Tue Sep 20 12:08:35 2022 +0300
+
+    Update ReactJS to v18.2.0
+
+[33mcommit 55785fba5e32e0e3b7df01c38409bae9f3b42566[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Tue Jul 26 09:56:30 2022 +0300
+
+    Update terser dependency in package-lock.json
+
+[33mcommit 8815e14f049a3594fedfa68180ba9d18b982d5b0[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Fri Jul 8 12:28:34 2022 +0300
+
+    Update moment js dependency
+
+[33mcommit 39b30c2c1c3edd61f9f04ee31c57323a745de361[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Wed Jun 29 12:17:16 2022 +0300
+
+    Replace enzyme with react testing library
+
+[33mcommit 45f7067eecd9fa7c1706a39113810e251b64814a[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Wed Apr 27 18:41:13 2022 +0300
+
+    Add style prop for PageSection
+
+[33mcommit 2f0d7dd30f0ef5ee1a12a4cf3b1e059c8944c186[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Fri Apr 22 13:22:39 2022 +0300
+
+    Update package-lock after update of node to v16.14.2
+
+[33mcommit b2b6c46213f6326db87e356a52d5d5a48665db52[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Thu Apr 21 09:38:16 2022 +0300
+
+    Fix vulnerabilities in package-lock.json
+
+[33mcommit 3376e97c32022f7eb9ad698b36e8bd59b5f169d5[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Sun Apr 17 11:55:57 2022 +0300
+
+    Update README with project description, implemented features and used technologies
+
+[33mcommit 53c3182575d5add61292a5e5f7bf872a0252014c[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Fri Apr 1 10:16:12 2022 +0300
+
+    Update react-router-dom to v6.3.0
+
+[33mcommit e0d8568a1292f62721da819f4df3f0c758caecc2[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Wed Mar 30 09:49:42 2022 +0300
+
+    Integrate react 18
+
+[33mcommit 0ab4ea7ce669d99ee0b9be41511345611fc8f0fa[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Thu Mar 24 14:22:37 2022 +0200
+
+    Fix vulnerabilities in package-lock.json
+
+[33mcommit f75eacb82c3dc560d996e0446a71d3dfa483720c[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Mon Mar 14 10:35:44 2022 +0200
+
+    Integrate react 18 rc
+
+[33mcommit b6f2250a2ea0b294f5bfbfd14e5ef79dd3bfc6e5[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Mon Jan 31 10:07:13 2022 +0200
+
+    Fix vulnerabilities in package-lock.json
+
+[33mcommit bd3a16022df3aae2c85b4cbbb933209e13a72993[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Sun Jan 16 18:18:13 2022 +0200
+
+    Change imports of used antd components
+
+[33mcommit 8ba06912bd2aa264da78e231ea5dec4eedd0e3d5[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Sun Jan 16 15:44:03 2022 +0200
+
+    Remove screenshots directory
+
+[33mcommit 13e64897d8989a75abef890a4b50611992c21c1d[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Sun Jan 16 15:35:47 2022 +0200
+
+    Integrate dashboard components
+
+[33mcommit 43d34ae06a8ce3bcb63a35ee6bbdd75846900562[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Sun Jan 16 15:34:51 2022 +0200
+
+    Implement MarketSummary for DashboardPage
+
+[33mcommit 42ab03ad1652136b304eac67ecb1f44388aae6da[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Sun Jan 16 13:13:17 2022 +0200
+
+    Implement TasksTimeline for DashboardPage
+
+[33mcommit d42f4cacc2d6254aca0421c288d44ffdd3b88105[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Sun Jan 16 13:12:42 2022 +0200
+
+    Implement TableReport for DashboardPage
+
+[33mcommit 32547c5bf7d14cb16214a6dbbf93923e9c980e41[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Sun Jan 16 13:12:09 2022 +0200
+
+    Implement ActiveUsers for DashboardPage
+
+[33mcommit 6b626b150cb1ea0c8131f9bbcc11f819bbc4232f[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Sun Jan 16 13:11:33 2022 +0200
+
+    Implement StatisticCards for DashboardPage
+
+[33mcommit e10501e8df7cfcc5e687b34318541871bf1a3e20[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Sun Jan 16 13:10:34 2022 +0200
+
+    Implement LineChart for DashboardPage
+
+[33mcommit b6009908e53456708e6c3bd8639f70683a0caae3[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Sun Jan 16 13:08:56 2022 +0200
+
+    Add margin in home page sections
+
+[33mcommit 082acb30ce1c2890b4dda19b3ceb22510acfb08e[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Sun Jan 16 13:04:46 2022 +0200
+
+    Add margin in DashboardOverviewSection
+
+[33mcommit 85ddf25532ec341788a9f596921cccbf31f8106e[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Sun Jan 16 13:03:44 2022 +0200
+
+    Add margin in DashboardComponentsOverview
+
+[33mcommit 02da51f51405fe7f4ab1677b7b6366f55fc84545[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Sun Jan 16 13:00:37 2022 +0200
+
+    Refactor Menu in DashboardPage
+
+[33mcommit 37fc2c668f7390480cfd417bd42b714d6d9e8d38[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Sun Jan 16 12:58:58 2022 +0200
+
+    Integrate Link in LinkButton component
+
+[33mcommit 7033b7cb4620317868f2c76662c35e2ebbdeedf8[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Sun Jan 16 12:58:08 2022 +0200
+
+    Add antd and chart.js libraries
+
+[33mcommit 5e00a1646e0bbded1310b8aa1dfbc3c297e66bb3[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Mon Jan 3 15:25:00 2022 +0200
+
+    Migrate to react router v6
+
+[33mcommit 0a341da3317f2078b234699bf6fb60388422d5a1[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Mon Jan 3 15:19:50 2022 +0200
+
+    Migrate to webpack v5
+
+[33mcommit cd9b44281cd37ff6cdd22757e2b52414b1b3ba4f[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Mon Jan 18 13:48:04 2021 +0200
+
+    Replace babel-eslint with babel/eslint-parser
+
+[33mcommit a10474415f5aa93bf176ae39a1831fd31b16c738[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Tue Jan 12 14:18:08 2021 +0200
+
+    Add build script compatible with Vercel
+
+[33mcommit d91d396903072e812d7124501054993929a23eb4[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Tue Jan 12 14:13:35 2021 +0200
+
+    Integrate eslint tool. Added fix script
+
+[33mcommit 11c0fcd4c5f1a400d866e44b6b81b22f96d2f444[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Sat Nov 28 11:14:17 2020 +0200
+
+    Add description in readme
+
+[33mcommit b1dad47a54ba19d7dd3a965dc412e35c2dddc6e1[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Fri Nov 27 17:26:29 2020 +0200
+
+    Implement DashboardPage
+
+[33mcommit d5434b7a25cc6d65900acddc6db4f6126efe9dc1[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Fri Nov 27 17:09:22 2020 +0200
+
+    Introduce ProgressWidget component
+
+[33mcommit 778134dbadf438acfacd769191a0fd83264a2857[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Fri Nov 27 13:56:05 2020 +0200
+
+    Add Menu to Layout's header in DashboardPage
+
+[33mcommit 65e69ebdf8814843149bf544b4de622df345ebe9[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Thu Nov 26 18:13:13 2020 +0200
+
+    Introduce SummaryOverviewSection component
+
+[33mcommit 4ec47e7bcfb33f00ddefecb0b138419639307bb7[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Thu Nov 26 16:11:22 2020 +0200
+
+    Introduce SummaryLabel for SummaryOverviewSection
+
+[33mcommit 7d73bde0dd4137189085959f694524ea4c7cb2aa[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Thu Nov 26 15:11:40 2020 +0200
+
+    Implement DashboardComponentsOverview component
+
+[33mcommit 1b7303161a8d3a23eb22c1212f852569c35f0e0e[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Thu Nov 26 13:20:08 2020 +0200
+
+    Add large column size to DashboardOverviewSection
+
+[33mcommit 117f6b5b198edd374bb1723d545a9738f311e48e[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Thu Nov 26 12:21:49 2020 +0200
+
+    Introduce DashboardComponent
+
+[33mcommit f9b44a07c997e961f0c8e2a44106bd220c03d5f3[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Thu Nov 26 11:25:27 2020 +0200
+
+    Add images for dashboard components
+
+[33mcommit 22f5a5bd56da261179ddac4896541fd4926d92d3[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Thu Nov 26 11:15:49 2020 +0200
+
+    Introduce DashboardComponentsOverview component
+
+[33mcommit c9e7104749802614765b94e436a297c89cb045aa[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Thu Nov 26 11:09:26 2020 +0200
+
+    Refactor PageSection to accept height prop
+
+[33mcommit 20eedd0f7ab915c73da5a919fd3a40a20795c539[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Thu Nov 26 10:52:47 2020 +0200
+
+    Integrate DataOverviewSection into Body in HomePage
+
+[33mcommit b6c2d14a2f45ddca56ca8c2148ef01854c9ac099[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Thu Nov 26 10:41:48 2020 +0200
+
+    Introduce DataOverviewSection component
+
+[33mcommit b55172aaab8f3a0c29ce7eec3aecb32a02ae281a[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Thu Nov 26 10:14:46 2020 +0200
+
+    Add wowjs css animation dependency
+
+[33mcommit 3b9033d64d00d4c0dcc327d34dd44f08f4b4ec34[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Wed Nov 25 15:57:06 2020 +0200
+
+    Add data type images
+
+[33mcommit a905b43b3b5e37685dcb1812b84227e5b539bc85[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Wed Nov 25 15:18:11 2020 +0200
+
+    Integrate DashboardOverviewSection into Body in HomePage
+
+[33mcommit a8a535547083299ca14d9d6191435ae41cd70cf1[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Wed Nov 25 15:14:32 2020 +0200
+
+    remove unnecessary import in tests
+
+[33mcommit 35e39dc7dc4a0865958cc8b576d8dedbe37fa01d[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Wed Nov 25 15:06:39 2020 +0200
+
+    Introduce DashboardOverviewSection component
+
+[33mcommit f333889af3a19865e48d20db9e52abf4493ea4a0[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Wed Nov 25 14:12:49 2020 +0200
+
+    Add z-index to Menu scss
+
+[33mcommit 0a573af0a1975bb9de86a2066785e227d1ec75bf[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Wed Nov 25 12:32:31 2020 +0200
+
+    Introduce LinkButton component
+
+[33mcommit 953c7bda3ca2983bcf042abc5e38c00b724fc281[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Wed Nov 25 12:11:13 2020 +0200
+
+    Introduce PageSection component
+
+[33mcommit 3b4116ff2eccefe9be131c5e3ef8cb4c1231a941[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Wed Nov 25 11:08:53 2020 +0200
+
+    Introduce Menu for Layout's header in HomePage component
+
+[33mcommit 2135da223a9d2b5ccc7aab791cbc8099bcb6bc4d[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Mon Nov 23 17:19:54 2020 +0200
+
+    Add react-bootstrap dependency
+
+[33mcommit 4298e2584e1732ce026ae2a2885303e3fd792584[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Mon Nov 23 16:32:54 2020 +0200
+
+    Integrate React Router
+
+[33mcommit e69efdddb8a691c8a20c020f1ac5d352aa7fe0fb[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Mon Nov 23 16:15:00 2020 +0200
+
+    Introduce Home and Dashboard Pages
+
+[33mcommit e6079faa9fb807d0674f11b79bf9b5f8a3175444[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Mon Nov 23 16:05:02 2020 +0200
+
+    Introduce Layout component
+
+[33mcommit 57d8e87c285eb636161213eb1e7642f934ad5946[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Mon Nov 23 15:21:18 2020 +0200
+
+    Add app structure
+
+[33mcommit d7abbbbd9ee372aa472ff94d5a493f58c1bd4d4a[m
+Author: Grisha Angelov <grisha.angelov89@gmail.com>
+Date:   Mon Nov 23 13:03:31 2020 +0000
+
+    Initial commit
