@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`should render Body 1`] = `
+exports[`should render Body component 1`] = `
 Object {
   "asFragment": [Function],
   "baseElement": <body>
@@ -85,7 +85,7 @@ Object {
 }
 `;
 
-exports[`should render Header 1`] = `
+exports[`should render Header component 1`] = `
 Object {
   "asFragment": [Function],
   "baseElement": <body>
@@ -170,7 +170,7 @@ Object {
 }
 `;
 
-exports[`should render component 1`] = `
+exports[`should render Layout component 1`] = `
 Object {
   "asFragment": [Function],
   "baseElement": <body>

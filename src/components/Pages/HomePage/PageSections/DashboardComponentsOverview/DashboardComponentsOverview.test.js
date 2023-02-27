@@ -2,7 +2,7 @@ import { render } from '@testing-library/react'
 
 import DashboardComponentsOverview from './DashboardComponentsOverview'
 
-test('should render component', () => {
+test('should render DashboardComponentsOverview component', () => {
 
     const components = [
         [
@@ -13,7 +13,7 @@ test('should render component', () => {
         ]
     ]
 
-    const container = render(<DashboardComponentsOverview components={components} />)
+    const view = render(<DashboardComponentsOverview components={components} />)
 
-    expect(container).toMatchSnapshot()
+    expect(view).toMatchSnapshot()
 })

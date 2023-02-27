@@ -10,8 +10,8 @@ window.matchMedia = window.matchMedia || function () {
     }
 }
 
-test('should render component', () => {
-    const container = render(<TableReport />)
+test('should render TableReport component', () => {
+    const view = render(<TableReport />)
 
-    expect(container).toMatchSnapshot()
+    expect(view).toMatchSnapshot()
 })

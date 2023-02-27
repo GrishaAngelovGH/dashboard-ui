@@ -1,19 +1,19 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`should render component 1`] = `
+exports[`should render LinkButton component 1`] = `
 Object {
   "asFragment": [Function],
   "baseElement": <body>
     <div>
       <a
-        class="link-button"
+        class="d-block text-center text-uppercase link-button"
         href="/"
       />
     </div>
   </body>,
   "container": <div>
     <a
-      class="link-button"
+      class="d-block text-center text-uppercase link-button"
       href="/"
     />
   </div>,

@@ -3,8 +3,8 @@ import { MemoryRouter } from 'react-router-dom'
 
 import LinkButton from './LinkButton'
 
-test('should render component', () => {
-    const container = render(<LinkButton href={'/'} />, { wrapper: MemoryRouter })
+test('should render LinkButton component', () => {
+    const view = render(<LinkButton href={'/'} />, { wrapper: MemoryRouter })
 
-    expect(container).toMatchSnapshot()
+    expect(view).toMatchSnapshot()
 })

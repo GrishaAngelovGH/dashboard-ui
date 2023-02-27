@@ -2,8 +2,8 @@ import { render } from '@testing-library/react'
 
 import DashboardComponent from './DashboardComponent'
 
-test('should render component', () => {
-    const container = render(
+test('should render DashboardComponent component', () => {
+    const view = render(
         <DashboardComponent
             image={'chart'}
             title={'Chart'}
@@ -11,5 +11,5 @@ test('should render component', () => {
         />
     )
 
-    expect(container).toMatchSnapshot()
+    expect(view).toMatchSnapshot()
 })

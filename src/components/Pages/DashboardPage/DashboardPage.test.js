@@ -20,8 +20,8 @@ window.matchMedia = window.matchMedia || function () {
 
 window.scrollTo = jest.fn()
 
-test('should render component', () => {
-    const container = render(<DashboardPage />)
+test('should render DashboardPage component', () => {
+    const view = render(<DashboardPage />)
 
-    expect(container).toMatchSnapshot()
+    expect(view).toMatchSnapshot()
 })

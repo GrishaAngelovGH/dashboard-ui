@@ -2,8 +2,8 @@ import { render } from '@testing-library/react'
 
 import ProgressWidget from './ProgressWidget'
 
-test('should render component', () => {
-    const container = render(
+test('should render ProgressWidget component', () => {
+    const view = render(
         <ProgressWidget
             title={'Total Orders'}
             subtitle={'Last year expenses'}
@@ -13,5 +13,5 @@ test('should render component', () => {
         />
     )
 
-    expect(container).toMatchSnapshot()
+    expect(view).toMatchSnapshot()
 })

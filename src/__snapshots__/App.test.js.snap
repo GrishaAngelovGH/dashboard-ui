@@ -780,7 +780,7 @@ Object {
                               class="col-10 col-md-7 col-lg-5"
                             >
                               <a
-                                class="link-button"
+                                class="d-block text-center text-uppercase link-button"
                                 href="#/dashboard"
                               >
                                 Explore our features in the Online Demo
@@ -1575,7 +1575,7 @@ Object {
                             class="col-10 col-md-7 col-lg-5"
                           >
                             <a
-                              class="link-button"
+                              class="d-block text-center text-uppercase link-button"
                               href="#/dashboard"
                             >
                               Explore our features in the Online Demo

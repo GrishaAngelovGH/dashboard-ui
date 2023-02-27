@@ -2,8 +2,8 @@ import { render } from '@testing-library/react'
 
 import StockPriceCard from './StockPriceCard'
 
-test('should render component', () => {
-    const container = render(
+test('should render StockPriceCard component', () => {
+    const view = render(
         <StockPriceCard
             title={'Title 1'}
             value={'173,07'}
@@ -12,5 +12,5 @@ test('should render component', () => {
         />
     )
 
-    expect(container).toMatchSnapshot()
+    expect(view).toMatchSnapshot()
 })

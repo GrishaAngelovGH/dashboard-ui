@@ -2,7 +2,7 @@ import { render, screen } from '@testing-library/react'
 
 import SummaryLabel from './SummaryLabel'
 
-test('should render SummaryLabel', () => {
+test('should render SummaryLabel component', () => {
     render(
         <SummaryLabel
             value={'7+'}
@@ -14,7 +14,7 @@ test('should render SummaryLabel', () => {
     expect(screen.getByTestId('summary-label')).toHaveClass('d-flex flex-column wow fadeInUp m-2')
 })
 
-test('should render inverted SummaryLabel', () => {
+test('should render inverted SummaryLabel component', () => {
     render(
         <SummaryLabel
             value={'7+'}

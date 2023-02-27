@@ -2,20 +2,20 @@ import { render } from '@testing-library/react'
 
 import Menu, { SearchIcon, UserIcon } from './Menu'
 
-test('should render component', () => {
-    const container = render(<Menu />)
+test('should render Menu component', () => {
+    const view = render(<Menu />)
 
-    expect(container).toMatchSnapshot()
+    expect(view).toMatchSnapshot()
 })
 
-test('should render SearchIcon', () => {
-    const container = render(<SearchIcon width={'1'} height={'2'} />)
+test('should render SearchIcon component', () => {
+    const view = render(<SearchIcon width={'1'} height={'2'} />)
 
-    expect(container).toMatchSnapshot()
+    expect(view).toMatchSnapshot()
 })
 
-test('should render UserIcon', () => {
-    const container = render(<UserIcon width={'1'} height={'2'} />)
+test('should render UserIcon component', () => {
+    const view = render(<UserIcon width={'1'} height={'2'} />)
 
-    expect(container).toMatchSnapshot()
+    expect(view).toMatchSnapshot()
 })

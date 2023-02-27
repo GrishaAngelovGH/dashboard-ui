@@ -3,13 +3,13 @@ import { MemoryRouter } from 'react-router-dom'
 
 import SummaryOverviewSection from './SummaryOverviewSection'
 
-test('should render component', () => {
+test('should render SummaryOverviewSection component', () => {
     const summary = [
         { value: '7+', label: 'supported platforms', inverted: false },
         { value: '17+', label: 'customizable elements', inverted: true }
     ]
 
-    const container = render(<SummaryOverviewSection summary={summary} />, { wrapper: MemoryRouter })
+    const view = render(<SummaryOverviewSection summary={summary} />, { wrapper: MemoryRouter })
 
-    expect(container).toMatchSnapshot()
+    expect(view).toMatchSnapshot()
 })

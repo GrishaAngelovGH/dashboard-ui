@@ -10,7 +10,7 @@ class ResizeObserver {
 
 window.ResizeObserver = ResizeObserver
 
-test('should render component', () => {
+test('should render LineChart component', () => {
     const labels = ['January', 'February', 'March', 'April', 'May', 'June', 'July']
 
     const datasets = [
@@ -43,7 +43,7 @@ test('should render component', () => {
         ]
     }
 
-    const container = render(<LineChart labels={labels} datasets={datasets} />)
+    const view = render(<LineChart labels={labels} datasets={datasets} />)
 
-    expect(container).toMatchSnapshot()
+    expect(view).toMatchSnapshot()
 })

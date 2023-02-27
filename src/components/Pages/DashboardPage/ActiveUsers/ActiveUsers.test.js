@@ -10,8 +10,8 @@ window.matchMedia = window.matchMedia || function () {
     }
 }
 
-test('should render component', () => {
-    const container = render(<ActiveUsers />)
+test('should render ActiveUsers component', () => {
+    const view = render(<ActiveUsers />)
 
-    expect(container).toMatchSnapshot()
+    expect(view).toMatchSnapshot()
 })
