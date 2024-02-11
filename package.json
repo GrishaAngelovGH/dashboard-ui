@@ -52,7 +52,7 @@
     "@babel/plugin-transform-react-jsx": "^7.10.4",
     "@babel/register": "^7.6.2",
     "babel-plugin-webpack-alias": "^2.1.2",
-    "canvas": "^2.9.3",
+    "canvas": "^2.11.2",
     "copy-webpack-plugin": "^10.2.0",
     "eslint": "^7.18.0",
     "html-webpack-plugin": "^5.5.0",
@@ -69,6 +69,6 @@
     }
   },
   "engines": {
-    "node": "16.x"
+    "node": "20.x"
   }
 }
