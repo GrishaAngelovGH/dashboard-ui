@@ -1,16 +1,21 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
 
 exports[`should render TasksTimeline component 1`] = `
-Object {
+{
   "asFragment": [Function],
   "baseElement": <body>
     <div>
       <ul
-        class="ant-timeline ant-timeline-alternate"
+        class="ant-timeline ant-timeline-label css-dev-only-do-not-override-1yacf91"
       >
         <li
           class="ant-timeline-item ant-timeline-item-left"
         >
+          <div
+            class="ant-timeline-item-label"
+          >
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, nisi?
+          </div>
           <div
             class="ant-timeline-item-tail"
           />
@@ -19,13 +24,16 @@ Object {
           />
           <div
             class="ant-timeline-item-content"
-          >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, nisi?
-          </div>
+          />
         </li>
         <li
           class="ant-timeline-item ant-timeline-item-right"
         >
+          <div
+            class="ant-timeline-item-label"
+          >
+            Lorem ipsum dolor sit amet.
+          </div>
           <div
             class="ant-timeline-item-tail"
           />
@@ -34,13 +42,16 @@ Object {
           />
           <div
             class="ant-timeline-item-content"
-          >
-            Lorem ipsum dolor sit amet.
-          </div>
+          />
         </li>
         <li
           class="ant-timeline-item ant-timeline-item-left"
         >
+          <div
+            class="ant-timeline-item-label"
+          >
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur eaque quam, aperiam iste vel ipsum laudantium debitis ratione maxime voluptates sequi reprehenderit repellendus rerum nihil distinctio exercitationem vero inventore magni non. Ipsam ipsum maiores consequatur cupiditate excepturi, neque quam dolor facere quos magnam ea sed maxime expedita vitae nobis aliquam?
+          </div>
           <div
             class="ant-timeline-item-tail"
           />
@@ -73,13 +84,16 @@ Object {
           </div>
           <div
             class="ant-timeline-item-content"
-          >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur eaque quam, aperiam iste vel ipsum laudantium debitis ratione maxime voluptates sequi reprehenderit repellendus rerum nihil distinctio exercitationem vero inventore magni non. Ipsam ipsum maiores consequatur cupiditate excepturi, neque quam dolor facere quos magnam ea sed maxime expedita vitae nobis aliquam?
-          </div>
+          />
         </li>
         <li
           class="ant-timeline-item ant-timeline-item-right"
         >
+          <div
+            class="ant-timeline-item-label"
+          >
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, vel!
+          </div>
           <div
             class="ant-timeline-item-tail"
           />
@@ -88,13 +102,16 @@ Object {
           />
           <div
             class="ant-timeline-item-content"
-          >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, vel!
-          </div>
+          />
         </li>
         <li
           class="ant-timeline-item ant-timeline-item-left"
         >
+          <div
+            class="ant-timeline-item-label"
+          >
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. At assumenda id eius. Cupiditate natus reprehenderit sint corrupti dolore provident molestias.
+          </div>
           <div
             class="ant-timeline-item-tail"
           />
@@ -103,13 +120,16 @@ Object {
           />
           <div
             class="ant-timeline-item-content"
-          >
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. At assumenda id eius. Cupiditate natus reprehenderit sint corrupti dolore provident molestias.
-          </div>
+          />
         </li>
         <li
           class="ant-timeline-item ant-timeline-item-last ant-timeline-item-right"
         >
+          <div
+            class="ant-timeline-item-label"
+          >
+            Lorem ipsum dolor sit amet.
+          </div>
           <div
             class="ant-timeline-item-tail"
           />
@@ -142,20 +162,23 @@ Object {
           </div>
           <div
             class="ant-timeline-item-content"
-          >
-            Lorem ipsum dolor sit amet.
-          </div>
+          />
         </li>
       </ul>
     </div>
   </body>,
   "container": <div>
     <ul
-      class="ant-timeline ant-timeline-alternate"
+      class="ant-timeline ant-timeline-label css-dev-only-do-not-override-1yacf91"
     >
       <li
         class="ant-timeline-item ant-timeline-item-left"
       >
+        <div
+          class="ant-timeline-item-label"
+        >
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, nisi?
+        </div>
         <div
           class="ant-timeline-item-tail"
         />
@@ -164,13 +187,16 @@ Object {
         />
         <div
           class="ant-timeline-item-content"
-        >
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, nisi?
-        </div>
+        />
       </li>
       <li
         class="ant-timeline-item ant-timeline-item-right"
       >
+        <div
+          class="ant-timeline-item-label"
+        >
+          Lorem ipsum dolor sit amet.
+        </div>
         <div
           class="ant-timeline-item-tail"
         />
@@ -179,13 +205,16 @@ Object {
         />
         <div
           class="ant-timeline-item-content"
-        >
-          Lorem ipsum dolor sit amet.
-        </div>
+        />
       </li>
       <li
         class="ant-timeline-item ant-timeline-item-left"
       >
+        <div
+          class="ant-timeline-item-label"
+        >
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur eaque quam, aperiam iste vel ipsum laudantium debitis ratione maxime voluptates sequi reprehenderit repellendus rerum nihil distinctio exercitationem vero inventore magni non. Ipsam ipsum maiores consequatur cupiditate excepturi, neque quam dolor facere quos magnam ea sed maxime expedita vitae nobis aliquam?
+        </div>
         <div
           class="ant-timeline-item-tail"
         />
@@ -218,13 +247,16 @@ Object {
         </div>
         <div
           class="ant-timeline-item-content"
-        >
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur eaque quam, aperiam iste vel ipsum laudantium debitis ratione maxime voluptates sequi reprehenderit repellendus rerum nihil distinctio exercitationem vero inventore magni non. Ipsam ipsum maiores consequatur cupiditate excepturi, neque quam dolor facere quos magnam ea sed maxime expedita vitae nobis aliquam?
-        </div>
+        />
       </li>
       <li
         class="ant-timeline-item ant-timeline-item-right"
       >
+        <div
+          class="ant-timeline-item-label"
+        >
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, vel!
+        </div>
         <div
           class="ant-timeline-item-tail"
         />
@@ -233,13 +265,16 @@ Object {
         />
         <div
           class="ant-timeline-item-content"
-        >
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, vel!
-        </div>
+        />
       </li>
       <li
         class="ant-timeline-item ant-timeline-item-left"
       >
+        <div
+          class="ant-timeline-item-label"
+        >
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. At assumenda id eius. Cupiditate natus reprehenderit sint corrupti dolore provident molestias.
+        </div>
         <div
           class="ant-timeline-item-tail"
         />
@@ -248,13 +283,16 @@ Object {
         />
         <div
           class="ant-timeline-item-content"
-        >
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. At assumenda id eius. Cupiditate natus reprehenderit sint corrupti dolore provident molestias.
-        </div>
+        />
       </li>
       <li
         class="ant-timeline-item ant-timeline-item-last ant-timeline-item-right"
       >
+        <div
+          class="ant-timeline-item-label"
+        >
+          Lorem ipsum dolor sit amet.
+        </div>
         <div
           class="ant-timeline-item-tail"
         />
@@ -287,9 +325,7 @@ Object {
         </div>
         <div
           class="ant-timeline-item-content"
-        >
-          Lorem ipsum dolor sit amet.
-        </div>
+        />
       </li>
     </ul>
   </div>,

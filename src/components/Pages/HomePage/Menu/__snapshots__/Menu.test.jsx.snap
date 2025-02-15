@@ -1,7 +1,7 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
 
 exports[`should render Menu component 1`] = `
-Object {
+{
   "asFragment": [Function],
   "baseElement": <body>
     <div>
@@ -70,28 +70,28 @@ Object {
           >
             <a
               class="link-border-right ml-lg-auto nav-link"
-              data-rb-event-key="#/"
+              data-rr-ui-event-key="#/"
               href="#/"
             >
               PRODUCTS
             </a>
             <a
               class="link-border-right nav-link"
-              data-rb-event-key="#/"
+              data-rr-ui-event-key="#/"
               href="#/"
             >
               DOWNLOADS
             </a>
             <a
               class="link-border-right nav-link"
-              data-rb-event-key="#/"
+              data-rr-ui-event-key="#/"
               href="#/"
             >
               PRICING
             </a>
             <a
               class="link-border-right nav-link"
-              data-rb-event-key="#/"
+              data-rr-ui-event-key="#/"
               href="#/"
             >
               COMPANY
@@ -204,28 +204,28 @@ Object {
         >
           <a
             class="link-border-right ml-lg-auto nav-link"
-            data-rb-event-key="#/"
+            data-rr-ui-event-key="#/"
             href="#/"
           >
             PRODUCTS
           </a>
           <a
             class="link-border-right nav-link"
-            data-rb-event-key="#/"
+            data-rr-ui-event-key="#/"
             href="#/"
           >
             DOWNLOADS
           </a>
           <a
             class="link-border-right nav-link"
-            data-rb-event-key="#/"
+            data-rr-ui-event-key="#/"
             href="#/"
           >
             PRICING
           </a>
           <a
             class="link-border-right nav-link"
-            data-rb-event-key="#/"
+            data-rr-ui-event-key="#/"
             href="#/"
           >
             COMPANY
@@ -326,7 +326,7 @@ Object {
 `;
 
 exports[`should render SearchIcon component 1`] = `
-Object {
+{
   "asFragment": [Function],
   "baseElement": <body>
     <div>
@@ -423,7 +423,7 @@ Object {
 `;
 
 exports[`should render UserIcon component 1`] = `
-Object {
+{
   "asFragment": [Function],
   "baseElement": <body>
     <div>

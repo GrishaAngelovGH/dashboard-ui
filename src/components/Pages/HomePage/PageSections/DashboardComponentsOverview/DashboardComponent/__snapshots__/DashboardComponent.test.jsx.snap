@@ -1,21 +1,43 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
 
-exports[`should render LinkButton component 1`] = `
-Object {
+exports[`should render DashboardComponent component 1`] = `
+{
   "asFragment": [Function],
   "baseElement": <body>
     <div>
-      <a
-        class="d-block text-center text-uppercase link-button"
-        href="/"
-      />
+      <div
+        class="dashboard-component text-center"
+      >
+        <img
+          height="300"
+          src="/src/images/chart.png"
+          width="310"
+        />
+        <h2>
+          Chart
+        </h2>
+        <p>
+          Add various types of graphs for data analysis
+        </p>
+      </div>
     </div>
   </body>,
   "container": <div>
-    <a
-      class="d-block text-center text-uppercase link-button"
-      href="/"
-    />
+    <div
+      class="dashboard-component text-center"
+    >
+      <img
+        height="300"
+        src="/src/images/chart.png"
+        width="310"
+      />
+      <h2>
+        Chart
+      </h2>
+      <p>
+        Add various types of graphs for data analysis
+      </p>
+    </div>
   </div>,
   "debug": [Function],
   "findAllByAltText": [Function],

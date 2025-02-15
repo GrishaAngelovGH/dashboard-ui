@@ -1,27 +1,36 @@
 import { render } from '@testing-library/react'
+import { describe, expect, it, vi } from 'vitest'
 
 import DashboardPage from './DashboardPage'
 
 class ResizeObserver {
-    observe() { }
-    unobserve() { }
-    disconnect() { }
+	observe() { }
+	unobserve() { }
+	disconnect() { }
 }
 
 window.ResizeObserver = ResizeObserver
 
 window.matchMedia = window.matchMedia || function () {
-    return {
-        matches: false,
-        addListener: function () { },
-        removeListener: function () { }
-    }
+	return {
+		matches: false,
+		addListener: function () { },
+		removeListener: function () { },
+	}
 }
 
-window.scrollTo = jest.fn()
+window.getComputedStyle = function () {
+	return {
+		getPropertyValue: function () { return ''; }
+	}
+}
 
-test('should render DashboardPage component', () => {
-    const view = render(<DashboardPage />)
+window.scrollTo = vi.fn()
 
-    expect(view).toMatchSnapshot()
+describe('DashboardPage Component', () => {
+	it('should render DashboardPage component', () => {
+		const view = render(<DashboardPage />)
+
+		expect(view).toMatchSnapshot()
+	})
 })

@@ -1,21 +1,21 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
 
 exports[`should render TableReport component 1`] = `
-Object {
+{
   "asFragment": [Function],
   "baseElement": <body>
     <div>
       <div
-        class="ant-table-wrapper"
+        class="ant-table-wrapper css-dev-only-do-not-override-1yacf91"
       >
         <div
-          class="ant-spin-nested-loading"
+          class="ant-spin-nested-loading css-dev-only-do-not-override-1yacf91"
         >
           <div
             class="ant-spin-container"
           >
             <div
-              class="ant-table ant-table-bordered"
+              class="ant-table ant-table-bordered css-dev-only-do-not-override-1yacf91"
             >
               <div
                 class="ant-table-container"
@@ -33,14 +33,18 @@ Object {
                       <tr>
                         <th
                           class="ant-table-cell"
+                          scope="col"
                         >
                           Name
                         </th>
                         <th
+                          aria-label="Activations"
                           class="ant-table-cell ant-table-column-has-sorters"
+                          scope="col"
                           tabindex="0"
                         >
                           <div
+                            aria-describedby="test-id"
                             class="ant-table-column-sorters"
                           >
                             <span
@@ -52,6 +56,7 @@ Object {
                               class="ant-table-column-sorter ant-table-column-sorter-full"
                             >
                               <span
+                                aria-hidden="true"
                                 class="ant-table-column-sorter-inner"
                               >
                                 <span
@@ -97,10 +102,13 @@ Object {
                           </div>
                         </th>
                         <th
+                          aria-label="Orders"
                           class="ant-table-cell ant-table-column-has-sorters"
+                          scope="col"
                           tabindex="0"
                         >
                           <div
+                            aria-describedby="test-id"
                             class="ant-table-column-sorters"
                           >
                             <span
@@ -112,6 +120,7 @@ Object {
                               class="ant-table-column-sorter ant-table-column-sorter-full"
                             >
                               <span
+                                aria-hidden="true"
                                 class="ant-table-column-sorter-inner"
                               >
                                 <span
@@ -157,10 +166,13 @@ Object {
                           </div>
                         </th>
                         <th
+                          aria-label="Active Users"
                           class="ant-table-cell ant-table-column-has-sorters"
+                          scope="col"
                           tabindex="0"
                         >
                           <div
+                            aria-describedby="test-id"
                             class="ant-table-column-sorters"
                           >
                             <span
@@ -172,6 +184,7 @@ Object {
                               class="ant-table-column-sorter ant-table-column-sorter-full"
                             >
                               <span
+                                aria-hidden="true"
                                 class="ant-table-column-sorter-inner"
                               >
                                 <span
@@ -327,8 +340,7 @@ Object {
               </div>
             </div>
             <ul
-              class="ant-pagination ant-table-pagination ant-table-pagination-right"
-              unselectable="unselectable"
+              class="ant-pagination ant-table-pagination ant-table-pagination-right css-dev-only-do-not-override-1yacf91"
             >
               <li
                 aria-disabled="true"
@@ -413,16 +425,16 @@ Object {
   </body>,
   "container": <div>
     <div
-      class="ant-table-wrapper"
+      class="ant-table-wrapper css-dev-only-do-not-override-1yacf91"
     >
       <div
-        class="ant-spin-nested-loading"
+        class="ant-spin-nested-loading css-dev-only-do-not-override-1yacf91"
       >
         <div
           class="ant-spin-container"
         >
           <div
-            class="ant-table ant-table-bordered"
+            class="ant-table ant-table-bordered css-dev-only-do-not-override-1yacf91"
           >
             <div
               class="ant-table-container"
@@ -440,14 +452,18 @@ Object {
                     <tr>
                       <th
                         class="ant-table-cell"
+                        scope="col"
                       >
                         Name
                       </th>
                       <th
+                        aria-label="Activations"
                         class="ant-table-cell ant-table-column-has-sorters"
+                        scope="col"
                         tabindex="0"
                       >
                         <div
+                          aria-describedby="test-id"
                           class="ant-table-column-sorters"
                         >
                           <span
@@ -459,6 +475,7 @@ Object {
                             class="ant-table-column-sorter ant-table-column-sorter-full"
                           >
                             <span
+                              aria-hidden="true"
                               class="ant-table-column-sorter-inner"
                             >
                               <span
@@ -504,10 +521,13 @@ Object {
                         </div>
                       </th>
                       <th
+                        aria-label="Orders"
                         class="ant-table-cell ant-table-column-has-sorters"
+                        scope="col"
                         tabindex="0"
                       >
                         <div
+                          aria-describedby="test-id"
                           class="ant-table-column-sorters"
                         >
                           <span
@@ -519,6 +539,7 @@ Object {
                             class="ant-table-column-sorter ant-table-column-sorter-full"
                           >
                             <span
+                              aria-hidden="true"
                               class="ant-table-column-sorter-inner"
                             >
                               <span
@@ -564,10 +585,13 @@ Object {
                         </div>
                       </th>
                       <th
+                        aria-label="Active Users"
                         class="ant-table-cell ant-table-column-has-sorters"
+                        scope="col"
                         tabindex="0"
                       >
                         <div
+                          aria-describedby="test-id"
                           class="ant-table-column-sorters"
                         >
                           <span
@@ -579,6 +603,7 @@ Object {
                             class="ant-table-column-sorter ant-table-column-sorter-full"
                           >
                             <span
+                              aria-hidden="true"
                               class="ant-table-column-sorter-inner"
                             >
                               <span
@@ -734,8 +759,7 @@ Object {
             </div>
           </div>
           <ul
-            class="ant-pagination ant-table-pagination ant-table-pagination-right"
-            unselectable="unselectable"
+            class="ant-pagination ant-table-pagination ant-table-pagination-right css-dev-only-do-not-override-1yacf91"
           >
             <li
               aria-disabled="true"

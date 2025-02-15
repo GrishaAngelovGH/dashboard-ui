@@ -8,5 +8,10 @@ export default defineConfig({
       components: "/src/components",
       images: "/src/images"
     }
+  },
+  test: {
+    environment: 'jsdom',
+    globals: true,
+    setupFiles: './tests/setup.js'
   }
 })

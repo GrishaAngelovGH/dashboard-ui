@@ -1,42 +1,96 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
 
-exports[`should render DashboardComponent component 1`] = `
-Object {
+exports[`should render StockPriceCard component 1`] = `
+{
   "asFragment": [Function],
   "baseElement": <body>
     <div>
       <div
-        class="dashboard-component text-center"
+        class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1yacf91"
       >
-        <img
-          height="300"
-          src="chart.png"
-          width="310"
-        />
-        <h2>
-          Chart
-        </h2>
-        <p>
-          Add various types of graphs for data analysis
-        </p>
+        <div
+          class="ant-card-head"
+        >
+          <div
+            class="ant-card-head-wrapper"
+          >
+            <div
+              class="ant-card-head-title"
+            >
+              <span
+                class="text-muted"
+              >
+                NASDAQ
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          class="ant-card-body"
+        >
+          <h2>
+            Title 1
+          </h2>
+          <div>
+            <span
+              class="h2 font-weight-bold"
+            >
+              173,07
+            </span>
+             
+            USD
+          </div>
+          <h5
+            class="text-success font-weight-bold"
+          >
+            +0.88 (0.51%)
+          </h5>
+        </div>
       </div>
     </div>
   </body>,
   "container": <div>
     <div
-      class="dashboard-component text-center"
+      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1yacf91"
     >
-      <img
-        height="300"
-        src="chart.png"
-        width="310"
-      />
-      <h2>
-        Chart
-      </h2>
-      <p>
-        Add various types of graphs for data analysis
-      </p>
+      <div
+        class="ant-card-head"
+      >
+        <div
+          class="ant-card-head-wrapper"
+        >
+          <div
+            class="ant-card-head-title"
+          >
+            <span
+              class="text-muted"
+            >
+              NASDAQ
+            </span>
+          </div>
+        </div>
+      </div>
+      <div
+        class="ant-card-body"
+      >
+        <h2>
+          Title 1
+        </h2>
+        <div>
+          <span
+            class="h2 font-weight-bold"
+          >
+            173,07
+          </span>
+           
+          USD
+        </div>
+        <h5
+          class="text-success font-weight-bold"
+        >
+          +0.88 (0.51%)
+        </h5>
+      </div>
     </div>
   </div>,
   "debug": [Function],

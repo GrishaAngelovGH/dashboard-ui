@@ -1,7 +1,7 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
 
 exports[`should render ActiveUsers component 1`] = `
-Object {
+{
   "asFragment": [Function],
   "baseElement": <body>
     <div>
@@ -12,15 +12,15 @@ Object {
           class="col-md-9 ml-auto"
         >
           <div
-            class="ant-row"
+            class="ant-row css-dev-only-do-not-override-1yacf91"
             style="margin-left: -2.5px; margin-right: -2.5px;"
           >
             <div
-              class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4"
+              class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-1yacf91"
               style="padding-left: 2.5px; padding-right: 2.5px;"
             >
               <div
-                class="ant-statistic"
+                class="ant-statistic css-dev-only-do-not-override-1yacf91"
               >
                 <div
                   class="ant-statistic-title"
@@ -43,11 +43,11 @@ Object {
               </div>
             </div>
             <div
-              class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4"
+              class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-1yacf91"
               style="padding-left: 2.5px; padding-right: 2.5px;"
             >
               <div
-                class="ant-statistic"
+                class="ant-statistic css-dev-only-do-not-override-1yacf91"
               >
                 <div
                   class="ant-statistic-title"
@@ -75,11 +75,11 @@ Object {
               </div>
             </div>
             <div
-              class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4"
+              class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-1yacf91"
               style="padding-left: 2.5px; padding-right: 2.5px;"
             >
               <div
-                class="ant-statistic"
+                class="ant-statistic css-dev-only-do-not-override-1yacf91"
               >
                 <div
                   class="ant-statistic-title"
@@ -125,11 +125,11 @@ Object {
               </div>
             </div>
             <div
-              class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4"
+              class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-1yacf91"
               style="padding-left: 2.5px; padding-right: 2.5px;"
             >
               <div
-                class="ant-statistic"
+                class="ant-statistic css-dev-only-do-not-override-1yacf91"
               >
                 <div
                   class="ant-statistic-title"
@@ -169,15 +169,15 @@ Object {
         class="col-md-9 ml-auto"
       >
         <div
-          class="ant-row"
+          class="ant-row css-dev-only-do-not-override-1yacf91"
           style="margin-left: -2.5px; margin-right: -2.5px;"
         >
           <div
-            class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4"
+            class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-1yacf91"
             style="padding-left: 2.5px; padding-right: 2.5px;"
           >
             <div
-              class="ant-statistic"
+              class="ant-statistic css-dev-only-do-not-override-1yacf91"
             >
               <div
                 class="ant-statistic-title"
@@ -200,11 +200,11 @@ Object {
             </div>
           </div>
           <div
-            class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4"
+            class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-1yacf91"
             style="padding-left: 2.5px; padding-right: 2.5px;"
           >
             <div
-              class="ant-statistic"
+              class="ant-statistic css-dev-only-do-not-override-1yacf91"
             >
               <div
                 class="ant-statistic-title"
@@ -232,11 +232,11 @@ Object {
             </div>
           </div>
           <div
-            class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4"
+            class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-1yacf91"
             style="padding-left: 2.5px; padding-right: 2.5px;"
           >
             <div
-              class="ant-statistic"
+              class="ant-statistic css-dev-only-do-not-override-1yacf91"
             >
               <div
                 class="ant-statistic-title"
@@ -282,11 +282,11 @@ Object {
             </div>
           </div>
           <div
-            class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4"
+            class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-1yacf91"
             style="padding-left: 2.5px; padding-right: 2.5px;"
           >
             <div
-              class="ant-statistic"
+              class="ant-statistic css-dev-only-do-not-override-1yacf91"
             >
               <div
                 class="ant-statistic-title"

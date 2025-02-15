@@ -1,37 +1,23 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
 
-exports[`should render PageSection component 1`] = `
-Object {
+exports[`should render LinkButton component 1`] = `
+{
   "asFragment": [Function],
   "baseElement": <body>
     <div>
-      <div
-        class="row no-gutters"
-        style="background: rgb(11, 61, 127); height: 520px;"
-      >
-        <div
-          class="col-md-12"
-        >
-          <div>
-            content
-          </div>
-        </div>
-      </div>
+      <a
+        class="d-block text-center text-uppercase link-button"
+        data-discover="true"
+        href="/"
+      />
     </div>
   </body>,
   "container": <div>
-    <div
-      class="row no-gutters"
-      style="background: rgb(11, 61, 127); height: 520px;"
-    >
-      <div
-        class="col-md-12"
-      >
-        <div>
-          content
-        </div>
-      </div>
-    </div>
+    <a
+      class="d-block text-center text-uppercase link-button"
+      data-discover="true"
+      href="/"
+    />
   </div>,
   "debug": [Function],
   "findAllByAltText": [Function],

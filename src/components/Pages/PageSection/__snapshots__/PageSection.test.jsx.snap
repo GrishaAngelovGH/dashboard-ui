@@ -1,95 +1,35 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
 
-exports[`should render StockPriceCard component 1`] = `
-Object {
+exports[`should render PageSection component 1`] = `
+{
   "asFragment": [Function],
   "baseElement": <body>
     <div>
       <div
-        class="ant-card ant-card-bordered stock-price-card"
+        class="row no-gutters"
+        style="background: rgb(11, 61, 127); height: 520px;"
       >
         <div
-          class="ant-card-head"
+          class="col-md-12"
         >
-          <div
-            class="ant-card-head-wrapper"
-          >
-            <div
-              class="ant-card-head-title"
-            >
-              <span
-                class="text-muted"
-              >
-                NASDAQ
-              </span>
-            </div>
-          </div>
-        </div>
-        <div
-          class="ant-card-body"
-        >
-          <h2>
-            Title 1
-          </h2>
           <div>
-            <span
-              class="h2 font-weight-bold"
-            >
-              173,07
-            </span>
-             
-            USD
+            content
           </div>
-          <h5
-            class="text-success font-weight-bold"
-          >
-            +0.88 (0.51%)
-          </h5>
         </div>
       </div>
     </div>
   </body>,
   "container": <div>
     <div
-      class="ant-card ant-card-bordered stock-price-card"
+      class="row no-gutters"
+      style="background: rgb(11, 61, 127); height: 520px;"
     >
       <div
-        class="ant-card-head"
+        class="col-md-12"
       >
-        <div
-          class="ant-card-head-wrapper"
-        >
-          <div
-            class="ant-card-head-title"
-          >
-            <span
-              class="text-muted"
-            >
-              NASDAQ
-            </span>
-          </div>
-        </div>
-      </div>
-      <div
-        class="ant-card-body"
-      >
-        <h2>
-          Title 1
-        </h2>
         <div>
-          <span
-            class="h2 font-weight-bold"
-          >
-            173,07
-          </span>
-           
-          USD
+          content
         </div>
-        <h5
-          class="text-success font-weight-bold"
-        >
-          +0.88 (0.51%)
-        </h5>
       </div>
     </div>
   </div>,
