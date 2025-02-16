@@ -1,17 +1,9 @@
-import { useEffect } from 'react'
 import PageSection from 'components/Pages/PageSection'
 
-import { WOW } from 'wowjs'
 import { dataTypes } from 'images'
 import './DataOverviewSection.scss'
 
 const DataOverviewSection = ({ types }) => {
-	useEffect(() => {
-		new WOW({
-			live: false
-		}).init()
-	}, [])
-
 	return (
 		<PageSection style={{ background: '#2a7ab9', height: 520 }}>
 			<div className='row no-gutters'>

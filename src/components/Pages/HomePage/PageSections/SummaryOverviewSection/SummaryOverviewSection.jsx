@@ -1,18 +1,8 @@
-import { useEffect } from 'react'
-
 import LinkButton from 'components/LinkButton'
 import PageSection from 'components/Pages/PageSection'
 import SummaryLabel from './SummaryLabel'
 
-import { WOW } from 'wowjs'
-
 const SummaryOverviewSection = ({ summary }) => {
-	useEffect(() => {
-		new WOW({
-			live: false
-		}).init()
-	}, [])
-
 	return (
 		<PageSection style={{ background: '#435465', height: 'auto' }}>
 			<div className='row no-gutters'>
