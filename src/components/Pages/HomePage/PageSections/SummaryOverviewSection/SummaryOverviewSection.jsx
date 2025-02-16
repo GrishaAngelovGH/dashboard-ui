@@ -1,9 +1,11 @@
+import { Fade } from 'react-awesome-reveal'
+
 import LinkButton from 'components/LinkButton'
 import PageSection from 'components/Pages/PageSection'
 import SummaryLabel from './SummaryLabel'
 
-const SummaryOverviewSection = ({ summary }) => {
-	return (
+const SummaryOverviewSection = ({ summary }) => (
+	<Fade duration={3000}>
 		<PageSection style={{ background: '#435465', height: 'auto' }}>
 			<div className='row no-gutters'>
 				<div className='col-md-12 mt-2'>
@@ -48,7 +50,7 @@ const SummaryOverviewSection = ({ summary }) => {
 				</div>
 			</div>
 		</PageSection>
-	)
-}
+	</Fade>
+)
 
 export default SummaryOverviewSection

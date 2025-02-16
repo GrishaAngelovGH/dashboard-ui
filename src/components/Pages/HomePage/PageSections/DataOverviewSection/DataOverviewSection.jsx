@@ -1,10 +1,11 @@
+import { Fade } from 'react-awesome-reveal'
 import PageSection from 'components/Pages/PageSection'
 
 import { dataTypes } from 'images'
 import './DataOverviewSection.scss'
 
-const DataOverviewSection = ({ types }) => {
-	return (
+const DataOverviewSection = ({ types }) => (
+	<Fade duration={3000}>
 		<PageSection style={{ background: '#2a7ab9', height: 520 }}>
 			<div className='row no-gutters'>
 				<div className='col-md-12 mt-2'>
@@ -33,9 +34,7 @@ const DataOverviewSection = ({ types }) => {
 										width={50}
 										height={50}
 										src={dataTypes[v]}
-										data-wow-duration='5s'
-										data-wow-delay='0.5s'
-										className='wow fadeInUp m-2'
+										className='m-2'
 									/>
 								))
 							}
@@ -53,7 +52,7 @@ const DataOverviewSection = ({ types }) => {
 				</div>
 			</div>
 		</PageSection>
-	)
-}
+	</Fade>
+)
 
 export default DataOverviewSection

@@ -13,7 +13,7 @@ describe('SummaryLabel Component', () => {
 			/>
 		);
 
-		expect(screen.getByTestId('summary-label')).toHaveClass('d-flex flex-column wow fadeInUp m-2');
+		expect(screen.getByTestId('summary-label')).toHaveClass('d-flex flex-column m-2');
 	});
 
 	it('should render inverted SummaryLabel component', () => {
@@ -25,6 +25,6 @@ describe('SummaryLabel Component', () => {
 			/>
 		);
 
-		expect(screen.getByTestId('summary-label')).toHaveClass('d-flex flex-column flex-column-reverse wow fadeInUp m-2');
+		expect(screen.getByTestId('summary-label')).toHaveClass('d-flex flex-column flex-column-reverse m-2');
 	});
 });

@@ -6,6 +6,122 @@ exports[`should render SummaryOverviewSection component 1`] = `
   "baseElement": <body>
     <div>
       <div
+        class="css-0"
+        style="opacity: 0; animation-delay: 0ms;"
+      >
+        <div
+          class="row no-gutters"
+          style="background: rgb(67, 84, 101); height: auto;"
+        >
+          <div
+            class="col-md-12"
+          >
+            <div
+              class="row no-gutters"
+            >
+              <div
+                class="col-md-12 mt-2"
+              >
+                <div
+                  class="row no-gutters justify-content-center m-3"
+                >
+                  <div
+                    class="col-md-8 text-center"
+                  >
+                    <h2
+                      class="text-white"
+                    >
+                      Creation and viewing
+                    </h2>
+                  </div>
+                </div>
+                <div
+                  class="row no-gutters justify-content-center mb-2 text-white text-center"
+                >
+                  <div
+                    class="col-md-8 col-11"
+                  >
+                    Use our components on any platform – in Win applications, Web projects or JavaScript solutions. We support work with all major technologies – WinForms, WPF, ASP.NET, MVC, .NET Core, JavaScript, PHP, etc.
+                  </div>
+                </div>
+                <div
+                  class="row no-gutters justify-content-center mb-2"
+                >
+                  <div
+                    class="col-md-10 col-lg-8 mt-4 mb-4 d-none d-md-block"
+                  >
+                    <div
+                      class="row no-gutters"
+                    >
+                      <div
+                        class="col-md-2"
+                      >
+                        <div
+                          class="d-flex flex-column m-2"
+                          data-testid="summary-label"
+                        >
+                          <div
+                            class="summary-value d-flex justify-content-center align-items-center"
+                          >
+                            7+
+                          </div>
+                          <div
+                            class="summary-label text-center text-white text-uppercase m-1"
+                          >
+                            supported platforms
+                          </div>
+                        </div>
+                      </div>
+                      <div
+                        class="col-md-2"
+                      >
+                        <div
+                          class="d-flex flex-column flex-column-reverse m-2"
+                          data-testid="summary-label"
+                        >
+                          <div
+                            class="summary-value d-flex justify-content-center align-items-center"
+                          >
+                            17+
+                          </div>
+                          <div
+                            class="summary-label text-center text-white text-uppercase m-1"
+                          >
+                            customizable elements
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="row no-gutters justify-content-center mb-5"
+                >
+                  <div
+                    class="col-10 col-md-7 col-lg-5"
+                  >
+                    <a
+                      class="d-block text-center text-uppercase link-button"
+                      data-discover="true"
+                      href="/dashboard"
+                    >
+                      Explore our features in the Online Demo
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="css-0"
+      style="opacity: 0; animation-delay: 0ms;"
+    >
+      <div
         class="row no-gutters"
         style="background: rgb(67, 84, 101); height: auto;"
       >
@@ -53,10 +169,8 @@ exports[`should render SummaryOverviewSection component 1`] = `
                       class="col-md-2"
                     >
                       <div
-                        class="d-flex flex-column wow fadeInUp m-2"
+                        class="d-flex flex-column m-2"
                         data-testid="summary-label"
-                        data-wow-delay="0.5s"
-                        data-wow-duration="5s"
                       >
                         <div
                           class="summary-value d-flex justify-content-center align-items-center"
@@ -74,10 +188,8 @@ exports[`should render SummaryOverviewSection component 1`] = `
                       class="col-md-2"
                     >
                       <div
-                        class="d-flex flex-column flex-column-reverse wow fadeInUp m-2"
+                        class="d-flex flex-column flex-column-reverse m-2"
                         data-testid="summary-label"
-                        data-wow-delay="0.5s"
-                        data-wow-duration="5s"
                       >
                         <div
                           class="summary-value d-flex justify-content-center align-items-center"
@@ -108,116 +220,6 @@ exports[`should render SummaryOverviewSection component 1`] = `
                     Explore our features in the Online Demo
                   </a>
                 </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </body>,
-  "container": <div>
-    <div
-      class="row no-gutters"
-      style="background: rgb(67, 84, 101); height: auto;"
-    >
-      <div
-        class="col-md-12"
-      >
-        <div
-          class="row no-gutters"
-        >
-          <div
-            class="col-md-12 mt-2"
-          >
-            <div
-              class="row no-gutters justify-content-center m-3"
-            >
-              <div
-                class="col-md-8 text-center"
-              >
-                <h2
-                  class="text-white"
-                >
-                  Creation and viewing
-                </h2>
-              </div>
-            </div>
-            <div
-              class="row no-gutters justify-content-center mb-2 text-white text-center"
-            >
-              <div
-                class="col-md-8 col-11"
-              >
-                Use our components on any platform – in Win applications, Web projects or JavaScript solutions. We support work with all major technologies – WinForms, WPF, ASP.NET, MVC, .NET Core, JavaScript, PHP, etc.
-              </div>
-            </div>
-            <div
-              class="row no-gutters justify-content-center mb-2"
-            >
-              <div
-                class="col-md-10 col-lg-8 mt-4 mb-4 d-none d-md-block"
-              >
-                <div
-                  class="row no-gutters"
-                >
-                  <div
-                    class="col-md-2"
-                  >
-                    <div
-                      class="d-flex flex-column wow fadeInUp m-2"
-                      data-testid="summary-label"
-                      data-wow-delay="0.5s"
-                      data-wow-duration="5s"
-                    >
-                      <div
-                        class="summary-value d-flex justify-content-center align-items-center"
-                      >
-                        7+
-                      </div>
-                      <div
-                        class="summary-label text-center text-white text-uppercase m-1"
-                      >
-                        supported platforms
-                      </div>
-                    </div>
-                  </div>
-                  <div
-                    class="col-md-2"
-                  >
-                    <div
-                      class="d-flex flex-column flex-column-reverse wow fadeInUp m-2"
-                      data-testid="summary-label"
-                      data-wow-delay="0.5s"
-                      data-wow-duration="5s"
-                    >
-                      <div
-                        class="summary-value d-flex justify-content-center align-items-center"
-                      >
-                        17+
-                      </div>
-                      <div
-                        class="summary-label text-center text-white text-uppercase m-1"
-                      >
-                        customizable elements
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div
-              class="row no-gutters justify-content-center mb-5"
-            >
-              <div
-                class="col-10 col-md-7 col-lg-5"
-              >
-                <a
-                  class="d-block text-center text-uppercase link-button"
-                  data-discover="true"
-                  href="/dashboard"
-                >
-                  Explore our features in the Online Demo
-                </a>
               </div>
             </div>
           </div>
