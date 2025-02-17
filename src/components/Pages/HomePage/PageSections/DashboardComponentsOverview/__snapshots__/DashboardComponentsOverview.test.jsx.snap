@@ -6,20 +6,20 @@ exports[`should render DashboardComponentsOverview component 1`] = `
   "baseElement": <body>
     <div>
       <div
-        class="row no-gutters"
+        class="row g-0"
         style="background: rgb(235, 237, 239); height: auto;"
       >
         <div
           class="col-md-12"
         >
           <div
-            class="row no-gutters"
+            class="row g-0"
           >
             <div
               class="col-md-12 mt-2"
             >
               <div
-                class="row no-gutters justify-content-center m-3"
+                class="row g-0 justify-content-center m-3"
               >
                 <div
                   class="col-md-8 text-center"
@@ -30,7 +30,7 @@ exports[`should render DashboardComponentsOverview component 1`] = `
                 </div>
               </div>
               <div
-                class="row no-gutters justify-content-center mb-4 text-center"
+                class="row g-0 justify-content-center mb-4 text-center"
               >
                 <div
                   class="col-md-8 col-11"
@@ -39,13 +39,13 @@ exports[`should render DashboardComponentsOverview component 1`] = `
                 </div>
               </div>
               <div
-                class="row no-gutters justify-content-center"
+                class="row g-0 justify-content-center"
               >
                 <div
                   class="col-md-6 col-lg-10 pl-4"
                 >
                   <div
-                    class="row no-gutters mb-4"
+                    class="row g-0 mb-4"
                   >
                     <div
                       class="col-md-12 col-lg-4 pb-2"
@@ -68,7 +68,7 @@ exports[`should render DashboardComponentsOverview component 1`] = `
                     </div>
                   </div>
                   <div
-                    class="row no-gutters mb-4"
+                    class="row g-0 mb-4"
                   >
                     <div
                       class="col-md-12 col-lg-4 pb-2"
@@ -100,20 +100,20 @@ exports[`should render DashboardComponentsOverview component 1`] = `
   </body>,
   "container": <div>
     <div
-      class="row no-gutters"
+      class="row g-0"
       style="background: rgb(235, 237, 239); height: auto;"
     >
       <div
         class="col-md-12"
       >
         <div
-          class="row no-gutters"
+          class="row g-0"
         >
           <div
             class="col-md-12 mt-2"
           >
             <div
-              class="row no-gutters justify-content-center m-3"
+              class="row g-0 justify-content-center m-3"
             >
               <div
                 class="col-md-8 text-center"
@@ -124,7 +124,7 @@ exports[`should render DashboardComponentsOverview component 1`] = `
               </div>
             </div>
             <div
-              class="row no-gutters justify-content-center mb-4 text-center"
+              class="row g-0 justify-content-center mb-4 text-center"
             >
               <div
                 class="col-md-8 col-11"
@@ -133,13 +133,13 @@ exports[`should render DashboardComponentsOverview component 1`] = `
               </div>
             </div>
             <div
-              class="row no-gutters justify-content-center"
+              class="row g-0 justify-content-center"
             >
               <div
                 class="col-md-6 col-lg-10 pl-4"
               >
                 <div
-                  class="row no-gutters mb-4"
+                  class="row g-0 mb-4"
                 >
                   <div
                     class="col-md-12 col-lg-4 pb-2"
@@ -162,7 +162,7 @@ exports[`should render DashboardComponentsOverview component 1`] = `
                   </div>
                 </div>
                 <div
-                  class="row no-gutters mb-4"
+                  class="row g-0 mb-4"
                 >
                   <div
                     class="col-md-12 col-lg-4 pb-2"

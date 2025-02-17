@@ -6,7 +6,133 @@ exports[`should render Menu component 1`] = `
   "baseElement": <body>
     <div>
       <nav
-        class="navbar-menu-container navbar navbar-expand-lg navbar-light bg-nav-color"
+        class="navbar navbar-expand-lg navbar-light bg-primary"
+        data-bs-theme="dark"
+      >
+        <div
+          class="container-fluid"
+        >
+          <span
+            class="navbar-brand"
+          >
+            Dashboard UI
+          </span>
+          <div
+            class="d-flex justify-content-around align-items-center"
+          >
+            <span
+              class="d-block d-md-none mr-2"
+            >
+              <svg
+                class="bi bi-search"
+                fill="currentColor"
+                height="1.8em"
+                viewBox="0 0 16 16"
+                width="2em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M10.442 10.442a1 1 0 0 1 1.415 0l3.85 3.85a1 1 0 0 1-1.414 1.415l-3.85-3.85a1 1 0 0 1 0-1.415z"
+                  fill-rule="evenodd"
+                />
+                <path
+                  d="M6.5 12a5.5 5.5 0 1 0 0-11 5.5 5.5 0 0 0 0 11zM13 6.5a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+            </span>
+            <span
+              class="d-block d-md-none"
+            >
+              <svg
+                class="bi bi-person"
+                fill="currentColor"
+                height="2em"
+                viewBox="0 0 16 16"
+                width="2em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M10 5a2 2 0 1 1-4 0 2 2 0 0 1 4 0zM8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm6 5c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4zm-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10c-2.29 0-3.516.68-4.168 1.332-.678.678-.83 1.418-.832 1.664h10z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+            </span>
+          </div>
+          <button
+            aria-controls="basic-navbar-nav"
+            aria-label="Toggle navigation"
+            class="navbar-toggler collapsed"
+            type="button"
+          >
+            <span
+              class="navbar-toggler-icon"
+            />
+          </button>
+          <div
+            class="navbar-collapse collapse"
+            id="basic-navbar-nav"
+          >
+            <div
+              class="mr-auto w-100 text-uppercase navbar-nav"
+            >
+              <a
+                class="ml-lg-auto nav-link"
+                data-rr-ui-event-key="#/"
+                href="#/"
+              >
+                Products
+              </a>
+              <a
+                class="nav-link"
+                data-rr-ui-event-key="#/"
+                href="#/"
+              >
+                Downloads
+              </a>
+              <a
+                class="nav-link"
+                data-rr-ui-event-key="#/"
+                href="#/"
+              >
+                Pricing
+              </a>
+              <a
+                class="nav-link"
+                data-rr-ui-event-key="#/"
+                href="#/"
+              >
+                Company
+              </a>
+            </div>
+          </div>
+          <div
+            class="flex-grow-0 gap-4 ml-3 text-uppercase navbar-collapse collapse"
+          >
+            <a
+              class="text-white mt-4 mb-2 m-md-0 nav-link"
+              href="#/"
+            >
+              Log In
+            </a>
+            <a
+              class="text-white nav-link"
+              href="#/"
+            >
+              Sign Up
+            </a>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </body>,
+  "container": <div>
+    <nav
+      class="navbar navbar-expand-lg navbar-light bg-primary"
+      data-bs-theme="dark"
+    >
+      <div
+        class="container-fluid"
       >
         <span
           class="navbar-brand"
@@ -14,10 +140,10 @@ exports[`should render Menu component 1`] = `
           Dashboard UI
         </span>
         <div
-          class="icons-bar d-flex justify-content-around align-items-center"
+          class="d-flex justify-content-around align-items-center"
         >
           <span
-            class="mr-2 link-border-right"
+            class="d-block d-md-none mr-2"
           >
             <svg
               class="bi bi-search"
@@ -37,19 +163,23 @@ exports[`should render Menu component 1`] = `
               />
             </svg>
           </span>
-          <svg
-            class="bi bi-person"
-            fill="currentColor"
-            height="2em"
-            viewBox="0 0 16 16"
-            width="2em"
-            xmlns="http://www.w3.org/2000/svg"
+          <span
+            class="d-block d-md-none"
           >
-            <path
-              d="M10 5a2 2 0 1 1-4 0 2 2 0 0 1 4 0zM8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm6 5c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4zm-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10c-2.29 0-3.516.68-4.168 1.332-.678.678-.83 1.418-.832 1.664h10z"
-              fill-rule="evenodd"
-            />
-          </svg>
+            <svg
+              class="bi bi-person"
+              fill="currentColor"
+              height="2em"
+              viewBox="0 0 16 16"
+              width="2em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M10 5a2 2 0 1 1-4 0 2 2 0 0 1 4 0zM8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm6 5c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4zm-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10c-2.29 0-3.516.68-4.168 1.332-.678.678-.83 1.418-.832 1.664h10z"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
         </div>
         <button
           aria-controls="basic-navbar-nav"
@@ -66,208 +196,54 @@ exports[`should render Menu component 1`] = `
           id="basic-navbar-nav"
         >
           <div
-            class="mr-auto w-100 navbar-nav"
+            class="mr-auto w-100 text-uppercase navbar-nav"
           >
             <a
-              class="link-border-right ml-lg-auto nav-link"
+              class="ml-lg-auto nav-link"
               data-rr-ui-event-key="#/"
               href="#/"
             >
-              PRODUCTS
+              Products
             </a>
             <a
-              class="link-border-right nav-link"
+              class="nav-link"
               data-rr-ui-event-key="#/"
               href="#/"
             >
-              DOWNLOADS
+              Downloads
             </a>
             <a
-              class="link-border-right nav-link"
+              class="nav-link"
               data-rr-ui-event-key="#/"
               href="#/"
             >
-              PRICING
+              Pricing
             </a>
             <a
-              class="link-border-right nav-link"
+              class="nav-link"
               data-rr-ui-event-key="#/"
               href="#/"
             >
-              COMPANY
+              Company
             </a>
-            <span
-              class="ml-2 mt-2 icon-search-svg"
-            >
-              <svg
-                class="bi bi-search"
-                fill="currentColor"
-                height="1em"
-                viewBox="0 0 16 16"
-                width="1em"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M10.442 10.442a1 1 0 0 1 1.415 0l3.85 3.85a1 1 0 0 1-1.414 1.415l-3.85-3.85a1 1 0 0 1 0-1.415z"
-                  fill-rule="evenodd"
-                />
-                <path
-                  d="M6.5 12a5.5 5.5 0 1 0 0-11 5.5 5.5 0 0 0 0 11zM13 6.5a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0z"
-                  fill-rule="evenodd"
-                />
-              </svg>
-            </span>
           </div>
         </div>
         <div
-          class="user-action flex-grow-0 ml-3 navbar-collapse collapse"
+          class="flex-grow-0 gap-4 ml-3 text-uppercase navbar-collapse collapse"
         >
           <a
-            class="link-border-right nav-link"
+            class="text-white mt-4 mb-2 m-md-0 nav-link"
             href="#/"
           >
-            LOG IN
+            Log In
           </a>
           <a
-            class="sign-up-btn ml-2 mr-2 nav-link"
+            class="text-white nav-link"
             href="#/"
           >
-            SIGN UP
+            Sign Up
           </a>
         </div>
-      </nav>
-    </div>
-  </body>,
-  "container": <div>
-    <nav
-      class="navbar-menu-container navbar navbar-expand-lg navbar-light bg-nav-color"
-    >
-      <span
-        class="navbar-brand"
-      >
-        Dashboard UI
-      </span>
-      <div
-        class="icons-bar d-flex justify-content-around align-items-center"
-      >
-        <span
-          class="mr-2 link-border-right"
-        >
-          <svg
-            class="bi bi-search"
-            fill="currentColor"
-            height="1.8em"
-            viewBox="0 0 16 16"
-            width="2em"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M10.442 10.442a1 1 0 0 1 1.415 0l3.85 3.85a1 1 0 0 1-1.414 1.415l-3.85-3.85a1 1 0 0 1 0-1.415z"
-              fill-rule="evenodd"
-            />
-            <path
-              d="M6.5 12a5.5 5.5 0 1 0 0-11 5.5 5.5 0 0 0 0 11zM13 6.5a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0z"
-              fill-rule="evenodd"
-            />
-          </svg>
-        </span>
-        <svg
-          class="bi bi-person"
-          fill="currentColor"
-          height="2em"
-          viewBox="0 0 16 16"
-          width="2em"
-          xmlns="http://www.w3.org/2000/svg"
-        >
-          <path
-            d="M10 5a2 2 0 1 1-4 0 2 2 0 0 1 4 0zM8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm6 5c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4zm-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10c-2.29 0-3.516.68-4.168 1.332-.678.678-.83 1.418-.832 1.664h10z"
-            fill-rule="evenodd"
-          />
-        </svg>
-      </div>
-      <button
-        aria-controls="basic-navbar-nav"
-        aria-label="Toggle navigation"
-        class="navbar-toggler collapsed"
-        type="button"
-      >
-        <span
-          class="navbar-toggler-icon"
-        />
-      </button>
-      <div
-        class="navbar-collapse collapse"
-        id="basic-navbar-nav"
-      >
-        <div
-          class="mr-auto w-100 navbar-nav"
-        >
-          <a
-            class="link-border-right ml-lg-auto nav-link"
-            data-rr-ui-event-key="#/"
-            href="#/"
-          >
-            PRODUCTS
-          </a>
-          <a
-            class="link-border-right nav-link"
-            data-rr-ui-event-key="#/"
-            href="#/"
-          >
-            DOWNLOADS
-          </a>
-          <a
-            class="link-border-right nav-link"
-            data-rr-ui-event-key="#/"
-            href="#/"
-          >
-            PRICING
-          </a>
-          <a
-            class="link-border-right nav-link"
-            data-rr-ui-event-key="#/"
-            href="#/"
-          >
-            COMPANY
-          </a>
-          <span
-            class="ml-2 mt-2 icon-search-svg"
-          >
-            <svg
-              class="bi bi-search"
-              fill="currentColor"
-              height="1em"
-              viewBox="0 0 16 16"
-              width="1em"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              <path
-                d="M10.442 10.442a1 1 0 0 1 1.415 0l3.85 3.85a1 1 0 0 1-1.414 1.415l-3.85-3.85a1 1 0 0 1 0-1.415z"
-                fill-rule="evenodd"
-              />
-              <path
-                d="M6.5 12a5.5 5.5 0 1 0 0-11 5.5 5.5 0 0 0 0 11zM13 6.5a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0z"
-                fill-rule="evenodd"
-              />
-            </svg>
-          </span>
-        </div>
-      </div>
-      <div
-        class="user-action flex-grow-0 ml-3 navbar-collapse collapse"
-      >
-        <a
-          class="link-border-right nav-link"
-          href="#/"
-        >
-          LOG IN
-        </a>
-        <a
-          class="sign-up-btn ml-2 mr-2 nav-link"
-          href="#/"
-        >
-          SIGN UP
-        </a>
       </div>
     </nav>
   </div>,

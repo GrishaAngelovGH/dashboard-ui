@@ -10,20 +10,20 @@ exports[`should render DataOverviewSection component 1`] = `
         style="opacity: 0; animation-delay: 0ms;"
       >
         <div
-          class="row no-gutters"
+          class="row g-0"
           style="background: rgb(42, 122, 185); height: 520px;"
         >
           <div
             class="col-md-12"
           >
             <div
-              class="row no-gutters"
+              class="row g-0"
             >
               <div
                 class="col-md-12 mt-2"
               >
                 <div
-                  class="row no-gutters justify-content-center m-3"
+                  class="row g-0 justify-content-center m-3"
                 >
                   <div
                     class="col-md-8 text-center"
@@ -36,7 +36,7 @@ exports[`should render DataOverviewSection component 1`] = `
                   </div>
                 </div>
                 <div
-                  class="row no-gutters justify-content-center mb-5 text-white text-center"
+                  class="row g-0 justify-content-center mb-5 text-white text-center"
                 >
                   <div
                     class="col-md-8 col-11"
@@ -45,7 +45,7 @@ exports[`should render DataOverviewSection component 1`] = `
                   </div>
                 </div>
                 <div
-                  class="row no-gutters justify-content-center mb-5"
+                  class="row g-0 justify-content-center mb-5"
                 >
                   <div
                     class="col-md-7 col-12 d-none d-md-block type-images"
@@ -65,7 +65,7 @@ exports[`should render DataOverviewSection component 1`] = `
                   </div>
                 </div>
                 <div
-                  class="row no-gutters justify-content-center mb-2 text-white text-center"
+                  class="row g-0 justify-content-center mb-2 text-white text-center"
                 >
                   <div
                     class="col-md-8 col-11"
@@ -86,20 +86,20 @@ exports[`should render DataOverviewSection component 1`] = `
       style="opacity: 0; animation-delay: 0ms;"
     >
       <div
-        class="row no-gutters"
+        class="row g-0"
         style="background: rgb(42, 122, 185); height: 520px;"
       >
         <div
           class="col-md-12"
         >
           <div
-            class="row no-gutters"
+            class="row g-0"
           >
             <div
               class="col-md-12 mt-2"
             >
               <div
-                class="row no-gutters justify-content-center m-3"
+                class="row g-0 justify-content-center m-3"
               >
                 <div
                   class="col-md-8 text-center"
@@ -112,7 +112,7 @@ exports[`should render DataOverviewSection component 1`] = `
                 </div>
               </div>
               <div
-                class="row no-gutters justify-content-center mb-5 text-white text-center"
+                class="row g-0 justify-content-center mb-5 text-white text-center"
               >
                 <div
                   class="col-md-8 col-11"
@@ -121,7 +121,7 @@ exports[`should render DataOverviewSection component 1`] = `
                 </div>
               </div>
               <div
-                class="row no-gutters justify-content-center mb-5"
+                class="row g-0 justify-content-center mb-5"
               >
                 <div
                   class="col-md-7 col-12 d-none d-md-block type-images"
@@ -141,7 +141,7 @@ exports[`should render DataOverviewSection component 1`] = `
                 </div>
               </div>
               <div
-                class="row no-gutters justify-content-center mb-2 text-white text-center"
+                class="row g-0 justify-content-center mb-2 text-white text-center"
               >
                 <div
                   class="col-md-8 col-11"

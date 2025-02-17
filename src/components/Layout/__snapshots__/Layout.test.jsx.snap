@@ -6,7 +6,7 @@ exports[`should render Body component 1`] = `
   "baseElement": <body>
     <div>
       <div
-        class="row no-gutters"
+        class="row g-0"
       >
         <div
           class="col-md-12"
@@ -20,7 +20,7 @@ exports[`should render Body component 1`] = `
   </body>,
   "container": <div>
     <div
-      class="row no-gutters"
+      class="row g-0"
     >
       <div
         class="col-md-12"
@@ -91,7 +91,7 @@ exports[`should render Header component 1`] = `
   "baseElement": <body>
     <div>
       <div
-        class="row no-gutters"
+        class="row g-0"
       >
         <div
           class="col-md-12"
@@ -105,7 +105,7 @@ exports[`should render Header component 1`] = `
   </body>,
   "container": <div>
     <div
-      class="row no-gutters"
+      class="row g-0"
     >
       <div
         class="col-md-12"
@@ -176,46 +176,10 @@ exports[`should render Layout component 1`] = `
   "baseElement": <body>
     <div>
       <div
-        class="row no-gutters"
+        class="p-0 container-fluid"
       >
         <div
-          class="col-md-12"
-        >
-          <div
-            class="row no-gutters"
-          >
-            <div
-              class="col-md-12"
-            >
-              <span>
-                header
-              </span>
-            </div>
-          </div>
-          <div
-            class="row no-gutters"
-          >
-            <div
-              class="col-md-12"
-            >
-              <span>
-                body
-              </span>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </body>,
-  "container": <div>
-    <div
-      class="row no-gutters"
-    >
-      <div
-        class="col-md-12"
-      >
-        <div
-          class="row no-gutters"
+          class="row g-0"
         >
           <div
             class="col-md-12"
@@ -226,7 +190,7 @@ exports[`should render Layout component 1`] = `
           </div>
         </div>
         <div
-          class="row no-gutters"
+          class="row g-0"
         >
           <div
             class="col-md-12"
@@ -235,6 +199,34 @@ exports[`should render Layout component 1`] = `
               body
             </span>
           </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="p-0 container-fluid"
+    >
+      <div
+        class="row g-0"
+      >
+        <div
+          class="col-md-12"
+        >
+          <span>
+            header
+          </span>
+        </div>
+      </div>
+      <div
+        class="row g-0"
+      >
+        <div
+          class="col-md-12"
+        >
+          <span>
+            body
+          </span>
         </div>
       </div>
     </div>

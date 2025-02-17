@@ -14,10 +14,10 @@ export const UserIcon = ({ width, height }) => (
 )
 
 const Menu = () => (
-	<Navbar expand="lg" bg="primary" data-bs-theme="dark">
-		<Container>
+	<Navbar expand='lg' bg='primary' data-bs-theme='dark'>
+		<Container fluid>
 			<Navbar.Brand>Dashboard UI</Navbar.Brand>
-			<div className='icons-bar d-flex justify-content-around align-items-center'>
+			<div className='d-flex justify-content-around align-items-center'>
 				<span className='d-block d-md-none mr-2'>
 					<SearchIcon width={'2'} height={'1.8'} />
 				</span>
@@ -26,7 +26,7 @@ const Menu = () => (
 					<UserIcon width={'2'} height={'2'} />
 				</span>
 			</div>
-			<Navbar.Toggle aria-controls="basic-navbar-nav" />
+			<Navbar.Toggle aria-controls='basic-navbar-nav' />
 			<Navbar.Collapse id='basic-navbar-nav'>
 				<Nav className='mr-auto w-100 text-uppercase'>
 					<Nav.Link href='#/' className='ml-lg-auto'>Products</Nav.Link>

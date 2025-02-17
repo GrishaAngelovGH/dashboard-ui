@@ -7,15 +7,15 @@ import './DataOverviewSection.scss'
 const DataOverviewSection = ({ types }) => (
 	<Fade duration={3000}>
 		<PageSection style={{ background: '#2a7ab9', height: 520 }}>
-			<div className='row no-gutters'>
+			<div className='row g-0'>
 				<div className='col-md-12 mt-2'>
-					<div className='row no-gutters justify-content-center m-3'>
+					<div className='row g-0 justify-content-center m-3'>
 						<div className='col-md-8 text-center'>
 							<h2 className='text-white'>Work with data</h2>
 						</div>
 					</div>
 
-					<div className='row no-gutters justify-content-center mb-5 text-white text-center'>
+					<div className='row g-0 justify-content-center mb-5 text-white text-center'>
 						<div className='col-md-8 col-11'>
 							The dashboards components supports more than 15 types
 							of data servers - MS SQL, Oracle, PostgreSQL, Firebird, and others.
@@ -25,7 +25,7 @@ const DataOverviewSection = ({ types }) => (
 						</div>
 					</div>
 
-					<div className='row no-gutters justify-content-center mb-5'>
+					<div className='row g-0 justify-content-center mb-5'>
 						<div className='col-md-7 col-12 d-none d-md-block type-images'>
 							{
 								types.map(v => (
@@ -41,7 +41,7 @@ const DataOverviewSection = ({ types }) => (
 						</div>
 					</div>
 
-					<div className='row no-gutters justify-content-center mb-2 text-white text-center'>
+					<div className='row g-0 justify-content-center mb-2 text-white text-center'>
 						<div className='col-md-8 col-11'>
 							Preliminary data preparation and conversion are available.
 							You may use virtual data sources, and you may embed data directly

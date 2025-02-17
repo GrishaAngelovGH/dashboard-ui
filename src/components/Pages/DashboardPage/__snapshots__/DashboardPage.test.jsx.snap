@@ -6,13 +6,13 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
   "baseElement": <body>
     <div>
       <div
-        class="row no-gutters"
+        class="row g-0"
       >
         <div
           class="col-md-12"
         >
           <div
-            class="row no-gutters"
+            class="row g-0"
           >
             <div
               class="col-md-12"
@@ -112,7 +112,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
             </div>
           </div>
           <div
-            class="row no-gutters container mx-md-auto"
+            class="row g-0 container mx-md-auto"
           >
             <div
               class="col-md-4 offset-md-3 offset-lg-0 mt-3"
@@ -305,7 +305,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
             </div>
           </div>
           <div
-            class="row no-gutters justify-content-center mt-3"
+            class="row g-0 justify-content-center mt-3"
           >
             <div
               class="col-md-8"
@@ -319,13 +319,13 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
             </div>
           </div>
           <div
-            class="row no-gutters bg-primary justify-content-center mt-3"
+            class="row g-0 bg-primary justify-content-center mt-3"
           >
             <div
               class="col-md-12"
             >
               <div
-                class="row no-gutters justify-content-center text-center p-3"
+                class="row g-0 justify-content-center text-center p-3"
               >
                 <div
                   class="col-md-10 ml-auto"
@@ -685,13 +685,13 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
             </div>
           </div>
           <div
-            class="row no-gutters"
+            class="row g-0"
           >
             <div
               class="col-md-12"
             >
               <div
-                class="row no-gutters justify-content-center text-center p-3"
+                class="row g-0 justify-content-center text-center p-3"
               >
                 <div
                   class="col-md-9 ml-auto"
@@ -847,7 +847,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
             </div>
           </div>
           <div
-            class="row no-gutters justify-content-center"
+            class="row g-0 justify-content-center"
           >
             <div
               class="col-md-10"
@@ -1271,7 +1271,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
             </div>
           </div>
           <div
-            class="row no-gutters justify-content-center"
+            class="row g-0 justify-content-center"
           >
             <div
               class="col-md-10"
@@ -1444,13 +1444,13 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
             </div>
           </div>
           <div
-            class="row no-gutters justify-content-center mt-3 mb-3"
+            class="row g-0 justify-content-center mt-3 mb-3"
           >
             <div
               class="col-md-12"
             >
               <div
-                class="row no-gutters"
+                class="row g-0"
               >
                 <div
                   class="col-md-12"
@@ -2070,13 +2070,13 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
   </body>,
   "container": <div>
     <div
-      class="row no-gutters"
+      class="row g-0"
     >
       <div
         class="col-md-12"
       >
         <div
-          class="row no-gutters"
+          class="row g-0"
         >
           <div
             class="col-md-12"
@@ -2176,7 +2176,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
           </div>
         </div>
         <div
-          class="row no-gutters container mx-md-auto"
+          class="row g-0 container mx-md-auto"
         >
           <div
             class="col-md-4 offset-md-3 offset-lg-0 mt-3"
@@ -2369,7 +2369,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
           </div>
         </div>
         <div
-          class="row no-gutters justify-content-center mt-3"
+          class="row g-0 justify-content-center mt-3"
         >
           <div
             class="col-md-8"
@@ -2383,13 +2383,13 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
           </div>
         </div>
         <div
-          class="row no-gutters bg-primary justify-content-center mt-3"
+          class="row g-0 bg-primary justify-content-center mt-3"
         >
           <div
             class="col-md-12"
           >
             <div
-              class="row no-gutters justify-content-center text-center p-3"
+              class="row g-0 justify-content-center text-center p-3"
             >
               <div
                 class="col-md-10 ml-auto"
@@ -2749,13 +2749,13 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
           </div>
         </div>
         <div
-          class="row no-gutters"
+          class="row g-0"
         >
           <div
             class="col-md-12"
           >
             <div
-              class="row no-gutters justify-content-center text-center p-3"
+              class="row g-0 justify-content-center text-center p-3"
             >
               <div
                 class="col-md-9 ml-auto"
@@ -2911,7 +2911,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
           </div>
         </div>
         <div
-          class="row no-gutters justify-content-center"
+          class="row g-0 justify-content-center"
         >
           <div
             class="col-md-10"
@@ -3335,7 +3335,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
           </div>
         </div>
         <div
-          class="row no-gutters justify-content-center"
+          class="row g-0 justify-content-center"
         >
           <div
             class="col-md-10"
@@ -3508,13 +3508,13 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
           </div>
         </div>
         <div
-          class="row no-gutters justify-content-center mt-3 mb-3"
+          class="row g-0 justify-content-center mt-3 mb-3"
         >
           <div
             class="col-md-12"
           >
             <div
-              class="row no-gutters"
+              class="row g-0"
             >
               <div
                 class="col-md-12"
