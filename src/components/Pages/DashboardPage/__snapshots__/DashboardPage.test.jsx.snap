@@ -1464,562 +1464,566 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                       Market Summary
                     </h2>
                     <div
-                      class="ant-carousel css-dev-only-do-not-override-19lec04"
+                      style="width: 800px;"
                     >
                       <div
-                        class="slick-slider slick-initialized"
-                        dir="ltr"
+                        class="ant-carousel css-dev-only-do-not-override-19lec04"
                       >
                         <div
-                          class="slick-list"
+                          class="slick-slider slick-initialized"
+                          dir="ltr"
                         >
                           <div
-                            class="slick-track"
-                            style="opacity: 1; transform: translate3d(0px, 0px, 0px);"
+                            class="slick-list"
                           >
                             <div
-                              aria-hidden="true"
-                              class="slick-slide slick-cloned"
-                              data-index="-1"
-                              style="width: 0px;"
-                              tabindex="-1"
+                              class="slick-track"
+                              style="opacity: 1; transform: translate3d(0px, 0px, 0px);"
                             >
-                              <div>
-                                <div
-                                  style="width: 100%; display: inline-block;"
-                                  tabindex="-1"
-                                >
+                              <div
+                                aria-hidden="true"
+                                class="slick-slide slick-cloned"
+                                data-index="-1"
+                                style="width: 0px;"
+                                tabindex="-1"
+                              >
+                                <div>
                                   <div
-                                    class="stock-price-card-container"
+                                    style="width: 100%; display: inline-block;"
+                                    tabindex="-1"
                                   >
                                     <div
-                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                      class="stock-price-card-container"
                                     >
                                       <div
-                                        class="ant-card-head"
+                                        class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
                                       >
                                         <div
-                                          class="ant-card-head-wrapper"
+                                          class="ant-card-head"
                                         >
                                           <div
-                                            class="ant-card-head-title"
+                                            class="ant-card-head-wrapper"
                                           >
-                                            <span
-                                              class="text-muted"
+                                            <div
+                                              class="ant-card-head-title"
                                             >
-                                              NASDAQ
-                                            </span>
+                                              <span
+                                                class="text-muted"
+                                              >
+                                                NASDAQ
+                                              </span>
+                                            </div>
                                           </div>
                                         </div>
-                                      </div>
-                                      <div
-                                        class="ant-card-body"
-                                      >
-                                        <h2>
-                                          AMZN (Amazon)
-                                        </h2>
-                                        <div>
-                                          <span
-                                            class="h2 font-weight-bold"
-                                          >
-                                            3,242.76
-                                          </span>
-                                           
-                                          USD
-                                        </div>
-                                        <h5
-                                          class="text-success font-weight-bold"
+                                        <div
+                                          class="ant-card-body"
                                         >
-                                          +18.48 (0.57%)
-                                        </h5>
+                                          <h2>
+                                            AMZN (Amazon)
+                                          </h2>
+                                          <div>
+                                            <span
+                                              class="h2 font-weight-bold"
+                                            >
+                                              3,242.76
+                                            </span>
+                                             
+                                            USD
+                                          </div>
+                                          <h5
+                                            class="text-success font-weight-bold"
+                                          >
+                                            +18.48 (0.57%)
+                                          </h5>
+                                        </div>
                                       </div>
                                     </div>
                                   </div>
                                 </div>
                               </div>
-                            </div>
-                            <div
-                              aria-hidden="false"
-                              class="slick-slide slick-active slick-current"
-                              data-index="0"
-                              style="outline: none; width: 0px;"
-                              tabindex="-1"
-                            >
-                              <div>
-                                <div
-                                  style="width: 100%; display: inline-block;"
-                                  tabindex="-1"
-                                >
+                              <div
+                                aria-hidden="false"
+                                class="slick-slide slick-active slick-current"
+                                data-index="0"
+                                style="outline: none; width: 0px;"
+                                tabindex="-1"
+                              >
+                                <div>
                                   <div
-                                    class="stock-price-card-container"
+                                    style="width: 100%; display: inline-block;"
+                                    tabindex="-1"
                                   >
                                     <div
-                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                      class="stock-price-card-container"
                                     >
                                       <div
-                                        class="ant-card-head"
+                                        class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
                                       >
                                         <div
-                                          class="ant-card-head-wrapper"
+                                          class="ant-card-head"
                                         >
                                           <div
-                                            class="ant-card-head-title"
+                                            class="ant-card-head-wrapper"
                                           >
-                                            <span
-                                              class="text-muted"
+                                            <div
+                                              class="ant-card-head-title"
                                             >
-                                              NASDAQ
-                                            </span>
+                                              <span
+                                                class="text-muted"
+                                              >
+                                                NASDAQ
+                                              </span>
+                                            </div>
                                           </div>
                                         </div>
-                                      </div>
-                                      <div
-                                        class="ant-card-body"
-                                      >
-                                        <h2>
-                                          AAPL (Apple)
-                                        </h2>
-                                        <div>
-                                          <span
-                                            class="h2 font-weight-bold"
-                                          >
-                                            173,07
-                                          </span>
-                                           
-                                          USD
-                                        </div>
-                                        <h5
-                                          class="text-success font-weight-bold"
+                                        <div
+                                          class="ant-card-body"
                                         >
-                                          +0.88 (0.51%)
-                                        </h5>
+                                          <h2>
+                                            AAPL (Apple)
+                                          </h2>
+                                          <div>
+                                            <span
+                                              class="h2 font-weight-bold"
+                                            >
+                                              173,07
+                                            </span>
+                                             
+                                            USD
+                                          </div>
+                                          <h5
+                                            class="text-success font-weight-bold"
+                                          >
+                                            +0.88 (0.51%)
+                                          </h5>
+                                        </div>
                                       </div>
                                     </div>
                                   </div>
                                 </div>
                               </div>
-                            </div>
-                            <div
-                              aria-hidden="true"
-                              class="slick-slide"
-                              data-index="1"
-                              style="outline: none; width: 0px;"
-                              tabindex="-1"
-                            >
-                              <div>
-                                <div
-                                  style="width: 100%; display: inline-block;"
-                                  tabindex="-1"
-                                >
+                              <div
+                                aria-hidden="true"
+                                class="slick-slide"
+                                data-index="1"
+                                style="outline: none; width: 0px;"
+                                tabindex="-1"
+                              >
+                                <div>
                                   <div
-                                    class="stock-price-card-container"
+                                    style="width: 100%; display: inline-block;"
+                                    tabindex="-1"
                                   >
                                     <div
-                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                      class="stock-price-card-container"
                                     >
                                       <div
-                                        class="ant-card-head"
+                                        class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
                                       >
                                         <div
-                                          class="ant-card-head-wrapper"
+                                          class="ant-card-head"
                                         >
                                           <div
-                                            class="ant-card-head-title"
+                                            class="ant-card-head-wrapper"
                                           >
-                                            <span
-                                              class="text-muted"
+                                            <div
+                                              class="ant-card-head-title"
                                             >
-                                              NASDAQ
-                                            </span>
+                                              <span
+                                                class="text-muted"
+                                              >
+                                                NASDAQ
+                                              </span>
+                                            </div>
                                           </div>
                                         </div>
-                                      </div>
-                                      <div
-                                        class="ant-card-body"
-                                      >
-                                        <h2>
-                                          GOOGL (Google)
-                                        </h2>
-                                        <div>
-                                          <span
-                                            class="h2 font-weight-bold"
-                                          >
-                                            2,789.61
-                                          </span>
-                                           
-                                          USD
-                                        </div>
-                                        <h5
-                                          class="text-success font-weight-bold"
+                                        <div
+                                          class="ant-card-body"
                                         >
-                                          +17.87 (0.64%)
-                                        </h5>
+                                          <h2>
+                                            GOOGL (Google)
+                                          </h2>
+                                          <div>
+                                            <span
+                                              class="h2 font-weight-bold"
+                                            >
+                                              2,789.61
+                                            </span>
+                                             
+                                            USD
+                                          </div>
+                                          <h5
+                                            class="text-success font-weight-bold"
+                                          >
+                                            +17.87 (0.64%)
+                                          </h5>
+                                        </div>
                                       </div>
                                     </div>
                                   </div>
                                 </div>
                               </div>
-                            </div>
-                            <div
-                              aria-hidden="true"
-                              class="slick-slide"
-                              data-index="2"
-                              style="outline: none; width: 0px;"
-                              tabindex="-1"
-                            >
-                              <div>
-                                <div
-                                  style="width: 100%; display: inline-block;"
-                                  tabindex="-1"
-                                >
+                              <div
+                                aria-hidden="true"
+                                class="slick-slide"
+                                data-index="2"
+                                style="outline: none; width: 0px;"
+                                tabindex="-1"
+                              >
+                                <div>
                                   <div
-                                    class="stock-price-card-container"
+                                    style="width: 100%; display: inline-block;"
+                                    tabindex="-1"
                                   >
                                     <div
-                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                      class="stock-price-card-container"
                                     >
                                       <div
-                                        class="ant-card-head"
+                                        class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
                                       >
                                         <div
-                                          class="ant-card-head-wrapper"
+                                          class="ant-card-head"
                                         >
                                           <div
-                                            class="ant-card-head-title"
+                                            class="ant-card-head-wrapper"
                                           >
-                                            <span
-                                              class="text-muted"
+                                            <div
+                                              class="ant-card-head-title"
                                             >
-                                              NASDAQ
-                                            </span>
+                                              <span
+                                                class="text-muted"
+                                              >
+                                                NASDAQ
+                                              </span>
+                                            </div>
                                           </div>
                                         </div>
-                                      </div>
-                                      <div
-                                        class="ant-card-body"
-                                      >
-                                        <h2>
-                                          FB (Facebook)
-                                        </h2>
-                                        <div>
-                                          <span
-                                            class="h2 font-weight-bold"
-                                          >
-                                            331,90
-                                          </span>
-                                           
-                                          USD
-                                        </div>
-                                        <h5
-                                          class="text-success font-weight-bold"
+                                        <div
+                                          class="ant-card-body"
                                         >
-                                          +5.42 (1.66%)
-                                        </h5>
+                                          <h2>
+                                            FB (Facebook)
+                                          </h2>
+                                          <div>
+                                            <span
+                                              class="h2 font-weight-bold"
+                                            >
+                                              331,90
+                                            </span>
+                                             
+                                            USD
+                                          </div>
+                                          <h5
+                                            class="text-success font-weight-bold"
+                                          >
+                                            +5.42 (1.66%)
+                                          </h5>
+                                        </div>
                                       </div>
                                     </div>
                                   </div>
                                 </div>
                               </div>
-                            </div>
-                            <div
-                              aria-hidden="true"
-                              class="slick-slide"
-                              data-index="3"
-                              style="outline: none; width: 0px;"
-                              tabindex="-1"
-                            >
-                              <div>
-                                <div
-                                  style="width: 100%; display: inline-block;"
-                                  tabindex="-1"
-                                >
+                              <div
+                                aria-hidden="true"
+                                class="slick-slide"
+                                data-index="3"
+                                style="outline: none; width: 0px;"
+                                tabindex="-1"
+                              >
+                                <div>
                                   <div
-                                    class="stock-price-card-container"
+                                    style="width: 100%; display: inline-block;"
+                                    tabindex="-1"
                                   >
                                     <div
-                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                      class="stock-price-card-container"
                                     >
                                       <div
-                                        class="ant-card-head"
+                                        class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
                                       >
                                         <div
-                                          class="ant-card-head-wrapper"
+                                          class="ant-card-head"
                                         >
                                           <div
-                                            class="ant-card-head-title"
+                                            class="ant-card-head-wrapper"
                                           >
-                                            <span
-                                              class="text-muted"
+                                            <div
+                                              class="ant-card-head-title"
                                             >
-                                              NASDAQ
-                                            </span>
+                                              <span
+                                                class="text-muted"
+                                              >
+                                                NASDAQ
+                                              </span>
+                                            </div>
                                           </div>
                                         </div>
-                                      </div>
-                                      <div
-                                        class="ant-card-body"
-                                      >
-                                        <h2>
-                                          AMZN (Amazon)
-                                        </h2>
-                                        <div>
-                                          <span
-                                            class="h2 font-weight-bold"
-                                          >
-                                            3,242.76
-                                          </span>
-                                           
-                                          USD
-                                        </div>
-                                        <h5
-                                          class="text-success font-weight-bold"
+                                        <div
+                                          class="ant-card-body"
                                         >
-                                          +18.48 (0.57%)
-                                        </h5>
+                                          <h2>
+                                            AMZN (Amazon)
+                                          </h2>
+                                          <div>
+                                            <span
+                                              class="h2 font-weight-bold"
+                                            >
+                                              3,242.76
+                                            </span>
+                                             
+                                            USD
+                                          </div>
+                                          <h5
+                                            class="text-success font-weight-bold"
+                                          >
+                                            +18.48 (0.57%)
+                                          </h5>
+                                        </div>
                                       </div>
                                     </div>
                                   </div>
                                 </div>
                               </div>
-                            </div>
-                            <div
-                              aria-hidden="true"
-                              class="slick-slide slick-cloned"
-                              data-index="4"
-                              style="width: 0px;"
-                              tabindex="-1"
-                            >
-                              <div>
-                                <div
-                                  style="width: 100%; display: inline-block;"
-                                  tabindex="-1"
-                                >
+                              <div
+                                aria-hidden="true"
+                                class="slick-slide slick-cloned"
+                                data-index="4"
+                                style="width: 0px;"
+                                tabindex="-1"
+                              >
+                                <div>
                                   <div
-                                    class="stock-price-card-container"
+                                    style="width: 100%; display: inline-block;"
+                                    tabindex="-1"
                                   >
                                     <div
-                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                      class="stock-price-card-container"
                                     >
                                       <div
-                                        class="ant-card-head"
+                                        class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
                                       >
                                         <div
-                                          class="ant-card-head-wrapper"
+                                          class="ant-card-head"
                                         >
                                           <div
-                                            class="ant-card-head-title"
+                                            class="ant-card-head-wrapper"
                                           >
-                                            <span
-                                              class="text-muted"
+                                            <div
+                                              class="ant-card-head-title"
                                             >
-                                              NASDAQ
-                                            </span>
+                                              <span
+                                                class="text-muted"
+                                              >
+                                                NASDAQ
+                                              </span>
+                                            </div>
                                           </div>
                                         </div>
-                                      </div>
-                                      <div
-                                        class="ant-card-body"
-                                      >
-                                        <h2>
-                                          AAPL (Apple)
-                                        </h2>
-                                        <div>
-                                          <span
-                                            class="h2 font-weight-bold"
-                                          >
-                                            173,07
-                                          </span>
-                                           
-                                          USD
-                                        </div>
-                                        <h5
-                                          class="text-success font-weight-bold"
+                                        <div
+                                          class="ant-card-body"
                                         >
-                                          +0.88 (0.51%)
-                                        </h5>
+                                          <h2>
+                                            AAPL (Apple)
+                                          </h2>
+                                          <div>
+                                            <span
+                                              class="h2 font-weight-bold"
+                                            >
+                                              173,07
+                                            </span>
+                                             
+                                            USD
+                                          </div>
+                                          <h5
+                                            class="text-success font-weight-bold"
+                                          >
+                                            +0.88 (0.51%)
+                                          </h5>
+                                        </div>
                                       </div>
                                     </div>
                                   </div>
                                 </div>
                               </div>
-                            </div>
-                            <div
-                              aria-hidden="true"
-                              class="slick-slide slick-cloned"
-                              data-index="5"
-                              style="width: 0px;"
-                              tabindex="-1"
-                            >
-                              <div>
-                                <div
-                                  style="width: 100%; display: inline-block;"
-                                  tabindex="-1"
-                                >
+                              <div
+                                aria-hidden="true"
+                                class="slick-slide slick-cloned"
+                                data-index="5"
+                                style="width: 0px;"
+                                tabindex="-1"
+                              >
+                                <div>
                                   <div
-                                    class="stock-price-card-container"
+                                    style="width: 100%; display: inline-block;"
+                                    tabindex="-1"
                                   >
                                     <div
-                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                      class="stock-price-card-container"
                                     >
                                       <div
-                                        class="ant-card-head"
+                                        class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
                                       >
                                         <div
-                                          class="ant-card-head-wrapper"
+                                          class="ant-card-head"
                                         >
                                           <div
-                                            class="ant-card-head-title"
+                                            class="ant-card-head-wrapper"
                                           >
-                                            <span
-                                              class="text-muted"
+                                            <div
+                                              class="ant-card-head-title"
                                             >
-                                              NASDAQ
-                                            </span>
+                                              <span
+                                                class="text-muted"
+                                              >
+                                                NASDAQ
+                                              </span>
+                                            </div>
                                           </div>
                                         </div>
-                                      </div>
-                                      <div
-                                        class="ant-card-body"
-                                      >
-                                        <h2>
-                                          GOOGL (Google)
-                                        </h2>
-                                        <div>
-                                          <span
-                                            class="h2 font-weight-bold"
-                                          >
-                                            2,789.61
-                                          </span>
-                                           
-                                          USD
-                                        </div>
-                                        <h5
-                                          class="text-success font-weight-bold"
+                                        <div
+                                          class="ant-card-body"
                                         >
-                                          +17.87 (0.64%)
-                                        </h5>
+                                          <h2>
+                                            GOOGL (Google)
+                                          </h2>
+                                          <div>
+                                            <span
+                                              class="h2 font-weight-bold"
+                                            >
+                                              2,789.61
+                                            </span>
+                                             
+                                            USD
+                                          </div>
+                                          <h5
+                                            class="text-success font-weight-bold"
+                                          >
+                                            +17.87 (0.64%)
+                                          </h5>
+                                        </div>
                                       </div>
                                     </div>
                                   </div>
                                 </div>
                               </div>
-                            </div>
-                            <div
-                              aria-hidden="true"
-                              class="slick-slide slick-cloned"
-                              data-index="6"
-                              style="width: 0px;"
-                              tabindex="-1"
-                            >
-                              <div>
-                                <div
-                                  style="width: 100%; display: inline-block;"
-                                  tabindex="-1"
-                                >
+                              <div
+                                aria-hidden="true"
+                                class="slick-slide slick-cloned"
+                                data-index="6"
+                                style="width: 0px;"
+                                tabindex="-1"
+                              >
+                                <div>
                                   <div
-                                    class="stock-price-card-container"
+                                    style="width: 100%; display: inline-block;"
+                                    tabindex="-1"
                                   >
                                     <div
-                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                      class="stock-price-card-container"
                                     >
                                       <div
-                                        class="ant-card-head"
+                                        class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
                                       >
                                         <div
-                                          class="ant-card-head-wrapper"
+                                          class="ant-card-head"
                                         >
                                           <div
-                                            class="ant-card-head-title"
+                                            class="ant-card-head-wrapper"
                                           >
-                                            <span
-                                              class="text-muted"
+                                            <div
+                                              class="ant-card-head-title"
                                             >
-                                              NASDAQ
-                                            </span>
+                                              <span
+                                                class="text-muted"
+                                              >
+                                                NASDAQ
+                                              </span>
+                                            </div>
                                           </div>
                                         </div>
-                                      </div>
-                                      <div
-                                        class="ant-card-body"
-                                      >
-                                        <h2>
-                                          FB (Facebook)
-                                        </h2>
-                                        <div>
-                                          <span
-                                            class="h2 font-weight-bold"
-                                          >
-                                            331,90
-                                          </span>
-                                           
-                                          USD
-                                        </div>
-                                        <h5
-                                          class="text-success font-weight-bold"
+                                        <div
+                                          class="ant-card-body"
                                         >
-                                          +5.42 (1.66%)
-                                        </h5>
+                                          <h2>
+                                            FB (Facebook)
+                                          </h2>
+                                          <div>
+                                            <span
+                                              class="h2 font-weight-bold"
+                                            >
+                                              331,90
+                                            </span>
+                                             
+                                            USD
+                                          </div>
+                                          <h5
+                                            class="text-success font-weight-bold"
+                                          >
+                                            +5.42 (1.66%)
+                                          </h5>
+                                        </div>
                                       </div>
                                     </div>
                                   </div>
                                 </div>
                               </div>
-                            </div>
-                            <div
-                              aria-hidden="true"
-                              class="slick-slide slick-cloned"
-                              data-index="7"
-                              style="width: 0px;"
-                              tabindex="-1"
-                            >
-                              <div>
-                                <div
-                                  style="width: 100%; display: inline-block;"
-                                  tabindex="-1"
-                                >
+                              <div
+                                aria-hidden="true"
+                                class="slick-slide slick-cloned"
+                                data-index="7"
+                                style="width: 0px;"
+                                tabindex="-1"
+                              >
+                                <div>
                                   <div
-                                    class="stock-price-card-container"
+                                    style="width: 100%; display: inline-block;"
+                                    tabindex="-1"
                                   >
                                     <div
-                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                      class="stock-price-card-container"
                                     >
                                       <div
-                                        class="ant-card-head"
+                                        class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
                                       >
                                         <div
-                                          class="ant-card-head-wrapper"
+                                          class="ant-card-head"
                                         >
                                           <div
-                                            class="ant-card-head-title"
+                                            class="ant-card-head-wrapper"
                                           >
-                                            <span
-                                              class="text-muted"
+                                            <div
+                                              class="ant-card-head-title"
                                             >
-                                              NASDAQ
-                                            </span>
+                                              <span
+                                                class="text-muted"
+                                              >
+                                                NASDAQ
+                                              </span>
+                                            </div>
                                           </div>
                                         </div>
-                                      </div>
-                                      <div
-                                        class="ant-card-body"
-                                      >
-                                        <h2>
-                                          AMZN (Amazon)
-                                        </h2>
-                                        <div>
-                                          <span
-                                            class="h2 font-weight-bold"
-                                          >
-                                            3,242.76
-                                          </span>
-                                           
-                                          USD
-                                        </div>
-                                        <h5
-                                          class="text-success font-weight-bold"
+                                        <div
+                                          class="ant-card-body"
                                         >
-                                          +18.48 (0.57%)
-                                        </h5>
+                                          <h2>
+                                            AMZN (Amazon)
+                                          </h2>
+                                          <div>
+                                            <span
+                                              class="h2 font-weight-bold"
+                                            >
+                                              3,242.76
+                                            </span>
+                                             
+                                            USD
+                                          </div>
+                                          <h5
+                                            class="text-success font-weight-bold"
+                                          >
+                                            +18.48 (0.57%)
+                                          </h5>
+                                        </div>
                                       </div>
                                     </div>
                                   </div>
@@ -2027,40 +2031,40 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                               </div>
                             </div>
                           </div>
+                          <ul
+                            class="slick-dots slick-dots-bottom"
+                            style="display: block;"
+                          >
+                            <li
+                              class="slick-active"
+                            >
+                              <button>
+                                1
+                              </button>
+                            </li>
+                            <li
+                              class=""
+                            >
+                              <button>
+                                2
+                              </button>
+                            </li>
+                            <li
+                              class=""
+                            >
+                              <button>
+                                3
+                              </button>
+                            </li>
+                            <li
+                              class=""
+                            >
+                              <button>
+                                4
+                              </button>
+                            </li>
+                          </ul>
                         </div>
-                        <ul
-                          class="slick-dots slick-dots-bottom"
-                          style="display: block;"
-                        >
-                          <li
-                            class="slick-active"
-                          >
-                            <button>
-                              1
-                            </button>
-                          </li>
-                          <li
-                            class=""
-                          >
-                            <button>
-                              2
-                            </button>
-                          </li>
-                          <li
-                            class=""
-                          >
-                            <button>
-                              3
-                            </button>
-                          </li>
-                          <li
-                            class=""
-                          >
-                            <button>
-                              4
-                            </button>
-                          </li>
-                        </ul>
                       </div>
                     </div>
                   </div>
@@ -3532,562 +3536,566 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                     Market Summary
                   </h2>
                   <div
-                    class="ant-carousel css-dev-only-do-not-override-19lec04"
+                    style="width: 800px;"
                   >
                     <div
-                      class="slick-slider slick-initialized"
-                      dir="ltr"
+                      class="ant-carousel css-dev-only-do-not-override-19lec04"
                     >
                       <div
-                        class="slick-list"
+                        class="slick-slider slick-initialized"
+                        dir="ltr"
                       >
                         <div
-                          class="slick-track"
-                          style="opacity: 1; transform: translate3d(0px, 0px, 0px);"
+                          class="slick-list"
                         >
                           <div
-                            aria-hidden="true"
-                            class="slick-slide slick-cloned"
-                            data-index="-1"
-                            style="width: 0px;"
-                            tabindex="-1"
+                            class="slick-track"
+                            style="opacity: 1; transform: translate3d(0px, 0px, 0px);"
                           >
-                            <div>
-                              <div
-                                style="width: 100%; display: inline-block;"
-                                tabindex="-1"
-                              >
+                            <div
+                              aria-hidden="true"
+                              class="slick-slide slick-cloned"
+                              data-index="-1"
+                              style="width: 0px;"
+                              tabindex="-1"
+                            >
+                              <div>
                                 <div
-                                  class="stock-price-card-container"
+                                  style="width: 100%; display: inline-block;"
+                                  tabindex="-1"
                                 >
                                   <div
-                                    class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                    class="stock-price-card-container"
                                   >
                                     <div
-                                      class="ant-card-head"
+                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
                                     >
                                       <div
-                                        class="ant-card-head-wrapper"
+                                        class="ant-card-head"
                                       >
                                         <div
-                                          class="ant-card-head-title"
+                                          class="ant-card-head-wrapper"
                                         >
-                                          <span
-                                            class="text-muted"
+                                          <div
+                                            class="ant-card-head-title"
                                           >
-                                            NASDAQ
-                                          </span>
+                                            <span
+                                              class="text-muted"
+                                            >
+                                              NASDAQ
+                                            </span>
+                                          </div>
                                         </div>
                                       </div>
-                                    </div>
-                                    <div
-                                      class="ant-card-body"
-                                    >
-                                      <h2>
-                                        AMZN (Amazon)
-                                      </h2>
-                                      <div>
-                                        <span
-                                          class="h2 font-weight-bold"
-                                        >
-                                          3,242.76
-                                        </span>
-                                         
-                                        USD
-                                      </div>
-                                      <h5
-                                        class="text-success font-weight-bold"
+                                      <div
+                                        class="ant-card-body"
                                       >
-                                        +18.48 (0.57%)
-                                      </h5>
+                                        <h2>
+                                          AMZN (Amazon)
+                                        </h2>
+                                        <div>
+                                          <span
+                                            class="h2 font-weight-bold"
+                                          >
+                                            3,242.76
+                                          </span>
+                                           
+                                          USD
+                                        </div>
+                                        <h5
+                                          class="text-success font-weight-bold"
+                                        >
+                                          +18.48 (0.57%)
+                                        </h5>
+                                      </div>
                                     </div>
                                   </div>
                                 </div>
                               </div>
                             </div>
-                          </div>
-                          <div
-                            aria-hidden="false"
-                            class="slick-slide slick-active slick-current"
-                            data-index="0"
-                            style="outline: none; width: 0px;"
-                            tabindex="-1"
-                          >
-                            <div>
-                              <div
-                                style="width: 100%; display: inline-block;"
-                                tabindex="-1"
-                              >
+                            <div
+                              aria-hidden="false"
+                              class="slick-slide slick-active slick-current"
+                              data-index="0"
+                              style="outline: none; width: 0px;"
+                              tabindex="-1"
+                            >
+                              <div>
                                 <div
-                                  class="stock-price-card-container"
+                                  style="width: 100%; display: inline-block;"
+                                  tabindex="-1"
                                 >
                                   <div
-                                    class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                    class="stock-price-card-container"
                                   >
                                     <div
-                                      class="ant-card-head"
+                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
                                     >
                                       <div
-                                        class="ant-card-head-wrapper"
+                                        class="ant-card-head"
                                       >
                                         <div
-                                          class="ant-card-head-title"
+                                          class="ant-card-head-wrapper"
                                         >
-                                          <span
-                                            class="text-muted"
+                                          <div
+                                            class="ant-card-head-title"
                                           >
-                                            NASDAQ
-                                          </span>
+                                            <span
+                                              class="text-muted"
+                                            >
+                                              NASDAQ
+                                            </span>
+                                          </div>
                                         </div>
                                       </div>
-                                    </div>
-                                    <div
-                                      class="ant-card-body"
-                                    >
-                                      <h2>
-                                        AAPL (Apple)
-                                      </h2>
-                                      <div>
-                                        <span
-                                          class="h2 font-weight-bold"
-                                        >
-                                          173,07
-                                        </span>
-                                         
-                                        USD
-                                      </div>
-                                      <h5
-                                        class="text-success font-weight-bold"
+                                      <div
+                                        class="ant-card-body"
                                       >
-                                        +0.88 (0.51%)
-                                      </h5>
+                                        <h2>
+                                          AAPL (Apple)
+                                        </h2>
+                                        <div>
+                                          <span
+                                            class="h2 font-weight-bold"
+                                          >
+                                            173,07
+                                          </span>
+                                           
+                                          USD
+                                        </div>
+                                        <h5
+                                          class="text-success font-weight-bold"
+                                        >
+                                          +0.88 (0.51%)
+                                        </h5>
+                                      </div>
                                     </div>
                                   </div>
                                 </div>
                               </div>
                             </div>
-                          </div>
-                          <div
-                            aria-hidden="true"
-                            class="slick-slide"
-                            data-index="1"
-                            style="outline: none; width: 0px;"
-                            tabindex="-1"
-                          >
-                            <div>
-                              <div
-                                style="width: 100%; display: inline-block;"
-                                tabindex="-1"
-                              >
+                            <div
+                              aria-hidden="true"
+                              class="slick-slide"
+                              data-index="1"
+                              style="outline: none; width: 0px;"
+                              tabindex="-1"
+                            >
+                              <div>
                                 <div
-                                  class="stock-price-card-container"
+                                  style="width: 100%; display: inline-block;"
+                                  tabindex="-1"
                                 >
                                   <div
-                                    class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                    class="stock-price-card-container"
                                   >
                                     <div
-                                      class="ant-card-head"
+                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
                                     >
                                       <div
-                                        class="ant-card-head-wrapper"
+                                        class="ant-card-head"
                                       >
                                         <div
-                                          class="ant-card-head-title"
+                                          class="ant-card-head-wrapper"
                                         >
-                                          <span
-                                            class="text-muted"
+                                          <div
+                                            class="ant-card-head-title"
                                           >
-                                            NASDAQ
-                                          </span>
+                                            <span
+                                              class="text-muted"
+                                            >
+                                              NASDAQ
+                                            </span>
+                                          </div>
                                         </div>
                                       </div>
-                                    </div>
-                                    <div
-                                      class="ant-card-body"
-                                    >
-                                      <h2>
-                                        GOOGL (Google)
-                                      </h2>
-                                      <div>
-                                        <span
-                                          class="h2 font-weight-bold"
-                                        >
-                                          2,789.61
-                                        </span>
-                                         
-                                        USD
-                                      </div>
-                                      <h5
-                                        class="text-success font-weight-bold"
+                                      <div
+                                        class="ant-card-body"
                                       >
-                                        +17.87 (0.64%)
-                                      </h5>
+                                        <h2>
+                                          GOOGL (Google)
+                                        </h2>
+                                        <div>
+                                          <span
+                                            class="h2 font-weight-bold"
+                                          >
+                                            2,789.61
+                                          </span>
+                                           
+                                          USD
+                                        </div>
+                                        <h5
+                                          class="text-success font-weight-bold"
+                                        >
+                                          +17.87 (0.64%)
+                                        </h5>
+                                      </div>
                                     </div>
                                   </div>
                                 </div>
                               </div>
                             </div>
-                          </div>
-                          <div
-                            aria-hidden="true"
-                            class="slick-slide"
-                            data-index="2"
-                            style="outline: none; width: 0px;"
-                            tabindex="-1"
-                          >
-                            <div>
-                              <div
-                                style="width: 100%; display: inline-block;"
-                                tabindex="-1"
-                              >
+                            <div
+                              aria-hidden="true"
+                              class="slick-slide"
+                              data-index="2"
+                              style="outline: none; width: 0px;"
+                              tabindex="-1"
+                            >
+                              <div>
                                 <div
-                                  class="stock-price-card-container"
+                                  style="width: 100%; display: inline-block;"
+                                  tabindex="-1"
                                 >
                                   <div
-                                    class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                    class="stock-price-card-container"
                                   >
                                     <div
-                                      class="ant-card-head"
+                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
                                     >
                                       <div
-                                        class="ant-card-head-wrapper"
+                                        class="ant-card-head"
                                       >
                                         <div
-                                          class="ant-card-head-title"
+                                          class="ant-card-head-wrapper"
                                         >
-                                          <span
-                                            class="text-muted"
+                                          <div
+                                            class="ant-card-head-title"
                                           >
-                                            NASDAQ
-                                          </span>
+                                            <span
+                                              class="text-muted"
+                                            >
+                                              NASDAQ
+                                            </span>
+                                          </div>
                                         </div>
                                       </div>
-                                    </div>
-                                    <div
-                                      class="ant-card-body"
-                                    >
-                                      <h2>
-                                        FB (Facebook)
-                                      </h2>
-                                      <div>
-                                        <span
-                                          class="h2 font-weight-bold"
-                                        >
-                                          331,90
-                                        </span>
-                                         
-                                        USD
-                                      </div>
-                                      <h5
-                                        class="text-success font-weight-bold"
+                                      <div
+                                        class="ant-card-body"
                                       >
-                                        +5.42 (1.66%)
-                                      </h5>
+                                        <h2>
+                                          FB (Facebook)
+                                        </h2>
+                                        <div>
+                                          <span
+                                            class="h2 font-weight-bold"
+                                          >
+                                            331,90
+                                          </span>
+                                           
+                                          USD
+                                        </div>
+                                        <h5
+                                          class="text-success font-weight-bold"
+                                        >
+                                          +5.42 (1.66%)
+                                        </h5>
+                                      </div>
                                     </div>
                                   </div>
                                 </div>
                               </div>
                             </div>
-                          </div>
-                          <div
-                            aria-hidden="true"
-                            class="slick-slide"
-                            data-index="3"
-                            style="outline: none; width: 0px;"
-                            tabindex="-1"
-                          >
-                            <div>
-                              <div
-                                style="width: 100%; display: inline-block;"
-                                tabindex="-1"
-                              >
+                            <div
+                              aria-hidden="true"
+                              class="slick-slide"
+                              data-index="3"
+                              style="outline: none; width: 0px;"
+                              tabindex="-1"
+                            >
+                              <div>
                                 <div
-                                  class="stock-price-card-container"
+                                  style="width: 100%; display: inline-block;"
+                                  tabindex="-1"
                                 >
                                   <div
-                                    class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                    class="stock-price-card-container"
                                   >
                                     <div
-                                      class="ant-card-head"
+                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
                                     >
                                       <div
-                                        class="ant-card-head-wrapper"
+                                        class="ant-card-head"
                                       >
                                         <div
-                                          class="ant-card-head-title"
+                                          class="ant-card-head-wrapper"
                                         >
-                                          <span
-                                            class="text-muted"
+                                          <div
+                                            class="ant-card-head-title"
                                           >
-                                            NASDAQ
-                                          </span>
+                                            <span
+                                              class="text-muted"
+                                            >
+                                              NASDAQ
+                                            </span>
+                                          </div>
                                         </div>
                                       </div>
-                                    </div>
-                                    <div
-                                      class="ant-card-body"
-                                    >
-                                      <h2>
-                                        AMZN (Amazon)
-                                      </h2>
-                                      <div>
-                                        <span
-                                          class="h2 font-weight-bold"
-                                        >
-                                          3,242.76
-                                        </span>
-                                         
-                                        USD
-                                      </div>
-                                      <h5
-                                        class="text-success font-weight-bold"
+                                      <div
+                                        class="ant-card-body"
                                       >
-                                        +18.48 (0.57%)
-                                      </h5>
+                                        <h2>
+                                          AMZN (Amazon)
+                                        </h2>
+                                        <div>
+                                          <span
+                                            class="h2 font-weight-bold"
+                                          >
+                                            3,242.76
+                                          </span>
+                                           
+                                          USD
+                                        </div>
+                                        <h5
+                                          class="text-success font-weight-bold"
+                                        >
+                                          +18.48 (0.57%)
+                                        </h5>
+                                      </div>
                                     </div>
                                   </div>
                                 </div>
                               </div>
                             </div>
-                          </div>
-                          <div
-                            aria-hidden="true"
-                            class="slick-slide slick-cloned"
-                            data-index="4"
-                            style="width: 0px;"
-                            tabindex="-1"
-                          >
-                            <div>
-                              <div
-                                style="width: 100%; display: inline-block;"
-                                tabindex="-1"
-                              >
+                            <div
+                              aria-hidden="true"
+                              class="slick-slide slick-cloned"
+                              data-index="4"
+                              style="width: 0px;"
+                              tabindex="-1"
+                            >
+                              <div>
                                 <div
-                                  class="stock-price-card-container"
+                                  style="width: 100%; display: inline-block;"
+                                  tabindex="-1"
                                 >
                                   <div
-                                    class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                    class="stock-price-card-container"
                                   >
                                     <div
-                                      class="ant-card-head"
+                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
                                     >
                                       <div
-                                        class="ant-card-head-wrapper"
+                                        class="ant-card-head"
                                       >
                                         <div
-                                          class="ant-card-head-title"
+                                          class="ant-card-head-wrapper"
                                         >
-                                          <span
-                                            class="text-muted"
+                                          <div
+                                            class="ant-card-head-title"
                                           >
-                                            NASDAQ
-                                          </span>
+                                            <span
+                                              class="text-muted"
+                                            >
+                                              NASDAQ
+                                            </span>
+                                          </div>
                                         </div>
                                       </div>
-                                    </div>
-                                    <div
-                                      class="ant-card-body"
-                                    >
-                                      <h2>
-                                        AAPL (Apple)
-                                      </h2>
-                                      <div>
-                                        <span
-                                          class="h2 font-weight-bold"
-                                        >
-                                          173,07
-                                        </span>
-                                         
-                                        USD
-                                      </div>
-                                      <h5
-                                        class="text-success font-weight-bold"
+                                      <div
+                                        class="ant-card-body"
                                       >
-                                        +0.88 (0.51%)
-                                      </h5>
+                                        <h2>
+                                          AAPL (Apple)
+                                        </h2>
+                                        <div>
+                                          <span
+                                            class="h2 font-weight-bold"
+                                          >
+                                            173,07
+                                          </span>
+                                           
+                                          USD
+                                        </div>
+                                        <h5
+                                          class="text-success font-weight-bold"
+                                        >
+                                          +0.88 (0.51%)
+                                        </h5>
+                                      </div>
                                     </div>
                                   </div>
                                 </div>
                               </div>
                             </div>
-                          </div>
-                          <div
-                            aria-hidden="true"
-                            class="slick-slide slick-cloned"
-                            data-index="5"
-                            style="width: 0px;"
-                            tabindex="-1"
-                          >
-                            <div>
-                              <div
-                                style="width: 100%; display: inline-block;"
-                                tabindex="-1"
-                              >
+                            <div
+                              aria-hidden="true"
+                              class="slick-slide slick-cloned"
+                              data-index="5"
+                              style="width: 0px;"
+                              tabindex="-1"
+                            >
+                              <div>
                                 <div
-                                  class="stock-price-card-container"
+                                  style="width: 100%; display: inline-block;"
+                                  tabindex="-1"
                                 >
                                   <div
-                                    class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                    class="stock-price-card-container"
                                   >
                                     <div
-                                      class="ant-card-head"
+                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
                                     >
                                       <div
-                                        class="ant-card-head-wrapper"
+                                        class="ant-card-head"
                                       >
                                         <div
-                                          class="ant-card-head-title"
+                                          class="ant-card-head-wrapper"
                                         >
-                                          <span
-                                            class="text-muted"
+                                          <div
+                                            class="ant-card-head-title"
                                           >
-                                            NASDAQ
-                                          </span>
+                                            <span
+                                              class="text-muted"
+                                            >
+                                              NASDAQ
+                                            </span>
+                                          </div>
                                         </div>
                                       </div>
-                                    </div>
-                                    <div
-                                      class="ant-card-body"
-                                    >
-                                      <h2>
-                                        GOOGL (Google)
-                                      </h2>
-                                      <div>
-                                        <span
-                                          class="h2 font-weight-bold"
-                                        >
-                                          2,789.61
-                                        </span>
-                                         
-                                        USD
-                                      </div>
-                                      <h5
-                                        class="text-success font-weight-bold"
+                                      <div
+                                        class="ant-card-body"
                                       >
-                                        +17.87 (0.64%)
-                                      </h5>
+                                        <h2>
+                                          GOOGL (Google)
+                                        </h2>
+                                        <div>
+                                          <span
+                                            class="h2 font-weight-bold"
+                                          >
+                                            2,789.61
+                                          </span>
+                                           
+                                          USD
+                                        </div>
+                                        <h5
+                                          class="text-success font-weight-bold"
+                                        >
+                                          +17.87 (0.64%)
+                                        </h5>
+                                      </div>
                                     </div>
                                   </div>
                                 </div>
                               </div>
                             </div>
-                          </div>
-                          <div
-                            aria-hidden="true"
-                            class="slick-slide slick-cloned"
-                            data-index="6"
-                            style="width: 0px;"
-                            tabindex="-1"
-                          >
-                            <div>
-                              <div
-                                style="width: 100%; display: inline-block;"
-                                tabindex="-1"
-                              >
+                            <div
+                              aria-hidden="true"
+                              class="slick-slide slick-cloned"
+                              data-index="6"
+                              style="width: 0px;"
+                              tabindex="-1"
+                            >
+                              <div>
                                 <div
-                                  class="stock-price-card-container"
+                                  style="width: 100%; display: inline-block;"
+                                  tabindex="-1"
                                 >
                                   <div
-                                    class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                    class="stock-price-card-container"
                                   >
                                     <div
-                                      class="ant-card-head"
+                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
                                     >
                                       <div
-                                        class="ant-card-head-wrapper"
+                                        class="ant-card-head"
                                       >
                                         <div
-                                          class="ant-card-head-title"
+                                          class="ant-card-head-wrapper"
                                         >
-                                          <span
-                                            class="text-muted"
+                                          <div
+                                            class="ant-card-head-title"
                                           >
-                                            NASDAQ
-                                          </span>
+                                            <span
+                                              class="text-muted"
+                                            >
+                                              NASDAQ
+                                            </span>
+                                          </div>
                                         </div>
                                       </div>
-                                    </div>
-                                    <div
-                                      class="ant-card-body"
-                                    >
-                                      <h2>
-                                        FB (Facebook)
-                                      </h2>
-                                      <div>
-                                        <span
-                                          class="h2 font-weight-bold"
-                                        >
-                                          331,90
-                                        </span>
-                                         
-                                        USD
-                                      </div>
-                                      <h5
-                                        class="text-success font-weight-bold"
+                                      <div
+                                        class="ant-card-body"
                                       >
-                                        +5.42 (1.66%)
-                                      </h5>
+                                        <h2>
+                                          FB (Facebook)
+                                        </h2>
+                                        <div>
+                                          <span
+                                            class="h2 font-weight-bold"
+                                          >
+                                            331,90
+                                          </span>
+                                           
+                                          USD
+                                        </div>
+                                        <h5
+                                          class="text-success font-weight-bold"
+                                        >
+                                          +5.42 (1.66%)
+                                        </h5>
+                                      </div>
                                     </div>
                                   </div>
                                 </div>
                               </div>
                             </div>
-                          </div>
-                          <div
-                            aria-hidden="true"
-                            class="slick-slide slick-cloned"
-                            data-index="7"
-                            style="width: 0px;"
-                            tabindex="-1"
-                          >
-                            <div>
-                              <div
-                                style="width: 100%; display: inline-block;"
-                                tabindex="-1"
-                              >
+                            <div
+                              aria-hidden="true"
+                              class="slick-slide slick-cloned"
+                              data-index="7"
+                              style="width: 0px;"
+                              tabindex="-1"
+                            >
+                              <div>
                                 <div
-                                  class="stock-price-card-container"
+                                  style="width: 100%; display: inline-block;"
+                                  tabindex="-1"
                                 >
                                   <div
-                                    class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                    class="stock-price-card-container"
                                   >
                                     <div
-                                      class="ant-card-head"
+                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
                                     >
                                       <div
-                                        class="ant-card-head-wrapper"
+                                        class="ant-card-head"
                                       >
                                         <div
-                                          class="ant-card-head-title"
+                                          class="ant-card-head-wrapper"
                                         >
-                                          <span
-                                            class="text-muted"
+                                          <div
+                                            class="ant-card-head-title"
                                           >
-                                            NASDAQ
-                                          </span>
+                                            <span
+                                              class="text-muted"
+                                            >
+                                              NASDAQ
+                                            </span>
+                                          </div>
                                         </div>
                                       </div>
-                                    </div>
-                                    <div
-                                      class="ant-card-body"
-                                    >
-                                      <h2>
-                                        AMZN (Amazon)
-                                      </h2>
-                                      <div>
-                                        <span
-                                          class="h2 font-weight-bold"
-                                        >
-                                          3,242.76
-                                        </span>
-                                         
-                                        USD
-                                      </div>
-                                      <h5
-                                        class="text-success font-weight-bold"
+                                      <div
+                                        class="ant-card-body"
                                       >
-                                        +18.48 (0.57%)
-                                      </h5>
+                                        <h2>
+                                          AMZN (Amazon)
+                                        </h2>
+                                        <div>
+                                          <span
+                                            class="h2 font-weight-bold"
+                                          >
+                                            3,242.76
+                                          </span>
+                                           
+                                          USD
+                                        </div>
+                                        <h5
+                                          class="text-success font-weight-bold"
+                                        >
+                                          +18.48 (0.57%)
+                                        </h5>
+                                      </div>
                                     </div>
                                   </div>
                                 </div>
@@ -4095,40 +4103,40 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                             </div>
                           </div>
                         </div>
+                        <ul
+                          class="slick-dots slick-dots-bottom"
+                          style="display: block;"
+                        >
+                          <li
+                            class="slick-active"
+                          >
+                            <button>
+                              1
+                            </button>
+                          </li>
+                          <li
+                            class=""
+                          >
+                            <button>
+                              2
+                            </button>
+                          </li>
+                          <li
+                            class=""
+                          >
+                            <button>
+                              3
+                            </button>
+                          </li>
+                          <li
+                            class=""
+                          >
+                            <button>
+                              4
+                            </button>
+                          </li>
+                        </ul>
                       </div>
-                      <ul
-                        class="slick-dots slick-dots-bottom"
-                        style="display: block;"
-                      >
-                        <li
-                          class="slick-active"
-                        >
-                          <button>
-                            1
-                          </button>
-                        </li>
-                        <li
-                          class=""
-                        >
-                          <button>
-                            2
-                          </button>
-                        </li>
-                        <li
-                          class=""
-                        >
-                          <button>
-                            3
-                          </button>
-                        </li>
-                        <li
-                          class=""
-                        >
-                          <button>
-                            4
-                          </button>
-                        </li>
-                      </ul>
                     </div>
                   </div>
                 </div>
