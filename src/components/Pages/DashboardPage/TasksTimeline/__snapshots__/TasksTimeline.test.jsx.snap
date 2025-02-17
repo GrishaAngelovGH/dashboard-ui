@@ -6,7 +6,7 @@ exports[`should render TasksTimeline component 1`] = `
   "baseElement": <body>
     <div>
       <ul
-        class="ant-timeline ant-timeline-label css-dev-only-do-not-override-1yacf91"
+        class="ant-timeline ant-timeline-label css-dev-only-do-not-override-19lec04"
       >
         <li
           class="ant-timeline-item ant-timeline-item-left"
@@ -169,7 +169,7 @@ exports[`should render TasksTimeline component 1`] = `
   </body>,
   "container": <div>
     <ul
-      class="ant-timeline ant-timeline-label css-dev-only-do-not-override-1yacf91"
+      class="ant-timeline ant-timeline-label css-dev-only-do-not-override-19lec04"
     >
       <li
         class="ant-timeline-item ant-timeline-item-left"

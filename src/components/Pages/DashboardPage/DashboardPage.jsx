@@ -1,6 +1,7 @@
-import { useEffect } from 'react'
+import Layout from 'components/Layout'
 
 import Menu from './Menu'
+
 import ProgressWidget from './ProgressWidget'
 import LineChart from './LineChart'
 import StatisticCards from './StatisticCards'
@@ -29,76 +30,65 @@ const stockPrices = [
 	{ id: 4, title: 'AMZN (Amazon)', value: '3,242.76', currency: 'USD', pricing: '+18.48 (0.57%)' }
 ]
 
-const DashboardPage = () => {
-	useEffect(() => {
-		window.scrollTo(0, 0)
-	}, [])
-
-	return (
-		<div className='row g-0'>
-			<div className='col-md-12'>
-
-				<div className='row g-0'>
-					<div className='col-md-12'>
-						<Menu />
+const Body = () => (
+	<>
+		<div className='row g-0 container mx-md-auto'>
+			{
+				progressWidgets.map(v => (
+					<div key={v.title} className='col-md-4 offset-md-3 offset-lg-0 mt-3'>
+						<ProgressWidget
+							title={v.title}
+							subtitle={v.subtitle}
+							value={v.value}
+							progress={v.progress}
+							label={v.label}
+						/>
 					</div>
-				</div>
+				))
+			}
+		</div>
 
-				<div className='row g-0 container mx-md-auto'>
-					{
-						progressWidgets.map(v => (
-							<div key={v.title} className='col-md-4 offset-md-3 offset-lg-0 mt-3'>
-								<ProgressWidget
-									title={v.title}
-									subtitle={v.subtitle}
-									value={v.value}
-									progress={v.progress}
-									label={v.label}
-								/>
-							</div>
-						))
-					}
-				</div>
-
-				<div className='row g-0 justify-content-center mt-3'>
-					<div className='col-md-8'>
-						<LineChart labels={lineChartLabels} datasets={lineChartDatasets} />
-					</div>
-				</div>
-
-				<div className='row g-0 bg-primary justify-content-center mt-3'>
-					<div className='col-md-12'>
-						<StatisticCards />
-					</div>
-				</div>
-
-				<div className='row g-0'>
-					<div className='col-md-12'>
-						<ActiveUsers />
-					</div>
-				</div>
-
-				<div className='row g-0 justify-content-center'>
-					<div className='col-md-10'>
-						<TableReport />
-					</div>
-				</div>
-
-				<div className='row g-0 justify-content-center'>
-					<div className='col-md-10'>
-						<h2 className='text-center'>Tasks Timeline</h2>
-						<TasksTimeline />
-					</div>
-				</div>
-
-				<div className='row g-0 justify-content-center mt-3 mb-3'>
-					<div className='col-md-12'>
-						<MarketSummary stockPrices={stockPrices} />
-					</div>
-				</div>
+		<div className='row g-0 justify-content-center mt-3'>
+			<div className='col-md-8'>
+				<LineChart labels={lineChartLabels} datasets={lineChartDatasets} />
 			</div>
 		</div>
-	)
-}
+
+		<div className='row g-0 bg-primary justify-content-center mt-3'>
+			<div className='col-md-12'>
+				<StatisticCards />
+			</div>
+		</div>
+
+		<div className='row g-0'>
+			<div className='col-md-12'>
+				<ActiveUsers />
+			</div>
+		</div>
+
+		<div className='row g-0 justify-content-center'>
+			<div className='col-md-10'>
+				<TableReport />
+			</div>
+		</div>
+
+		<div className='row g-0 justify-content-center'>
+			<div className='col-md-10'>
+				<h2 className='text-center'>Tasks Timeline</h2>
+				<TasksTimeline />
+			</div>
+		</div>
+
+		<div className='row g-0 justify-content-center mt-3 mb-3'>
+			<div className='col-md-12'>
+				<MarketSummary stockPrices={stockPrices} />
+			</div>
+		</div>
+	</>
+)
+
+const DashboardPage = () => (
+	<Layout header={<Menu />} body={<Body />} />
+)
 
 export default DashboardPage

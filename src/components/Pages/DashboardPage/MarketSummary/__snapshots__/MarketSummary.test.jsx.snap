@@ -17,7 +17,7 @@ exports[`should render MarketSummary component 1`] = `
             Market Summary
           </h2>
           <div
-            class="ant-carousel css-dev-only-do-not-override-1yacf91"
+            class="ant-carousel css-dev-only-do-not-override-19lec04"
           >
             <div
               class="slick-slider slick-initialized"
@@ -46,7 +46,7 @@ exports[`should render MarketSummary component 1`] = `
                           class="stock-price-card-container"
                         >
                           <div
-                            class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1yacf91"
+                            class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
                           >
                             <div
                               class="ant-card-head"
@@ -107,7 +107,7 @@ exports[`should render MarketSummary component 1`] = `
                           class="stock-price-card-container"
                         >
                           <div
-                            class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1yacf91"
+                            class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
                           >
                             <div
                               class="ant-card-head"
@@ -168,7 +168,7 @@ exports[`should render MarketSummary component 1`] = `
                           class="stock-price-card-container"
                         >
                           <div
-                            class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1yacf91"
+                            class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
                           >
                             <div
                               class="ant-card-head"
@@ -229,7 +229,7 @@ exports[`should render MarketSummary component 1`] = `
                           class="stock-price-card-container"
                         >
                           <div
-                            class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1yacf91"
+                            class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
                           >
                             <div
                               class="ant-card-head"
@@ -290,7 +290,7 @@ exports[`should render MarketSummary component 1`] = `
                           class="stock-price-card-container"
                         >
                           <div
-                            class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1yacf91"
+                            class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
                           >
                             <div
                               class="ant-card-head"
@@ -375,7 +375,7 @@ exports[`should render MarketSummary component 1`] = `
           Market Summary
         </h2>
         <div
-          class="ant-carousel css-dev-only-do-not-override-1yacf91"
+          class="ant-carousel css-dev-only-do-not-override-19lec04"
         >
           <div
             class="slick-slider slick-initialized"
@@ -404,7 +404,7 @@ exports[`should render MarketSummary component 1`] = `
                         class="stock-price-card-container"
                       >
                         <div
-                          class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1yacf91"
+                          class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
                         >
                           <div
                             class="ant-card-head"
@@ -465,7 +465,7 @@ exports[`should render MarketSummary component 1`] = `
                         class="stock-price-card-container"
                       >
                         <div
-                          class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1yacf91"
+                          class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
                         >
                           <div
                             class="ant-card-head"
@@ -526,7 +526,7 @@ exports[`should render MarketSummary component 1`] = `
                         class="stock-price-card-container"
                       >
                         <div
-                          class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1yacf91"
+                          class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
                         >
                           <div
                             class="ant-card-head"
@@ -587,7 +587,7 @@ exports[`should render MarketSummary component 1`] = `
                         class="stock-price-card-container"
                       >
                         <div
-                          class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1yacf91"
+                          class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
                         >
                           <div
                             class="ant-card-head"
@@ -648,7 +648,7 @@ exports[`should render MarketSummary component 1`] = `
                         class="stock-price-card-container"
                       >
                         <div
-                          class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1yacf91"
+                          class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
                         >
                           <div
                             class="ant-card-head"
