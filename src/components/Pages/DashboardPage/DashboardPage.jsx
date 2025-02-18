@@ -80,7 +80,7 @@ const Body = () => (
 		</div>
 
 		<div className='row g-0 justify-content-center mt-3 mb-3'>
-			<div className='col-md-12'>
+			<div className='col-md-7'>
 				<MarketSummary stockPrices={stockPrices} />
 			</div>
 		</div>
