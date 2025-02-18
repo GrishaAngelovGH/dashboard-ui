@@ -1,5 +1,5 @@
 import StatisticCard from './StatisticCard'
-import Row from 'antd/lib/row'
+import { Row } from 'antd'
 
 const StatisticCards = () => {
 	const statisticData = [

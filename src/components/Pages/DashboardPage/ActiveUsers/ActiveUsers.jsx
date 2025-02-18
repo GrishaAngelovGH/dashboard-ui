@@ -1,7 +1,5 @@
-import Statistic from 'antd/lib/statistic'
-import Row from 'antd/lib/row'
-import Col from 'antd/lib/col'
 import { LikeOutlined } from '@ant-design/icons'
+import { Col, Row, Statistic } from 'antd'
 
 const ActiveUsers = () => (
 	<div className='row g-0 justify-content-center text-center p-3'>
