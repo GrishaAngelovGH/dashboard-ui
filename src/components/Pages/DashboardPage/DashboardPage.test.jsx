@@ -1,4 +1,5 @@
 import { render } from '@testing-library/react'
+import { MemoryRouter } from 'react-router-dom'
 import { describe, expect, it, vi } from 'vitest'
 
 import DashboardPage from './DashboardPage'
@@ -29,7 +30,11 @@ window.scrollTo = vi.fn()
 
 describe('DashboardPage Component', () => {
 	it('should render DashboardPage component', () => {
-		const view = render(<DashboardPage />)
+		const view = render(
+			<MemoryRouter>
+				<DashboardPage />
+			</MemoryRouter>
+		)
 
 		expect(view).toMatchSnapshot()
 	})

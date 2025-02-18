@@ -19,7 +19,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
             >
               <a
                 class="navbar-brand"
-                href="#"
+                href="/"
               >
                 Dashboard UI
               </a>
@@ -2073,7 +2073,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
           >
             <a
               class="navbar-brand"
-              href="#"
+              href="/"
             >
               Dashboard UI
             </a>

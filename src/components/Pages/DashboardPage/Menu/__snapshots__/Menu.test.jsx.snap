@@ -10,7 +10,7 @@ exports[`should render Menu component 1`] = `
       >
         <a
           class="navbar-brand"
-          href="#"
+          href="/"
         >
           Dashboard UI
         </a>
@@ -105,7 +105,7 @@ exports[`should render Menu component 1`] = `
     >
       <a
         class="navbar-brand"
-        href="#"
+        href="/"
       >
         Dashboard UI
       </a>

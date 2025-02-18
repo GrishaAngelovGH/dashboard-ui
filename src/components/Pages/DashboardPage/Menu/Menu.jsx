@@ -2,7 +2,7 @@ import { Nav, Navbar } from 'react-bootstrap'
 
 const Menu = () => (
     <Navbar bg='nav-color' expand='lg'>
-        <Navbar.Brand href='#'>Dashboard UI</Navbar.Brand>
+        <Navbar.Brand href='/'>Dashboard UI</Navbar.Brand>
         <Navbar.Toggle aria-controls='basic-navbar-nav' />
         <Navbar.Collapse id='basic-navbar-nav'>
 

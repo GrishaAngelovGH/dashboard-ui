@@ -1,3 +1,6 @@
+import { useEffect } from 'react'
+import { useLocation } from 'react-router-dom'
+
 import Layout from 'components/Layout'
 
 import Menu from './Menu'
@@ -87,8 +90,16 @@ const Body = () => (
 	</>
 )
 
-const DashboardPage = () => (
-	<Layout header={<Menu />} body={<Body />} />
-)
+const DashboardPage = () => {
+	const { pathname } = useLocation()
+
+	useEffect(() => {
+		window.scrollTo(0, 0);
+	}, [pathname])
+
+	return (
+		<Layout header={<Menu />} body={<Body />} />
+	)
+}
 
 export default DashboardPage
