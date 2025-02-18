@@ -322,7 +322,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
               </div>
             </div>
             <div
-              class="row g-0 bg-primary justify-content-center mt-3"
+              class="row g-0 bg-primary mt-3"
             >
               <div
                 class="col-md-12"
@@ -334,7 +334,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                     class="col-md-10 ml-auto"
                   >
                     <div
-                      class="ant-row css-dev-only-do-not-override-19lec04"
+                      class="ant-row ant-row-center css-dev-only-do-not-override-19lec04"
                       style="margin-left: -2.5px; margin-right: -2.5px;"
                     >
                       <div
@@ -2394,7 +2394,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
             </div>
           </div>
           <div
-            class="row g-0 bg-primary justify-content-center mt-3"
+            class="row g-0 bg-primary mt-3"
           >
             <div
               class="col-md-12"
@@ -2406,7 +2406,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                   class="col-md-10 ml-auto"
                 >
                   <div
-                    class="ant-row css-dev-only-do-not-override-19lec04"
+                    class="ant-row ant-row-center css-dev-only-do-not-override-19lec04"
                     style="margin-left: -2.5px; margin-right: -2.5px;"
                   >
                     <div

@@ -720,7 +720,7 @@ exports[`should render component 1`] = `
                               <a
                                 class="d-block text-center text-uppercase link-button"
                                 data-discover="true"
-                                href="#/dashboard"
+                                href="/dashboard"
                               >
                                 Explore our features in the Online Demo
                               </a>
@@ -1454,7 +1454,7 @@ exports[`should render component 1`] = `
                             <a
                               class="d-block text-center text-uppercase link-button"
                               data-discover="true"
-                              href="#/dashboard"
+                              href="/dashboard"
                             >
                               Explore our features in the Online Demo
                             </a>

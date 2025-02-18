@@ -54,7 +54,7 @@ const Body = () => (
 			</div>
 		</div>
 
-		<div className='row g-0 bg-primary justify-content-center mt-3'>
+		<div className='row g-0 bg-primary mt-3'>
 			<div className='col-md-12'>
 				<StatisticCards />
 			</div>

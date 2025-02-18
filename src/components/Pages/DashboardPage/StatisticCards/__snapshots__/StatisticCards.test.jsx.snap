@@ -12,7 +12,7 @@ exports[`should render StatisticCards component 1`] = `
           class="col-md-10 ml-auto"
         >
           <div
-            class="ant-row css-dev-only-do-not-override-19lec04"
+            class="ant-row ant-row-center css-dev-only-do-not-override-19lec04"
             style="margin-left: -2.5px; margin-right: -2.5px;"
           >
             <div
@@ -373,7 +373,7 @@ exports[`should render StatisticCards component 1`] = `
         class="col-md-10 ml-auto"
       >
         <div
-          class="ant-row css-dev-only-do-not-override-19lec04"
+          class="ant-row ant-row-center css-dev-only-do-not-override-19lec04"
           style="margin-left: -2.5px; margin-right: -2.5px;"
         >
           <div

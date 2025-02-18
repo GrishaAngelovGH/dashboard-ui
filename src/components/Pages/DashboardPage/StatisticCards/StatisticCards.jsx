@@ -13,7 +13,7 @@ const StatisticCards = () => {
 	return (
 		<div className='row g-0 justify-content-center text-center p-3'>
 			<div className='col-md-10 ml-auto'>
-				<Row gutter={5}>
+				<Row gutter={5} justify='center'>
 					{
 						statisticData.map(v => (
 							<StatisticCard
