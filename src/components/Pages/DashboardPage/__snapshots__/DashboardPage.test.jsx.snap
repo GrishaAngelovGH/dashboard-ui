@@ -334,21 +334,21 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                     class="col-md-10 ml-auto"
                   >
                     <div
-                      class="ant-row ant-row-center css-dev-only-do-not-override-19lec04"
+                      class="ant-row ant-row-center css-dev-only-do-not-override-1odpy5d"
                       style="margin-left: -2.5px; margin-right: -2.5px;"
                     >
                       <div
-                        class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-19lec04"
+                        class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-1odpy5d"
                         style="padding-left: 2.5px; padding-right: 2.5px;"
                       >
                         <div
-                          class="ant-card ant-card-bordered css-dev-only-do-not-override-19lec04"
+                          class="ant-card ant-card-bordered css-dev-only-do-not-override-1odpy5d"
                         >
                           <div
                             class="ant-card-body"
                           >
                             <div
-                              class="ant-statistic css-dev-only-do-not-override-19lec04"
+                              class="ant-statistic css-dev-only-do-not-override-1odpy5d"
                             >
                               <div
                                 class="ant-statistic-title"
@@ -407,17 +407,17 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                         </div>
                       </div>
                       <div
-                        class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-19lec04"
+                        class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-1odpy5d"
                         style="padding-left: 2.5px; padding-right: 2.5px;"
                       >
                         <div
-                          class="ant-card ant-card-bordered css-dev-only-do-not-override-19lec04"
+                          class="ant-card ant-card-bordered css-dev-only-do-not-override-1odpy5d"
                         >
                           <div
                             class="ant-card-body"
                           >
                             <div
-                              class="ant-statistic css-dev-only-do-not-override-19lec04"
+                              class="ant-statistic css-dev-only-do-not-override-1odpy5d"
                             >
                               <div
                                 class="ant-statistic-title"
@@ -476,17 +476,17 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                         </div>
                       </div>
                       <div
-                        class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-19lec04"
+                        class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-1odpy5d"
                         style="padding-left: 2.5px; padding-right: 2.5px;"
                       >
                         <div
-                          class="ant-card ant-card-bordered css-dev-only-do-not-override-19lec04"
+                          class="ant-card ant-card-bordered css-dev-only-do-not-override-1odpy5d"
                         >
                           <div
                             class="ant-card-body"
                           >
                             <div
-                              class="ant-statistic css-dev-only-do-not-override-19lec04"
+                              class="ant-statistic css-dev-only-do-not-override-1odpy5d"
                             >
                               <div
                                 class="ant-statistic-title"
@@ -545,17 +545,17 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                         </div>
                       </div>
                       <div
-                        class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-19lec04"
+                        class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-1odpy5d"
                         style="padding-left: 2.5px; padding-right: 2.5px;"
                       >
                         <div
-                          class="ant-card ant-card-bordered css-dev-only-do-not-override-19lec04"
+                          class="ant-card ant-card-bordered css-dev-only-do-not-override-1odpy5d"
                         >
                           <div
                             class="ant-card-body"
                           >
                             <div
-                              class="ant-statistic css-dev-only-do-not-override-19lec04"
+                              class="ant-statistic css-dev-only-do-not-override-1odpy5d"
                             >
                               <div
                                 class="ant-statistic-title"
@@ -614,17 +614,17 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                         </div>
                       </div>
                       <div
-                        class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-19lec04"
+                        class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-1odpy5d"
                         style="padding-left: 2.5px; padding-right: 2.5px;"
                       >
                         <div
-                          class="ant-card ant-card-bordered css-dev-only-do-not-override-19lec04"
+                          class="ant-card ant-card-bordered css-dev-only-do-not-override-1odpy5d"
                         >
                           <div
                             class="ant-card-body"
                           >
                             <div
-                              class="ant-statistic css-dev-only-do-not-override-19lec04"
+                              class="ant-statistic css-dev-only-do-not-override-1odpy5d"
                             >
                               <div
                                 class="ant-statistic-title"
@@ -700,15 +700,15 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                     class="col-md-9 ml-auto"
                   >
                     <div
-                      class="ant-row css-dev-only-do-not-override-19lec04"
+                      class="ant-row css-dev-only-do-not-override-1odpy5d"
                       style="margin-left: -2.5px; margin-right: -2.5px;"
                     >
                       <div
-                        class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-19lec04"
+                        class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-1odpy5d"
                         style="padding-left: 2.5px; padding-right: 2.5px;"
                       >
                         <div
-                          class="ant-statistic css-dev-only-do-not-override-19lec04"
+                          class="ant-statistic css-dev-only-do-not-override-1odpy5d"
                         >
                           <div
                             class="ant-statistic-title"
@@ -731,11 +731,11 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                         </div>
                       </div>
                       <div
-                        class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-19lec04"
+                        class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-1odpy5d"
                         style="padding-left: 2.5px; padding-right: 2.5px;"
                       >
                         <div
-                          class="ant-statistic css-dev-only-do-not-override-19lec04"
+                          class="ant-statistic css-dev-only-do-not-override-1odpy5d"
                         >
                           <div
                             class="ant-statistic-title"
@@ -763,11 +763,11 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                         </div>
                       </div>
                       <div
-                        class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-19lec04"
+                        class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-1odpy5d"
                         style="padding-left: 2.5px; padding-right: 2.5px;"
                       >
                         <div
-                          class="ant-statistic css-dev-only-do-not-override-19lec04"
+                          class="ant-statistic css-dev-only-do-not-override-1odpy5d"
                         >
                           <div
                             class="ant-statistic-title"
@@ -813,11 +813,11 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                         </div>
                       </div>
                       <div
-                        class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-19lec04"
+                        class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-1odpy5d"
                         style="padding-left: 2.5px; padding-right: 2.5px;"
                       >
                         <div
-                          class="ant-statistic css-dev-only-do-not-override-19lec04"
+                          class="ant-statistic css-dev-only-do-not-override-1odpy5d"
                         >
                           <div
                             class="ant-statistic-title"
@@ -856,16 +856,16 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                 class="col-md-10"
               >
                 <div
-                  class="ant-table-wrapper css-dev-only-do-not-override-19lec04"
+                  class="ant-table-wrapper css-dev-only-do-not-override-1odpy5d"
                 >
                   <div
-                    class="ant-spin-nested-loading css-dev-only-do-not-override-19lec04"
+                    class="ant-spin-nested-loading css-dev-only-do-not-override-1odpy5d"
                   >
                     <div
                       class="ant-spin-container"
                     >
                       <div
-                        class="ant-table ant-table-bordered css-dev-only-do-not-override-19lec04"
+                        class="ant-table ant-table-bordered css-dev-only-do-not-override-1odpy5d"
                       >
                         <div
                           class="ant-table-container"
@@ -876,7 +876,6 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                             <table
                               style="table-layout: auto;"
                             >
-                              <colgroup />
                               <thead
                                 class="ant-table-thead"
                               >
@@ -1190,7 +1189,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                         </div>
                       </div>
                       <ul
-                        class="ant-pagination ant-table-pagination ant-table-pagination-right css-dev-only-do-not-override-19lec04"
+                        class="ant-pagination ant-table-pagination ant-table-pagination-right css-dev-only-do-not-override-1odpy5d"
                       >
                         <li
                           aria-disabled="true"
@@ -1284,8 +1283,8 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                 >
                   Tasks Timeline
                 </h2>
-                <ul
-                  class="ant-timeline ant-timeline-alternate css-dev-only-do-not-override-19lec04"
+                <ol
+                  class="ant-timeline ant-timeline-alternate css-dev-only-do-not-override-1odpy5d"
                 >
                   <li
                     class="ant-timeline-item ant-timeline-item-left"
@@ -1425,7 +1424,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                       Lorem ipsum dolor sit amet.
                     </div>
                   </li>
-                </ul>
+                </ol>
               </div>
             </div>
             <div
@@ -1449,7 +1448,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                       style="width: 800px;"
                     >
                       <div
-                        class="ant-carousel css-dev-only-do-not-override-19lec04"
+                        class="ant-carousel css-dev-only-do-not-override-1odpy5d"
                       >
                         <div
                           class="slick-slider slick-initialized"
@@ -1460,7 +1459,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                           >
                             <div
                               class="slick-track"
-                              style="opacity: 1; transform: translate3d(0px, 0px, 0px);"
+                              style="opacity: 1; -webkit-transform: translate3d(0px, 0px, 0px); transform: translate3d(0px, 0px, 0px);"
                             >
                               <div
                                 aria-hidden="true"
@@ -1478,7 +1477,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                                       class="stock-price-card-container"
                                     >
                                       <div
-                                        class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                        class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1odpy5d"
                                       >
                                         <div
                                           class="ant-card-head"
@@ -1539,7 +1538,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                                       class="stock-price-card-container"
                                     >
                                       <div
-                                        class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                        class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1odpy5d"
                                       >
                                         <div
                                           class="ant-card-head"
@@ -1600,7 +1599,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                                       class="stock-price-card-container"
                                     >
                                       <div
-                                        class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                        class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1odpy5d"
                                       >
                                         <div
                                           class="ant-card-head"
@@ -1661,7 +1660,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                                       class="stock-price-card-container"
                                     >
                                       <div
-                                        class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                        class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1odpy5d"
                                       >
                                         <div
                                           class="ant-card-head"
@@ -1722,7 +1721,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                                       class="stock-price-card-container"
                                     >
                                       <div
-                                        class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                        class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1odpy5d"
                                       >
                                         <div
                                           class="ant-card-head"
@@ -1783,7 +1782,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                                       class="stock-price-card-container"
                                     >
                                       <div
-                                        class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                        class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1odpy5d"
                                       >
                                         <div
                                           class="ant-card-head"
@@ -1844,7 +1843,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                                       class="stock-price-card-container"
                                     >
                                       <div
-                                        class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                        class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1odpy5d"
                                       >
                                         <div
                                           class="ant-card-head"
@@ -1905,7 +1904,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                                       class="stock-price-card-container"
                                     >
                                       <div
-                                        class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                        class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1odpy5d"
                                       >
                                         <div
                                           class="ant-card-head"
@@ -1966,7 +1965,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                                       class="stock-price-card-container"
                                     >
                                       <div
-                                        class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                        class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1odpy5d"
                                       >
                                         <div
                                           class="ant-card-head"
@@ -2388,21 +2387,21 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                   class="col-md-10 ml-auto"
                 >
                   <div
-                    class="ant-row ant-row-center css-dev-only-do-not-override-19lec04"
+                    class="ant-row ant-row-center css-dev-only-do-not-override-1odpy5d"
                     style="margin-left: -2.5px; margin-right: -2.5px;"
                   >
                     <div
-                      class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-19lec04"
+                      class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-1odpy5d"
                       style="padding-left: 2.5px; padding-right: 2.5px;"
                     >
                       <div
-                        class="ant-card ant-card-bordered css-dev-only-do-not-override-19lec04"
+                        class="ant-card ant-card-bordered css-dev-only-do-not-override-1odpy5d"
                       >
                         <div
                           class="ant-card-body"
                         >
                           <div
-                            class="ant-statistic css-dev-only-do-not-override-19lec04"
+                            class="ant-statistic css-dev-only-do-not-override-1odpy5d"
                           >
                             <div
                               class="ant-statistic-title"
@@ -2461,17 +2460,17 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                       </div>
                     </div>
                     <div
-                      class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-19lec04"
+                      class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-1odpy5d"
                       style="padding-left: 2.5px; padding-right: 2.5px;"
                     >
                       <div
-                        class="ant-card ant-card-bordered css-dev-only-do-not-override-19lec04"
+                        class="ant-card ant-card-bordered css-dev-only-do-not-override-1odpy5d"
                       >
                         <div
                           class="ant-card-body"
                         >
                           <div
-                            class="ant-statistic css-dev-only-do-not-override-19lec04"
+                            class="ant-statistic css-dev-only-do-not-override-1odpy5d"
                           >
                             <div
                               class="ant-statistic-title"
@@ -2530,17 +2529,17 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                       </div>
                     </div>
                     <div
-                      class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-19lec04"
+                      class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-1odpy5d"
                       style="padding-left: 2.5px; padding-right: 2.5px;"
                     >
                       <div
-                        class="ant-card ant-card-bordered css-dev-only-do-not-override-19lec04"
+                        class="ant-card ant-card-bordered css-dev-only-do-not-override-1odpy5d"
                       >
                         <div
                           class="ant-card-body"
                         >
                           <div
-                            class="ant-statistic css-dev-only-do-not-override-19lec04"
+                            class="ant-statistic css-dev-only-do-not-override-1odpy5d"
                           >
                             <div
                               class="ant-statistic-title"
@@ -2599,17 +2598,17 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                       </div>
                     </div>
                     <div
-                      class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-19lec04"
+                      class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-1odpy5d"
                       style="padding-left: 2.5px; padding-right: 2.5px;"
                     >
                       <div
-                        class="ant-card ant-card-bordered css-dev-only-do-not-override-19lec04"
+                        class="ant-card ant-card-bordered css-dev-only-do-not-override-1odpy5d"
                       >
                         <div
                           class="ant-card-body"
                         >
                           <div
-                            class="ant-statistic css-dev-only-do-not-override-19lec04"
+                            class="ant-statistic css-dev-only-do-not-override-1odpy5d"
                           >
                             <div
                               class="ant-statistic-title"
@@ -2668,17 +2667,17 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                       </div>
                     </div>
                     <div
-                      class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-19lec04"
+                      class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-1odpy5d"
                       style="padding-left: 2.5px; padding-right: 2.5px;"
                     >
                       <div
-                        class="ant-card ant-card-bordered css-dev-only-do-not-override-19lec04"
+                        class="ant-card ant-card-bordered css-dev-only-do-not-override-1odpy5d"
                       >
                         <div
                           class="ant-card-body"
                         >
                           <div
-                            class="ant-statistic css-dev-only-do-not-override-19lec04"
+                            class="ant-statistic css-dev-only-do-not-override-1odpy5d"
                           >
                             <div
                               class="ant-statistic-title"
@@ -2754,15 +2753,15 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                   class="col-md-9 ml-auto"
                 >
                   <div
-                    class="ant-row css-dev-only-do-not-override-19lec04"
+                    class="ant-row css-dev-only-do-not-override-1odpy5d"
                     style="margin-left: -2.5px; margin-right: -2.5px;"
                   >
                     <div
-                      class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-19lec04"
+                      class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-1odpy5d"
                       style="padding-left: 2.5px; padding-right: 2.5px;"
                     >
                       <div
-                        class="ant-statistic css-dev-only-do-not-override-19lec04"
+                        class="ant-statistic css-dev-only-do-not-override-1odpy5d"
                       >
                         <div
                           class="ant-statistic-title"
@@ -2785,11 +2784,11 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                       </div>
                     </div>
                     <div
-                      class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-19lec04"
+                      class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-1odpy5d"
                       style="padding-left: 2.5px; padding-right: 2.5px;"
                     >
                       <div
-                        class="ant-statistic css-dev-only-do-not-override-19lec04"
+                        class="ant-statistic css-dev-only-do-not-override-1odpy5d"
                       >
                         <div
                           class="ant-statistic-title"
@@ -2817,11 +2816,11 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                       </div>
                     </div>
                     <div
-                      class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-19lec04"
+                      class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-1odpy5d"
                       style="padding-left: 2.5px; padding-right: 2.5px;"
                     >
                       <div
-                        class="ant-statistic css-dev-only-do-not-override-19lec04"
+                        class="ant-statistic css-dev-only-do-not-override-1odpy5d"
                       >
                         <div
                           class="ant-statistic-title"
@@ -2867,11 +2866,11 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                       </div>
                     </div>
                     <div
-                      class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-19lec04"
+                      class="ant-col ant-col-4 ant-col-xs-12 ant-col-sm-9 ant-col-lg-4 css-dev-only-do-not-override-1odpy5d"
                       style="padding-left: 2.5px; padding-right: 2.5px;"
                     >
                       <div
-                        class="ant-statistic css-dev-only-do-not-override-19lec04"
+                        class="ant-statistic css-dev-only-do-not-override-1odpy5d"
                       >
                         <div
                           class="ant-statistic-title"
@@ -2910,16 +2909,16 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
               class="col-md-10"
             >
               <div
-                class="ant-table-wrapper css-dev-only-do-not-override-19lec04"
+                class="ant-table-wrapper css-dev-only-do-not-override-1odpy5d"
               >
                 <div
-                  class="ant-spin-nested-loading css-dev-only-do-not-override-19lec04"
+                  class="ant-spin-nested-loading css-dev-only-do-not-override-1odpy5d"
                 >
                   <div
                     class="ant-spin-container"
                   >
                     <div
-                      class="ant-table ant-table-bordered css-dev-only-do-not-override-19lec04"
+                      class="ant-table ant-table-bordered css-dev-only-do-not-override-1odpy5d"
                     >
                       <div
                         class="ant-table-container"
@@ -2930,7 +2929,6 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                           <table
                             style="table-layout: auto;"
                           >
-                            <colgroup />
                             <thead
                               class="ant-table-thead"
                             >
@@ -3244,7 +3242,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                       </div>
                     </div>
                     <ul
-                      class="ant-pagination ant-table-pagination ant-table-pagination-right css-dev-only-do-not-override-19lec04"
+                      class="ant-pagination ant-table-pagination ant-table-pagination-right css-dev-only-do-not-override-1odpy5d"
                     >
                       <li
                         aria-disabled="true"
@@ -3338,8 +3336,8 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
               >
                 Tasks Timeline
               </h2>
-              <ul
-                class="ant-timeline ant-timeline-alternate css-dev-only-do-not-override-19lec04"
+              <ol
+                class="ant-timeline ant-timeline-alternate css-dev-only-do-not-override-1odpy5d"
               >
                 <li
                   class="ant-timeline-item ant-timeline-item-left"
@@ -3479,7 +3477,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                     Lorem ipsum dolor sit amet.
                   </div>
                 </li>
-              </ul>
+              </ol>
             </div>
           </div>
           <div
@@ -3503,7 +3501,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                     style="width: 800px;"
                   >
                     <div
-                      class="ant-carousel css-dev-only-do-not-override-19lec04"
+                      class="ant-carousel css-dev-only-do-not-override-1odpy5d"
                     >
                       <div
                         class="slick-slider slick-initialized"
@@ -3514,7 +3512,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                         >
                           <div
                             class="slick-track"
-                            style="opacity: 1; transform: translate3d(0px, 0px, 0px);"
+                            style="opacity: 1; -webkit-transform: translate3d(0px, 0px, 0px); transform: translate3d(0px, 0px, 0px);"
                           >
                             <div
                               aria-hidden="true"
@@ -3532,7 +3530,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                                     class="stock-price-card-container"
                                   >
                                     <div
-                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1odpy5d"
                                     >
                                       <div
                                         class="ant-card-head"
@@ -3593,7 +3591,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                                     class="stock-price-card-container"
                                   >
                                     <div
-                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1odpy5d"
                                     >
                                       <div
                                         class="ant-card-head"
@@ -3654,7 +3652,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                                     class="stock-price-card-container"
                                   >
                                     <div
-                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1odpy5d"
                                     >
                                       <div
                                         class="ant-card-head"
@@ -3715,7 +3713,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                                     class="stock-price-card-container"
                                   >
                                     <div
-                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1odpy5d"
                                     >
                                       <div
                                         class="ant-card-head"
@@ -3776,7 +3774,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                                     class="stock-price-card-container"
                                   >
                                     <div
-                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1odpy5d"
                                     >
                                       <div
                                         class="ant-card-head"
@@ -3837,7 +3835,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                                     class="stock-price-card-container"
                                   >
                                     <div
-                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1odpy5d"
                                     >
                                       <div
                                         class="ant-card-head"
@@ -3898,7 +3896,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                                     class="stock-price-card-container"
                                   >
                                     <div
-                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1odpy5d"
                                     >
                                       <div
                                         class="ant-card-head"
@@ -3959,7 +3957,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                                     class="stock-price-card-container"
                                   >
                                     <div
-                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1odpy5d"
                                     >
                                       <div
                                         class="ant-card-head"
@@ -4020,7 +4018,7 @@ exports[`DashboardPage Component > should render DashboardPage component 1`] = `
                                     class="stock-price-card-container"
                                   >
                                     <div
-                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+                                      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1odpy5d"
                                     >
                                       <div
                                         class="ant-card-head"

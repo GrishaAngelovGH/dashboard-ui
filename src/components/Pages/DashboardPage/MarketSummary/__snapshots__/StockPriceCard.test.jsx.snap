@@ -6,7 +6,7 @@ exports[`should render StockPriceCard component 1`] = `
   "baseElement": <body>
     <div>
       <div
-        class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+        class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1odpy5d"
       >
         <div
           class="ant-card-head"
@@ -51,7 +51,7 @@ exports[`should render StockPriceCard component 1`] = `
   </body>,
   "container": <div>
     <div
-      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-19lec04"
+      class="ant-card ant-card-bordered stock-price-card css-dev-only-do-not-override-1odpy5d"
     >
       <div
         class="ant-card-head"

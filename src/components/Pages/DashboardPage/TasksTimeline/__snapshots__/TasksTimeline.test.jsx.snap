@@ -5,8 +5,8 @@ exports[`should render TasksTimeline component 1`] = `
   "asFragment": [Function],
   "baseElement": <body>
     <div>
-      <ul
-        class="ant-timeline ant-timeline-alternate css-dev-only-do-not-override-19lec04"
+      <ol
+        class="ant-timeline ant-timeline-alternate css-dev-only-do-not-override-1odpy5d"
       >
         <li
           class="ant-timeline-item ant-timeline-item-left"
@@ -146,12 +146,12 @@ exports[`should render TasksTimeline component 1`] = `
             Lorem ipsum dolor sit amet.
           </div>
         </li>
-      </ul>
+      </ol>
     </div>
   </body>,
   "container": <div>
-    <ul
-      class="ant-timeline ant-timeline-alternate css-dev-only-do-not-override-19lec04"
+    <ol
+      class="ant-timeline ant-timeline-alternate css-dev-only-do-not-override-1odpy5d"
     >
       <li
         class="ant-timeline-item ant-timeline-item-left"
@@ -291,7 +291,7 @@ exports[`should render TasksTimeline component 1`] = `
           Lorem ipsum dolor sit amet.
         </div>
       </li>
-    </ul>
+    </ol>
   </div>,
   "debug": [Function],
   "findAllByAltText": [Function],

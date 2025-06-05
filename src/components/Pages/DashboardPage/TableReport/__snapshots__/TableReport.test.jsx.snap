@@ -6,16 +6,16 @@ exports[`should render TableReport component 1`] = `
   "baseElement": <body>
     <div>
       <div
-        class="ant-table-wrapper css-dev-only-do-not-override-19lec04"
+        class="ant-table-wrapper css-dev-only-do-not-override-1odpy5d"
       >
         <div
-          class="ant-spin-nested-loading css-dev-only-do-not-override-19lec04"
+          class="ant-spin-nested-loading css-dev-only-do-not-override-1odpy5d"
         >
           <div
             class="ant-spin-container"
           >
             <div
-              class="ant-table ant-table-bordered css-dev-only-do-not-override-19lec04"
+              class="ant-table ant-table-bordered css-dev-only-do-not-override-1odpy5d"
             >
               <div
                 class="ant-table-container"
@@ -26,7 +26,6 @@ exports[`should render TableReport component 1`] = `
                   <table
                     style="table-layout: auto;"
                   >
-                    <colgroup />
                     <thead
                       class="ant-table-thead"
                     >
@@ -340,7 +339,7 @@ exports[`should render TableReport component 1`] = `
               </div>
             </div>
             <ul
-              class="ant-pagination ant-table-pagination ant-table-pagination-right css-dev-only-do-not-override-19lec04"
+              class="ant-pagination ant-table-pagination ant-table-pagination-right css-dev-only-do-not-override-1odpy5d"
             >
               <li
                 aria-disabled="true"
@@ -425,16 +424,16 @@ exports[`should render TableReport component 1`] = `
   </body>,
   "container": <div>
     <div
-      class="ant-table-wrapper css-dev-only-do-not-override-19lec04"
+      class="ant-table-wrapper css-dev-only-do-not-override-1odpy5d"
     >
       <div
-        class="ant-spin-nested-loading css-dev-only-do-not-override-19lec04"
+        class="ant-spin-nested-loading css-dev-only-do-not-override-1odpy5d"
       >
         <div
           class="ant-spin-container"
         >
           <div
-            class="ant-table ant-table-bordered css-dev-only-do-not-override-19lec04"
+            class="ant-table ant-table-bordered css-dev-only-do-not-override-1odpy5d"
           >
             <div
               class="ant-table-container"
@@ -445,7 +444,6 @@ exports[`should render TableReport component 1`] = `
                 <table
                   style="table-layout: auto;"
                 >
-                  <colgroup />
                   <thead
                     class="ant-table-thead"
                   >
@@ -759,7 +757,7 @@ exports[`should render TableReport component 1`] = `
             </div>
           </div>
           <ul
-            class="ant-pagination ant-table-pagination ant-table-pagination-right css-dev-only-do-not-override-19lec04"
+            class="ant-pagination ant-table-pagination ant-table-pagination-right css-dev-only-do-not-override-1odpy5d"
           >
             <li
               aria-disabled="true"
